@@ -1,0 +1,13 @@
+{
+  "requestedUrl": "https://weatherspark.com/y/23442/Average-Weather-in-Momp%C3%B3s-Colombia-Year-Round",
+  "finalUrl": "https://weatherspark.com/y/23442/Average-Weather-in-Momp%C3%B3s-Colombia-Year-Round",
+  "title": "Mompós Climate, Weather By Month, Average Temperature (Colombia)",
+  "publishedTime": "",
+  "textFile": "/home/z/my-project/research/page-weatherspark-com-y-23442-average-weather-in-momp-c3-b3s-colombia-year-round-2026-06-28T22-27-27.txt",
+  "textLength": 31036,
+  "htmlLength": 1507006,
+  "usage": {
+    "tokens": 886599
+  },
+  "fetchedAt": "2026-06-28T22:27:27.210Z"
+}

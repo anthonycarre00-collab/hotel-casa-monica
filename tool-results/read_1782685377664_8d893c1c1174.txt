@@ -1,0 +1,400 @@
+     1→
+     2→>>> Searching: "Casa Monica" Mompox Colombia hotel
+     3→
+     4→===== QUERY: "Casa Monica" Mompox Colombia hotel =====
+     5→  1. Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia
+     6→     URL : https://hotelesbeijing.com.co/hotel/hotel-casa-monica
+     7→     Host: hotelesbeijing.com.co | Date: 
+     8→     Snip: Las habitaciones de Hotel Casa Mónica se describen como espacios de tamaño moderado, suficientes para descansar con comodidad, sin exceso de metros pero tampoco ...
+     9→  2. MG-TD 1951 in Arecibo - Facebook
+    10→     URL : https://www.facebook.com/aacapr/posts/mg-td-1951-in-arecibo/1202684039901255
+    11→     Host: www.facebook.com | Date: 
+    12→     Snip: “Me and my tomato red MG-TD, Hotel Del Coronado, San Diego, California, circa 1953. ... We were in Mompox, Colombia to take this great shot! ... Casa Monica Resort/ ...
+    13→  3. Saint Augustine Mother Monica Stained Glass Cathedral Saint
+    14→     URL : https://www.dreamstime.com/saint-augustine-mother-monica-stained-glass-cathedral-saint-augustine-florida-saint-augustine-saint-monica-stained-glass-cathedral-image236470989
+    15→     Host: www.dreamstime.com | Date: 
+    16→     Snip: ... Hotel Monica · Casa Monica Hotel · Monica Mother · Santa Monica · Santa · California ... Basilica of Saint Augustine in Santa Cruz ...
+    17→  4. سانت أوغستين، فلوريدا - St. Augustine, Florida - المعرفة
+    18→     URL : https://www.marefa.org/%D8%B3%D8%A7%D9%86%D8%AA_%D8%A3%D9%88%D8%BA%D8%B3%D8%AA%D9%8A%D9%86%D8%8C_%D9%81%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D8%A7
+    19→     Host: www.marefa.org | Date: 
+    20→     Snip: The next year, he purchased the Casa Monica Hotel (renaming it the Cordova Hotel) across the street from both the Alcazar and the Ponce de Leon. His chosen ...
+    21→  5. Savannah City Night Imágenes y Fotos - 123RF
+    22→     URL : https://fr.123rf.com/images-libres-de-droits/savannah_city_night.html
+    23→     Host: fr.123rf.com | Date: 
+    24→     Snip: Le Casa Monica Hôtel de nuit à St. Augustine ...
+    25→  6. Hola viajeros. Tengo una XTZ150 y estoy planeando hacer una ruta
+    26→     URL : https://www.facebook.com/groups/125611632771420/posts/753841359948441
+    27→     Host: www.facebook.com | Date: 
+    28→     Snip: Hotel CASA MONICA en Google aparece queda detras de Iglesia Santa Barbara (a menas para iniciar el recorrido caminando por la Albarrada a ...
+    29→  7. Saint Augustine Cityscape Decorated with Christmas Lights at Night
+    30→     URL : https://www.dreamstime.com/saint-augustine-cityscape-decorated-christmas-lights-night-saint-augustine-cityscape-decorated-christmas-lights-image262438333
+    31→     Host: www.dreamstime.com | Date: 
+    32→     Snip: ... Basilica of Saint Augustine in Santa Cruz ... Exterior of Casa Monica Hotel in ...
+    33→  8. Basilica in the City Center of Buga Colombia Editorial Photo
+    34→     URL : https://www.dreamstime.com/editorial-photo-basilica-city-center-buga-colombia-july-valle-de-cauca-lord-miracles-receiving-three-million-pilgrims-each-year-image96900851
+    35→     Host: www.dreamstime.com | Date: 
+    36→     Snip: ... Casa Monica in St Augustine royalty free stock image · Casa Monica in St Augustine.
+    37→  (total: 8)
+    38→
+    39→>>> Searching: "Casa Monica" Mompos Bolivar hotel habitaciones
+    40→
+    41→===== QUERY: "Casa Monica" Mompos Bolivar hotel habitaciones =====
+    42→  1. Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia
+    43→     URL : https://hotelesbeijing.com.co/hotel/hotel-casa-monica
+    44→     Host: hotelesbeijing.com.co | Date: 
+    45→     Snip: Las habitaciones de Hotel Casa Mónica se describen como espacios de tamaño moderado, suficientes para descansar con comodidad, sin exceso de metros pero tampoco ...
+    46→  2. Bolivar Establecimientos De Hospitalidad Restaurantes
+    47→     URL : https://www.revistalabarra.com/bolivar/restaurantes?page=58
+    48→     Host: www.revistalabarra.com | Date: 
+    49→     Snip: Hotel Casa Mónica ofrece una experiencia única de hospedaje en Santa Cruz de Mompox, Mompós, Bolivar. Este hotel destaca por su atención al ...
+    50→  3. Hoteles en Santa Cruz de Mompox
+    51→     URL : https://hotelesbeijing.com.co/ubicacion/bolivar/mompos/santa-cruz-de-mompox/page/3
+    52→     Host: hotelesbeijing.com.co | Date: 
+    53→     Snip: Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...
+    54→  4. Find Bolívar LA BARRA HORECA News, Reviews, and Information
+    55→     URL : https://www.revistalabarra.com/bol%C3%ADvar?page=58
+    56→     Host: www.revistalabarra.com | Date: Jun 25, 2026
+    57→     Snip: Este hotel destaca por sus elegantes habitaciones y suites, ubicadas en dos edific ... Hotel Casa Mónica ofrece una experiencia única de hospedaje ...
+    58→  5. Hoteles en Bolívar
+    59→     URL : https://hotelesbeijing.com.co/ubicacion/bolivar/page/94
+    60→     Host: hotelesbeijing.com.co | Date: 
+    61→     Snip: Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...
+    62→  6. plan de desarrollo turístico del departamento de sucre 2012 – 2015
+    63→     URL : https://www.academia.edu/36509724/PLAN_DE_DESARROLLO_TUR%C3%8DSTICO_DEL_DEPARTAMENTO_DE_SUCRE_2012_2015
+    64→     Host: www.academia.edu | Date: 
+    65→     Snip: C 32 32876 Activo 3108454931 VACACIONAL CASA MONICA P. 2 APTO. BLANCA 302 CL ... Habitaciones promedio en hoteles de Tolú y Coveñas Número de habitaciones ...
+    66→  7. - Find & Compare LA BARRA HORECA Profesional Mostrando
+    67→     URL : https://www.revistalabarra.com/search_results?page=1467
+    68→     Host: www.revistalabarra.com | Date: 
+    69→     Snip: Hotel Casa Mónica ofrece una experiencia única de hospedaje en Santa Cruz de Mompox, Mompós, Bolivar. Este hotel destaca por su atención al cliente y su ...
+    70→  8. Cabaña Valle De La Laguna - Hoteles en Colombia
+    71→     URL : https://hotelesbeijing.com.co/hotel/cabana-valle-de-la-laguna-six-bedroom-house
+    72→     Host: hotelesbeijing.com.co | Date: 
+    73→     Snip: Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...
+    74→  (total: 8)
+    75→
+    76→>>> Searching: casamonicamompox Instagram Mompox
+    77→
+    78→===== QUERY: casamonicamompox Instagram Mompox =====
+    79→  1. Photo by Hotel Casa Mónica Mompox (@casamonicamompox
+    80→     URL : https://www.instagram.com/p/DMfa5douucR
+    81→     Host: www.instagram.com | Date: 
+    82→     Snip: Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. Bendiciones y grandes éxitos para ti, José David, son los deseos de Casa Mónica.
+    83→  2. ColombiaOne | Mompox Filigree: Colombia's Artistic Heritage
+    84→     URL : https://www.instagram.com/reel/DJUURCyOR92
+    85→     Host: www.instagram.com | Date: 
+    86→     Snip: Tienda Mompox Mompox-Bali Boli aonc ነድቱት designs that customers diseños 2- que nos envien . la Tiend de ... © 2026 Instagram from Meta.
+    87→  3. Hotel Casa Mónica Mompox (@casamonicamompox  - Instagram
+    88→     URL : https://www.instagram.com/casamonicamompox/reels
+    89→     Host: www.instagram.com | Date: 
+    90→     Snip: Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. · Estamos ubicados en Santa Bárbara, entre calle del medio y calle de atrás. · Casa ...
+    91→  4. Mompox no es una sola cosa es todo lo que se siente al estar aquí
+    92→     URL : https://www.instagram.com/reel/DYsxQUKjvQC
+    93→     Host: www.instagram.com | Date: 
+    94→     Snip: Santa Cruz de Mompox. Aquí el río Magdalena marca el ritmo, sin prisa. La arquitectura colonial sigue intacta y las iglesias es un icono de este ...
+    95→  5. Mompox is where Gabriel García Márquez's magical realism comes
+    96→     URL : https://www.instagram.com/p/DYXX_OADiOz
+    97→     Host: www.instagram.com | Date: 
+    98→     Snip: Mompox is where Gabriel García Márquez's magical realism comes to life 🕰️✨ This UNESCO World Heritage town on the banks of the Magdalena River ...
+    99→  6. Mompox.. siempre me han inspirado sus calles paisajes de
+   100→     URL : https://www.instagram.com/p/Cm0be43OGOp
+   101→     Host: www.instagram.com | Date: 
+   102→     Snip: Mompox….. siempre me han inspirado sus calles paisajes de poesías.. hoy a ponerle la música para adornarlas ... © 2026 Instagram from Meta.
+   103→  7. Mompox Filigree Jewlery- Colombia is also known for its gold and its
+   104→     URL : https://www.instagram.com/p/C329igiu3W7
+   105→     Host: www.instagram.com | Date: 
+   106→     Snip: In this quaint town of Mompox, a Unesco world heritage site, you will find artisans devoted to this craft. It is impossible not to hear the ...
+   107→  8. Colombia: * MOMPOX EN MI INSTAGRAM - FOTOS
+   108→     URL : http://mompoxcolombia.blogspot.com/p/mompox-en-mi-instagram-todas-las-fotos.html
+   109→     Host: mompoxcolombia.blogspot.com | Date: 
+   110→     Snip: Conozca Mompox y su cultura desde casa de esta manera: 1. Tour virtual historico, cultural, religioso y arquitectónico por Mompox.
+   111→  (total: 8)
+   112→
+   113→>>> Searching: Hotel Casa Monica Mompos Colombia precio contacto
+   114→
+   115→===== QUERY: Hotel Casa Monica Mompos Colombia precio contacto =====
+   116→  1. Hotel Casa Mónica Mompox (@casamonicamompox) - Instagram
+   117→     URL : https://www.instagram.com/casamonicamompox
+   118→     Host: www.instagram.com | Date: 
+   119→     Snip: Hotel Casa Mónica Mompox (@casamonicamompox) Estamos ubicados en Santa Bárbara, entre calle del medio y calle de atrás. Ven
+   120→  2. Hotel Villa de Mompox - Trivago
+   121→     URL : https://www.trivago.com/en-US/oar/hotel-villa-de-mompox-santa-cruz-de-mompox?search=100-4092644
+   122→     Host: www.trivago.com | Date: 
+   123→     Snip: Compare hotel prices and find an amazing price for the Hotel Villa de Mompox Hotel in Santa Cruz de Mompox, Colombia. View 21 photos and read 616 reviews.
+   124→  3. LA CASA AMARILLA - Prices & Hostel Reviews (Mompos, Colombia)
+   125→     URL : https://www.tripadvisor.com/Hotel_Review-g445061-d1119367-Reviews-La_Casa_Amarilla-Mompos_Bolivar_Department.html
+   126→     Host: www.tripadvisor.com | Date: 
+   127→     Snip: The only true guesthouse in a colonial mansion in front of the river for travelers in Mompos. We have comfortable, spacious and clean en suite private rooms.
+   128→  4. Los 10 mejores hoteles de Mompós, Colombia (desde € 136)
+   129→     URL : https://www.booking.com/city/co/mompos-co.es.html
+   130→     Host: www.booking.com | Date: 
+   131→     Snip: Hotel Casa Evan tiene centro de fitness, jardín, terraza y restaurante en Mompox. El alojamiento dispone de servicio de habitaciones y recepción 24 horas.
+   132→  5. La Casa Amarilla Mompós – Conoce nuestro hotel en Mompós o
+   133→     URL : https://lacasaamarillamompos.com
+   134→     Host: lacasaamarillamompos.com | Date: 
+   135→     Snip: CONTACTO NOSOTROS EL HOTEL HABITACIONES. Bolivar Colombia Cel: +57 3106064632 +57 3115306735 La Casa Amarilla Mompox SAS.
+   136→  6. Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia
+   137→     URL : https://hotelesbeijing.com.co/hotel/hotel-casa-monica
+   138→     Host: hotelesbeijing.com.co | Date: 
+   139→     Snip: Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con habitaciones climatizadas y atención cercana ideal para ...
+   140→  7. Casa Carmenza - Santa Cruz de Mompox, Colombia - PriceTravel
+   141→     URL : https://www.pricetravel.com/en/hotel/casa-carmenza_a551296
+   142→     Host: www.pricetravel.com | Date: 
+   143→     Snip: Carmenza is an accommodation available for fully booking. No prepayment needed, pay at the property. Casa Carmenza is an accommodation available for fully ...
+   144→  8. La Casa Amarilla en Mompós: ver hotel, precios y opiniones
+   145→     URL : https://co.hoteles.com/ho743581152/la-casa-amarilla-mompos-colombia
+   146→     Host: co.hoteles.com | Date: 
+   147→     Snip: Disfruta de tu visita a Mompós en La Casa Amarilla. Los servicios gratuitos incluyen wifi y desayuno completo todos los días, de 07:00 a 10:30.
+   148→  (total: 8)
+   149→
+   150→>>> Searching: "Casa Monica" Mompox Booking.com hotel
+   151→
+   152→===== QUERY: "Casa Monica" Mompox Booking.com hotel =====
+   153→  1. Travel Tuesday: have you ever stayed in the historic Casa Monica
+   154→     URL : https://www.facebook.com/StAugustineAttractionsAssociation/posts/travel-tuesday-have-you-ever-stayed-in-the-historic-casa-monica-resort-spa-autog/1799789953423273
+   155→     Host: www.facebook.com | Date: 
+   156→     Snip: Casa Monica Resort & Spa, Autograph Collection is an iconic stop for anyone visiting Florida's Historic Coast! The resort is steeped in history and charm, ...
+   157→  2. Todos los hoteles en Grecia
+   158→     URL : https://www.top-hotels-gr.com/es/all-hotels
+   159→     Host: www.top-hotels-gr.com | Date: 
+   160→     Snip: HOTEL CASA VANIA MOMPOX, Centro histórico, Con Parqueadero en el Hotel ... Hotel Casa Monica Băile Felix · Hotel Charissi ... Naoussa Hotel Paros By Booking Kottas ...
+   161→  3. Casa Monica Resort & Spa, Autograph Collection - Booking.com
+   162→     URL : https://www.booking.com/hotel/us/casa-monica-autograph-collection.html
+   163→     Host: www.booking.com | Date: 
+   164→     Snip: All rooms at Casa Monica Luxury & Lifestyle hotel include a Bose sound system, flat-screen cable TV, desk, and tea- and coffee-making facilities. Each ...
+   165→  4. Reviews of Casa Monica Resort & Spa, Autograph Collection
+   166→     URL : https://www.booking.com/reviews/us/hotel/casa-monica-autograph-collection.en-gb.html
+   167→     Host: www.booking.com | Date: 
+   168→     Snip: Excellent hotel experience. The staff is the best! The valet parking tunnel brings you to ground level entry. Checking in is fun when you get a ...
+   169→  5. 10 Best Mompós Hotels, Colombia (From US$153) - Booking.com
+   170→     URL : https://www.booking.com/city/co/mompos-co.html
+   171→     Host: www.booking.com | Date: 
+   172→     Snip: Located in Mompos, HOTEL CASA VANIA MOMPOX, Centro histórico, Con Parqueadero en el Hotel offers 4-star accommodations with a garden, a shared lounge and a bar.
+   173→  6. Exploring Casa Monica Resort & Spa in St. Augustine - YouTube
+   174→     URL : https://www.youtube.com/watch?v=4qSKf0z1yJo
+   175→     Host: www.youtube.com | Date: 
+   176→     Snip: Step inside Casa Monica Resort & Spa, one of the most iconic historic hotels in St. Augustine, the nation's oldest city.
+   177→  7. Hotel Casa Santa Monica Norte, Cali (updated prices 2026)
+   178→     URL : https://www.booking.com/hotel/co/casa-santa-monica.en-gb.html
+   179→     Host: www.booking.com | Date: 
+   180→     Snip: Comfortable Accommodations: Hotel Casa Santa Monica Norte in Cali offers family rooms with air-conditioning, private bathrooms, and free WiFi. Each room ...
+   181→  8. Casa Monica Resort & Spa, Autograph Collection - Marriott
+   182→     URL : https://www.marriott.com/en-us/hotels/jaxak-casa-monica-resort-and-spa-autograph-collection/overview
+   183→     Host: www.marriott.com | Date: 
+   184→     Snip: Book a distinctive stay at Casa Monica Resort & Spa, Autograph Collection. Premium accommodations, unique rooms & great service await you.
+   185→  (total: 8)
+   186→
+   187→>>> Searching: "Casa Monica" Mompox Expedia hotel
+   188→
+   189→===== QUERY: "Casa Monica" Mompox Expedia hotel =====
+   190→  1. Santa Ana → Tuguegarao: precios y horarios
+   191→     URL : https://www.rome2rio.com/es/s/Santa-Ana/Tuguegarao
+   192→     Host: www.rome2rio.com | Date: 
+   193→     Snip: Casa Monica. 2485 ₱. Casa Monica(Se abre en una ventana nueva). 8.8Fabuloso. NGN GRAN HOTEL. 1869 ₱. NGN GRAN HOTEL(Se abre en una ventana nueva). 7.8Bien.
+   194→  2. Casa Monica Resort & Spa: View Reviews & Photos 2026 - Expedia
+   195→     URL : https://www.expedia.com/St-Augustine-Hotels-Casa-Monica-Resort-Spa.h329630.Hotel-Information
+   196→     Host: www.expedia.com | Date: 
+   197→     Snip: Casa Monica Resort & Mediterranean dining and spa treatments. Guests can relax by the outdoor pool, explore the garden, or connect using in-room WiFi. Reviews ...
+   198→  3. The Best Luxury Hotels in St. Augustine Historic District, St  - Expedia
+   199→     URL : https://www.expedia.com/St-Augustine-Historic-District-St-Augustine-Hotels-Luxury-Hotel.0-n6339215-0-tLuxuryHotel.Travel-Guide-Filter-Hotels
+   200→     Host: www.expedia.com | Date: 
+   201→     Snip: Casa Monica Resort & Spa, Autograph Collection is a luxury hotel with a full-service spa and in-room massages, and it's a popular choice for Expedia travelers
+   202→  4. Casa Monica Resort & Spa, Autograph Collection
+   203→     URL : https://www.expedia-aarp.com/St-Augustine-Hotels-Casa-Monica-Resort-Spa.h329630.Hotel-Information
+   204→     Host: www.expedia-aarp.com | Date: 
+   205→     Snip: Enjoy a full-service spa, breakfast (surcharge), and room service. this property has an outdoor pool and a children's pool. a fee of USD 150.00 per ...
+   206→  5. Top 10 Hotels in Mompos (from $21) 2026 - Competitive Prices
+   207→     URL : https://www.expedia.com/Mompos-Hotels.d6340237.Travel-Guide-Hotels
+   208→     Host: www.expedia.com | Date: 
+   209→     Snip: Find 39 of the best hotels in Mompos in 2026. Compare room rates, hotel reviews and availability. Most hotels are fully refundable.
+   210→  6. Hotel Casa Santa Monica Norte Reviews, Deals & Photos 2026
+   211→     URL : https://www.expedia.com/Cali-Hotels-Hotel-Casa-Santa-Monica-Norte.h4404823.Hotel-Information
+   212→     Host: www.expedia.com | Date: 
+   213→     Snip: All guestrooms at Hotel Casa Santa Monica Norte boast comforts such as premium bedding and air conditioning, as well as amenities like free WiFi and minibars.
+   214→  7. Portal de la Marquesa - Mompos Hotels - Expedia
+   215→     URL : https://www.expedia.com/Mompos-Hotels-Portal-De-La-Marquesa.h19015265.Hotel-Information
+   216→     Host: www.expedia.com | Date: 
+   217→     Snip: Enjoy free breakfast, free WiFi, and 2 outdoor pools. With in-room WiFi, dry cleaning services, and concierge assistance ideal location and tasty breakfast
+   218→  8. Top 10 Hotels in Pijiño del Carmen (from $31) 2026 - Expedia.com
+   219→     URL : https://www.expedia.com/Pijino-Del-Carmen-Hotels.d720042128806522880.Travel-Guide-Hotels
+   220→     Host: www.expedia.com | Date: 
+   221→     Snip: Find 34 of the best hotels in Pijiño del Carmen in 2026. Rooms are very large. Mompox Hotel Casa $55 nightly The price is $55 total per night
+   222→  (total: 8)
+   223→
+   224→>>> Searching: hotelesbeijing.com.co "Casa Monica" Mompos
+   225→
+   226→===== QUERY: hotelesbeijing.com.co "Casa Monica" Mompos =====
+   227→  1. Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia
+   228→     URL : https://hotelesbeijing.com.co/hotel/hotel-casa-monica
+   229→     Host: hotelesbeijing.com.co | Date: 
+   230→     Snip: Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con habitaciones climatizadas y atención cercana ideal para ...
+   231→  2. Hotel Casa Mónica Mompox (@casamonicamompox) - Instagram
+   232→     URL : https://www.instagram.com/casamonicamompox
+   233→     Host: www.instagram.com | Date: 
+   234→     Snip: Mompox, Bolívar Visítanos y siéntete como en casa · Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. · Diferentes formas, pero todas ...
+   235→  3. Casa Faccioli - Santa Cruz de Mompox - Trivago
+   236→     URL : https://www.trivago.com/en-US/oar/hotel-casa-faccioli-santa-cruz-de-mompox?search=100-7752136
+   237→     Host: www.trivago.com | Date: 
+   238→     Snip: SERVICIOS 6 habitaciones con aire acondicionado, televisión por cable, baño privado, teléfono, wifi, nevera Mini Bar. Recepción 24 horas del día Restaurante - ...
+   239→  4. La Casa Amarilla Mompós – Conoce nuestro hotel en Mompós o
+   240→     URL : https://lacasaamarillamompos.com
+   241→     Host: lacasaamarillamompos.com | Date: 
+   242→     Snip: Estamos ubicados en el centro histórico de Mompós. Construida a mediados del siglo XVII, La Casa Amarilla es una casona colonial que conserva la esencia y el ...
+   243→  5. Casa La Concepción, Mompos - 2026 Prices & Reviews - Trip.com
+   244→     URL : https://www.trip.com/hotels/mompos-hotel-detail-50113337/casa-la-concepcin
+   245→     Host: www.trip.com | Date: 
+   246→     Snip: Want to book Casa La Concepción, Mompos hotel? Choose your room, check latest prices and hotel reviews. Book your perfect stay on Trip.com!
+   247→  6. Hoteles en Santa Cruz de Mompox
+   248→     URL : https://hotelesbeijing.com.co/ubicacion/bolivar/mompos/santa-cruz-de-mompox/page/3
+   249→     Host: hotelesbeijing.com.co | Date: 
+   250→     Snip: Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...
+   251→  7. Casa Monica Resort & Spa, Autograph Collection - St. Augustine
+   252→     URL : https://staugustine-us.com/en/p/resortcasamonicacollection.html
+   253→     Host: staugustine-us.com | Date: 
+   254→     Snip: Some rooms at Casa Monica Resort & Spa, Autograph Collection are fitted with a central heating and ironing facilities, and such self-catering options as a ...
+   255→  8. Los 10 mejores hoteles de Mompós, Colombia (desde € 136)
+   256→     URL : https://www.booking.com/city/co/mompos-co.es.html
+   257→     Host: www.booking.com | Date: 
+   258→     Snip: Mompós: 10 hoteles y otros sitios para alojarse · Casa Taller & Hotel El Boga · Hotel Isla Capri · Hostal Casa La Candelaria · Casa Serrano - Calle Real 5 · Hotel ...
+   259→  (total: 8)
+   260→
+   261→>>> Searching: Casa Monica Mompox dueños propietarios historia
+   262→
+   263→===== QUERY: Casa Monica Mompox dueños propietarios historia =====
+   264→  1. Hotel Casa Mónica Mompox (@casamonicamompox) - Instagram
+   265→     URL : https://www.instagram.com/casamonicamompox
+   266→     Host: www.instagram.com | Date: 
+   267→     Snip: Hotel Casa Mónica Mompox. Estamos ubicados en Santa Bárbara, entre calle del medio y calle de atrás.
+   268→  2. Casa Monica Hotel - Wikipedia, la enciclopedia libre
+   269→     URL : https://es.wikipedia.org/wiki/Casa_Monica_Hotel
+   270→     Host: es.wikipedia.org | Date: 
+   271→     Snip: Casa Mónica es un hotel histórico ubicado en St. Augustine, Florida, en los Estados Unidos. Originalmente se llamó Casa Mónica, luego Hotel Córdoba, luego ...
+   272→  3. Hoy Mompox celebra un hito que marcó para siempre nuestra
+   273→     URL : https://www.instagram.com/reel/DR701x2j6T_
+   274→     Host: www.instagram.com | Date: 
+   275→     Snip: ... Mompox desde la historia hasta la arquitectura. ... Casa Candelario Obeso Alcaldía Distrital de Santa Cruz de Mompox DISTRI SODAS COCTELES MOMPOX ...
+   276→  4. Alcaldía Distrital Santa Cruz de Mompox - Facebook
+   277→     URL : https://www.facebook.com/Alcaldiademompox/posts/la-alcald%C3%ADa-distrital-de-santa-cruz-de-mompox-a-trav%C3%A9s-de-la-secretar%C3%ADa-de-turis/122298828248181081
+   278→     Host: www.facebook.com | Date: 
+   279→     Snip: Hotel Casa Ana Lorenza y a su propietario, Yiris David Bayter Gil, de 20 municipios, Mónica Melgarejo Mora;
+   280→  5. La Casa Amarilla Mompós – Conoce nuestro hotel en Mompós o
+   281→     URL : https://lacasaamarillamompos.com
+   282→     Host: lacasaamarillamompos.com | Date: 
+   283→     Snip: Construida a mediados del siglo XVII, La Casa Amarilla es una casona colonial que conserva la esencia y el carácter de la Mompox histórica. Está ubicada en la ...
+   284→  6. Grupo de Investigación y Documentación, Dirección de Patrimonio
+   285→     URL : https://www.wmf.org/news/grupo-de-investigaci-c3-b3n-y-documentaci-c3-b3n-direcci-c3-b3n-de-patrimonio-ministerio-de-cultura
+   286→     Host: www.wmf.org | Date: 
+   287→     Snip: Entre el legado patrimonial arquitectónico de Mompox pueden citarse las Casas de los Portales de la Marquesa, el Colegio Pinillos, la Casa del Te Deum, la Real ...
+   288→  7. La casa se llama Legado de la Marquesa #mompox #hospedaje
+   289→     URL : https://www.tiktok.com/@buscandoajacinta/video/7301749192983121158
+   290→     Host: www.tiktok.com | Date: 
+   291→     Snip: Y adivina la casa donde vivió la marquesa. Sigue en pie y tú te puedes hospedar ahí. Es una casa llena de historia, con capacidad de hasta para ...
+   292→  8. Mompox, la ciudad valerosa, se ha revitalizado. - YouTube
+   293→     URL : https://www.youtube.com/watch?v=j9m1Wu5qgtc
+   294→     Host: www.youtube.com | Date: 
+   295→     Snip: ... Mónica Pulido Villamarín Divulgación y Prensa Ministerio de Cultura Tel 3424100 ext 1252 Cel 3138870758. ... Go to channel Historia Incomprendida ...
+   296→  (total: 8)
+   297→
+   298→>>> Searching: Casa Monica Mompox reseñas huéspedes opiniones
+   299→
+   300→===== QUERY: Casa Monica Mompox reseñas huéspedes opiniones =====
+   301→  1. LA CASA AMARILLA desde $ 220.690 (Mompós, Colombia) - hostal
+   302→     URL : https://www.tripadvisor.co/Hotel_Review-g445061-d1119367-Reviews-La_Casa_Amarilla-Mompos_Bolivar_Department.html
+   303→     Host: www.tripadvisor.co | Date: 
+   304→     Snip: Excelente atención, muy limpio, Ana, Carmen y José Antonio siempre atentos a las necesidades de los huéspedes, el desayuno delicioso, muy bien ubicado; ...
+   305→  2. CASA HOTEL LA CASONA (Mompos, Colombia): reseñas 2026
+   306→     URL : https://www.tripadvisor.es/Hotel_Review-g445061-d2039022-Reviews-Casa_Hotel_La_Casona-Mompos_Bolivar_Department.html
+   307→     Host: www.tripadvisor.es | Date: 
+   308→     Snip: El personal es súper atento, las instalaciones están en muy buen estado. Es una casa antigua pero muy bien conservada y las habitaciones están remodeladas. Todo ...
+   309→  3. Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia
+   310→     URL : https://hotelesbeijing.com.co/hotel/hotel-casa-monica
+   311→     Host: hotelesbeijing.com.co | Date: 
+   312→     Snip: Lo mejor valorado por los huéspedes · Atención cercana y cordial de los propietarios, con un trato que recuerda al de una posada familiar. · Buena climatización ...
+   313→  4. Opiniones del La Casa Amarilla - el alojamiento - Booking.com
+   314→     URL : https://www.booking.com/reviews/co/hotel/la-casa-amarilla.es.html
+   315→     Host: www.booking.com | Date: 
+   316→     Snip: La ubicación es excelente. Las habitaciones son muy limpias y comodas. A veces el agua huele mal, les falta iniciativa para mejorar los servicios, ...
+   317→  5. Hoteles en Mompós & Alojamiento 2026 desde $39 - Expedia
+   318→     URL : https://www.expedia.com/es/Mompos-Hoteles.d6340237.Guia-Viajes-Hoteles
+   319→     Host: www.expedia.com | Date: 
+   320→     Snip: “Se puede mejorar el aseo de las habitaciones cuando estan en uso, solamente se limitan a tender las camas pero no asean la habitacion ni el baño ”.
+   321→  6. Hotel Casa Mónica Mompox (@casamonicamompox) - Instagram
+   322→     URL : https://www.instagram.com/casamonicamompox
+   323→     Host: www.instagram.com | Date: 
+   324→     Snip: Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. · Diferentes formas, pero todas pensadas en brindarte la mayor comodidad. · #viajes # ...
+   325→  7. La Casa Amarilla en Mompós: ver hotel, precios y opiniones
+   326→     URL : https://co.hoteles.com/ho743581152/la-casa-amarilla-mompos-colombia
+   327→     Host: co.hoteles.com | Date: 
+   328→     Snip: Excelente lugar, en todo el centro del pueblo para caminar. No hay como tal parqueadero del lugar, pero al ser temporada baja pudimos dejarlo al lado del hotel ...
+   329→  8. La Casa Amarilla Mompós – Conoce nuestro hotel en Mompós o
+   330→     URL : https://lacasaamarillamompos.com
+   331→     Host: lacasaamarillamompos.com | Date: 
+   332→     Snip: Desde los corredores coloniales se respira la historia viva de la casa, con su arquitectura original, techos altos, pisos de baldosa antigua y detalles que ...
+   333→  (total: 8)
+   334→
+   335→>>> Searching: Mompox hoteles coloniales boutique recomendados
+   336→
+   337→===== QUERY: Mompox hoteles coloniales boutique recomendados =====
+   338→  1. Karakalí Boutique Hotel | Hoteles en Mompox Bolívar
+   339→     URL : https://www.hotelkarakali.com
+   340→     Host: www.hotelkarakali.com | Date: 
+   341→     Snip: Bienvenidos a Karakalí Boutique Hotel, exclusiva casona colonial, frente al Río Magdalena en Mompox, patrimonio histórico de la humanidad desde 1995.
+   342→  2. LOS 5 MEJORES hoteles boutique en Mompós 2026 - Tripadvisor
+   343→     URL : https://www.tripadvisor.co/HotelsList-Mompos-Hotels-Motels-Boutique-zfp15767220.html
+   344→     Host: www.tripadvisor.co | Date: 
+   345→     Snip: 1. Bioma Boutique Hotel Mompox · 2. Hotel San Rafael · 3. Albarrada Hotel Boutique · 4. Bohemia Hotel Boutique · 5. Hotel Boutique Casa Tres Cruces · 6. Hotel ...
+   346→  3. Bioma Boutique Hotel Mompos
+   347→     URL : https://www.bioma.co/es
+   348→     Host: www.bioma.co | Date: 
+   349→     Snip: En Bioma Boutique Hotel te ofrecemos una experiencia única de descanso y confort en uno de los destinos coloniales más fascinantes de Colombia.
+   350→  4. Los 10 mejores hoteles de Mompox, Colombia (desde € 38)
+   351→     URL : https://www.booking.com/city/co/mompos.es.html
+   352→     Host: www.booking.com | Date: 
+   353→     Snip: Cuáles son los mejores hoteles de Mompox? Portal de la Marquesa, Hotel Boutique Ana Lorenza y Karakali Boutique Hotel son algunos hoteles populares en Mompox.
+   354→  5. Best Hotels in Mompox Colombia | Top Picks - YouTube
+   355→     URL : https://www.youtube.com/watch?v=NrhrjsT3yHI
+   356→     Host: www.youtube.com | Date: 
+   357→     Snip: Discover the best hotels in Mompox (Mompós), Colombia — a UNESCO World Heritage town frozen in time along the Magdalena River.
+   358→  6. Los 7 mejores hoteles de lujo de Mompox - LuxuryHotel.world
+   359→     URL : https://es.luxuryhotel.world/mompos
+   360→     Host: es.luxuryhotel.world | Date: 
+   361→     Snip: San Rafael · Karakali Boutique Hotel · Bioma Boutique Hotel · Portal de la Marquesa · LITERATIUM · HOTEL PLAZA BOLIVAR MOMPOX ubicado en el centro histórico con ...
+   362→  7. Mejores hoteles en Mompox – Top 10
+   363→     URL : https://top10hedonist.com/2026/05/07/mejores-hoteles-en-mompox-top-10
+   364→     Host: top10hedonist.com | Date: 
+   365→     Snip: 1.Bioma Boutique Hotel Bioma no nace como hotel: renace como hotel. · 2.Karakalí Boutique Hotel · 3.Casa Gerar Filigrana · 4.Casa Sinning Año 1637 ...
+   366→  8. Karakalí Boutique Hotel (@karakali_mompox) · Mompós - Instagram
+   367→     URL : https://www.instagram.com/karakali_mompox
+   368→     Host: www.instagram.com | Date: 
+   369→     Snip: Realismo mágico en Karakalí ✨ La entrada de Karakalí Boutique Hotel te recibe entre naturaleza viva y detalles arquitectónicos coloniales que evocan el ...
+   370→  (total: 8)
+   371→
+   372→>>> Searching: Mompos Colombia turismo guía
+   373→
+   374→===== QUERY: Mompos Colombia turismo guía =====
+   375→  1. Mompox : Guía de viaje - Aventure Colombia
+   376→     URL : https://aventurecolombia.com/es/mompox-guia-de-viaje
+   377→     Host: aventurecolombia.com | Date: 
+   378→     Snip: La mejor época para visitar Mompox es de diciembre a abril, ya que llueve mucho menos. En cambio, de mayo a junio y de septiembre a noviembre, las lluvias son ...
+   379→  2. Visitar Santa Cruz de Mompox, Colombia: Guía de Viaje
+   380→     URL : https://www.tomplanmytrip.com/es/blog-colombia/destinos/costa-caribe-este/santa-cruz-de-mompox
+   381→     Host: www.tomplanmytrip.com | Date: 
+   382→     Snip: Situada en el departamento de Bolívar entre dos meandros del río Magdalena, Mompox (o Santa Cruz de Mompox) es un excelente destino si deseas ...
+   383→  3. Guía rápida para viajar a Mompox Mompox es una joya histórica
+   384→     URL : https://www.instagram.com/reel/DHRpBddpiGR/?hl=en
+   385→     Host: www.instagram.com | Date: 
+   386→     Snip: ¡¡Descubre!! UNO DE LOS DESTINOS CULTURALES Y PATRIMONIALES MÁS IMPORTANTES DE COLOMBIA. SANTA CRUZ DE MOMPOX UBICADO AL NORTE DE COLOMBIA, EN ...
+   387→  4. Cosas por hacer en Mompox, Colombia: Guía de Turismo - TikTok
+   388→     URL : https://www.tiktok.com/@sebassoy_/video/7509634565909122360
+   389→     Host: www.tiktok.com | Date: 
+   390→     Snip: De camino a Cartagena visitamos Mompox, un hermoso municipio de Colombia donde tiene historia por contar . #mompox #bolivar #turismo #colombia # ...
+   391→  5. Tu Guía por Mompox | Tours y Experiencias Inolvidables en Colombia
+   392→     URL : https://www.guiaturisticomompox.com
+   393→     Host: www.guiaturisticomompox.com | Date: 
+   394→     Snip: Descubre la magia de Mompox, Colombia, con el guía experto Fidel Leonardo Nieto Carvajal. Ofrecemos tours históricos, cruceros por el río Magdalena, ...
+   395→  6. GUIA TURÍSTICA - Mompox - Colombia
+   396→     URL : http://mompoxcolombia.blogspot.com/p/guia-turistica.html
+   397→     Host: mompoxcolombia.blogspot.com | Date: 
+   398→     Snip: 1. Tour virtual historico, cultural, religioso y arquitectónico por Mompox. 2. Semana SanTour: Conozca virtualmente la Semana Santa de Mompox y su religiosidad.
+   399→  7. Mompox 2026,Joya Colonial de Colombia - Viajes Comfama
+   400→     URL : https://www.viajescomfama.com/destinos/nacionales/mompox-joya-colonial

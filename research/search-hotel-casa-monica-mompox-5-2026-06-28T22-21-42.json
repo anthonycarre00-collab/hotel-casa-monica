@@ -1,0 +1,97 @@
+{
+  "query": "Hotel Casa Monica Mompox 5",
+  "num": 10,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://www.kesslercollection.com/casa-monica",
+      "name": "Casa Monica Resort & Spa | St. Augustine Florida Hotels",
+      "snippet": "Casa Monica Resort & Spa will reopen at 4pm on October 10. Contact 904.827.1888 95 Cordova Street St. Augustine, FL 32084",
+      "host_name": "www.kesslercollection.com",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jaxak-casa-monica-resort-and-spa-autograph-collection/overview",
+      "name": "Casa Monica Resort & Spa, Autograph Collection - Marriott",
+      "snippet": "Book a distinctive stay at Casa Monica Resort & Spa, Autograph Collection. Premium accommodations, unique rooms & great service await you.",
+      "host_name": "www.marriott.com",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/hotel/us/casa-monica-autograph-collection.html",
+      "name": "Casa Monica Resort & Spa, Autograph Collection - Booking.com",
+      "snippet": "Casa Monica Resort & Spa features Moorish-style architecture. The hotel is located in historic St. Augustine, only a 1-minute walk from Flagler College",
+      "host_name": "www.booking.com",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.facebook.com/casamonicaresort",
+      "name": "Casa Monica Resort & Spa, Autograph Collection | Saint Augustine FL",
+      "snippet": "Indulge in historic charm and European-inspired dining at St Augustine's most iconic hotel. Home to Cordova Chophouse & Bar. A Kessler Collection property.",
+      "host_name": "www.facebook.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.trivago.com/en-US/oar/hotel-casa-monica-resort-spa-autograph-collection-st-augustine?search=100-66909",
+      "name": "Casa Monica Resort & Spa, Autograph Collection - Trivago",
+      "snippet": "The hotel has a fully equipped fitness centre, a souvenir shop and newspaper stand and a 24 hour business centre. There are several meeting areas including two ...",
+      "host_name": "www.trivago.com",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g34599-d85724-Reviews-Casa_Monica_Resort_Spa_Autograph_Collection-St_Augustine_Florida.html",
+      "name": "Casa Monica Resort & Spa, Autograph Collection - Tripadvisor",
+      "snippet": "Originally built in 1888, this hotel is nestled in the heart of St. Augustine's Historic District and within walking distance to popular sites.",
+      "host_name": "www.tripadvisor.com",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.historichotels.org/us/hotels-resorts/casa-monica-resort-spa",
+      "name": "Casa Monica Resort & Spa | A Historic St. Augustine Hotel",
+      "snippet": "Casa Monica Resort & Spa, 1888, offers 95 Cordova Street St. Augustine, Florida 32084 The original property opened in 1888. A member of Historic Hotels of ...",
+      "host_name": "www.historichotels.org",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://casa-monica-st-augustine.h-rez.com",
+      "name": "Casa Monica Resort & Spa, Autograph Collection by Marriott, St",
+      "snippet": "The majestic four-star Casa Monica Hotel, Autograph Collection was built in 1888, restored in 1999, and is a member of the National Trust Historic Hotels of ...",
+      "host_name": "casa-monica-st-augustine.h-rez.com",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.yelp.com/biz/casa-monica-resort-and-spa-autograph-collection-st-augustine-2",
+      "name": "CASA MONICA RESORT & SPA, AUTOGRAPH COLLECTION - Yelp",
+      "snippet": "CASA MONICA RESORT & SPA, AUTOGRAPH COLLECTION, 95 Cordova Street, St. Augustine, FL 32084, 572 Photos, (904) 827-1888, Mon - Open 24 hours, Tue - Open 24 ...",
+      "host_name": "www.yelp.com",
+      "rank": 8,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4qSKf0z1yJo",
+      "name": "Exploring Casa Monica Resort & Spa in St. Augustine - YouTube",
+      "snippet": "... Hotel Ponce de León (now Flagler College) and the Alcazar Hotel (today's Lightner Museum). After decades of closure, and even time as a ...",
+      "host_name": "www.youtube.com",
+      "rank": 9,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

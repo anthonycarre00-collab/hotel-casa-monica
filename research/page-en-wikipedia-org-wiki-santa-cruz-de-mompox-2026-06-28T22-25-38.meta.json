@@ -1,0 +1,13 @@
+{
+  "requestedUrl": "https://en.wikipedia.org/wiki/Santa_Cruz_de_Mompox",
+  "finalUrl": "https://en.wikipedia.org/wiki/Santa_Cruz_de_Mompox",
+  "title": "Santa Cruz de Mompox",
+  "publishedTime": "2006-03-08T06:31:34Z",
+  "textFile": "/home/z/my-project/research/page-en-wikipedia-org-wiki-santa-cruz-de-mompox-2026-06-28T22-25-38.txt",
+  "textLength": 21296,
+  "htmlLength": 230933,
+  "usage": {
+    "tokens": 70838
+  },
+  "fetchedAt": "2026-06-28T22:25:38.780Z"
+}

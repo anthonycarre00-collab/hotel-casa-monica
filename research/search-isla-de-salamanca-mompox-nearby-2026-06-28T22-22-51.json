@@ -1,0 +1,79 @@
+{
+  "query": "Isla de Salamanca Mompox nearby",
+  "num": 8,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://www.tripadvisor.com/Attraction_Review-g297473-d3624562-Reviews-Parque_Isla_Salamanca-Barranquilla_Atlantico_Department.html",
+      "name": "Parque Isla Salamanca - All You SHOULD Know Before Going 2026",
+      "snippet": "Recommended experiences nearby ; Gran Malecón, Carnaval Museum and Downtown Barranquilla City Tour. (34). Duration: 6h ; Private Bike Tour of Barranquilla. (12).",
+      "host_name": "www.tripadvisor.com",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://birdsofpassage.wordpress.com/2015/04/07/isla-de-salamanca-and-tayrona-national-park",
+      "name": "Isla de Salamanca and Tayrona National Park | Birds of passage",
+      "snippet": "Salamanca National Park is only 2 hours north of Cartagena along the coast and is accessible by bus. Many birders head here to look for the endemic Sapphire- ...",
+      "host_name": "birdsofpassage.wordpress.com",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Salamanca_Island_Road_Park",
+      "name": "Salamanca Island Road Park - Wikipedia",
+      "snippet": "The Salamanca Island Road Park (Spanish: Vía Parque Isla de Salamanca) is a national park located in the Caribbean Region of Colombia",
+      "host_name": "en.wikipedia.org",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://baquianos.com/en/blog/reasons-to-visit-isla-salamanca",
+      "name": "Reasons to visit the Isla de Salamanca National Natural Park",
+      "snippet": "The Isla de Salamanca Natural Park is a perfect setting for the practice of ecotourism in Colombia . It is located in the municipality of Pueblo Viejo, ...",
+      "host_name": "baquianos.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://old.parquesnacionales.gov.co/portal/en/ecotourism/caribbean-region/isla-de-salamanca-park-way-2",
+      "name": "Isla de Salamanca Park Way",
+      "snippet": "Salamanca Island received the category 'Park Way' because it allows the visitor to observe exceptional mangrove forests, swamps and beaches from the road that ...",
+      "host_name": "old.parquesnacionales.gov.co",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.colombiatravelandtours.com/tours/caribbean/santa-cruz-de-mompox-4-day-tour-with-cienaga-de-pijino-and-magdalena-river-cruise",
+      "name": "Santa Cruz de Mompox 4-Day Tour from Santa Marta",
+      "snippet": "Explore the UNESCO World Heritage-listed Santa Cruz de Mompox, a sleepy colonial town where time has stood still, on this 4-day tour from Santa Marta.",
+      "host_name": "www.colombiatravelandtours.com",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://colombia.travel/en/blog/mompox-colonial-island-in-magdalena-river",
+      "name": "Mompox: a colonial island in the Magdalena River - Colombia Travel",
+      "snippet": "Close to the famous city of Cartagena de Indias, in the department of Bolívar, is Santa Cruz de Mompox, a magical town on an island in the middle of the ...",
+      "host_name": "colombia.travel",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://en.wikivoyage.org/wiki/Isla_Salamanca_Parkway",
+      "name": "Isla Salamanca Parkway – Travel guide at Wikivoyage",
+      "snippet": "Isla Salamanca Parkway (officially, Vía Parque Isla de Salamanca) is a protected natural area along the Caribbean coast in the Magdalena Department in ...",
+      "host_name": "en.wikivoyage.org",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "query": "Hotel Casa Monica Mompos Colombia precio contacto",
+  "num": 8,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://www.instagram.com/casamonicamompox",
+      "name": "Hotel Casa Mónica Mompox (@casamonicamompox) - Instagram",
+      "snippet": "Hotel Casa Mónica Mompox (@casamonicamompox) Estamos ubicados en Santa Bárbara, entre calle del medio y calle de atrás. Ven",
+      "host_name": "www.instagram.com",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.trivago.com/en-US/oar/hotel-villa-de-mompox-santa-cruz-de-mompox?search=100-4092644",
+      "name": "Hotel Villa de Mompox - Trivago",
+      "snippet": "Compare hotel prices and find an amazing price for the Hotel Villa de Mompox Hotel in Santa Cruz de Mompox, Colombia. View 21 photos and read 616 reviews.",
+      "host_name": "www.trivago.com",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g445061-d1119367-Reviews-La_Casa_Amarilla-Mompos_Bolivar_Department.html",
+      "name": "LA CASA AMARILLA - Prices & Hostel Reviews (Mompos, Colombia)",
+      "snippet": "The only true guesthouse in a colonial mansion in front of the river for travelers in Mompos. We have comfortable, spacious and clean en suite private rooms.",
+      "host_name": "www.tripadvisor.com",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/city/co/mompos-co.es.html",
+      "name": "Los 10 mejores hoteles de Mompós, Colombia (desde € 136)",
+      "snippet": "Hotel Casa Evan tiene centro de fitness, jardín, terraza y restaurante en Mompox. El alojamiento dispone de servicio de habitaciones y recepción 24 horas.",
+      "host_name": "www.booking.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://lacasaamarillamompos.com",
+      "name": "La Casa Amarilla Mompós – Conoce nuestro hotel en Mompós o",
+      "snippet": "CONTACTO NOSOTROS EL HOTEL HABITACIONES. Bolivar Colombia Cel: +57 3106064632 +57 3115306735 La Casa Amarilla Mompox SAS.",
+      "host_name": "lacasaamarillamompos.com",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://hotelesbeijing.com.co/hotel/hotel-casa-monica",
+      "name": "Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia",
+      "snippet": "Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con habitaciones climatizadas y atención cercana ideal para ...",
+      "host_name": "hotelesbeijing.com.co",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.pricetravel.com/en/hotel/casa-carmenza_a551296",
+      "name": "Casa Carmenza - Santa Cruz de Mompox, Colombia - PriceTravel",
+      "snippet": "Carmenza is an accommodation available for fully booking. No prepayment needed, pay at the property. Casa Carmenza is an accommodation available for fully ...",
+      "host_name": "www.pricetravel.com",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://co.hoteles.com/ho743581152/la-casa-amarilla-mompos-colombia",
+      "name": "La Casa Amarilla en Mompós: ver hotel, precios y opiniones",
+      "snippet": "Disfruta de tu visita a Mompós en La Casa Amarilla. Los servicios gratuitos incluyen wifi y desayuno completo todos los días, de 07:00 a 10:30.",
+      "host_name": "co.hoteles.com",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

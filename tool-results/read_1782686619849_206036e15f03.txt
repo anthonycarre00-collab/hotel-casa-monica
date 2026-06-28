@@ -1,0 +1,252 @@
+     1→# Research Report — Hotel Casa Mónica, Mompox (Mompos), Bolívar, Colombia
+     2→
+     3→**Prepared for:** Design and content of a showcase website for Hotel Casa Mónica
+     4→**Method:** z-ai-web-dev-sdk `web_search` + `page_reader` functions via Bun/Node scripts saved in `/home/z/my-project/scripts/`
+     5→**Sources read in full:** 20 web pages (hotel directory listings, UNESCO, Wikipedia ES/EN, Colombia.travel, Tomplanmytrip, Uncover Colombia, Karakalí, Bioma, Joyas de la Villa, NomadicNiko, TurismoMompox, WeatherSpark, Booking.com Mompós) + 40+ search queries.
+     6→**Raw artifacts:** `/home/z/my-project/research/` (per-page `.txt` / `.html` / `.meta.json`, consolidated `search-results-*.json`, `batch-summary.txt`, `extra-summary.txt`, `final-summary.txt`, `batch-reader-log.txt`).
+     7→
+     8→---
+     9→
+    10→## 1. EXECUTIVE SUMMARY & KEY STRATEGIC INSIGHTS
+    11→
+    12→1. **The hotel has NO live website.** The directory listing on `hotelesbeijing.com.co` references `https://hotelcasamonica.com/` as the official URL in its JSON-LD structured data, but DNS returns **NXDOMAIN** — the domain is not registered/active. This is the core business case for the showcase project.
+    13→2. **The hotel is NOT on Booking.com, Expedia, or TripAdvisor.** All "Casa Monica" results on those platforms refer to the unrelated *Casa Monica Resort & Spa* in St. Augustine, Florida (a Kessler Collection / Marriott Autograph Collection property). Reservations for Casa Mónica Mompox are **direct only** (phone / WhatsApp / Instagram / the hotelesbeijing.com.co inquiry forms).
+    14→3. **The hotel's digital footprint is tiny but authentic:** a single Instagram account (`@casamonicamompox`) and two directory stubs (`hotelesbeijing.com.co` listing ID 27767, fully populated; `alojamientosencolombia.com`, unvalidated stub). Guest recommendations appear in Facebook travel groups.
+    15→4. **The hotel's brand essence is "home" and "family."** Instagram voice consistently uses *nuestro hogar* ("our home"), *siéntete como en casa* ("feel at home"), and the listing emphasizes it is *gestionado directamente por sus dueños* (run directly by its owners) — a posada familiar, not a resort.
+    16→5. **The setting is one of the most powerful backdrops in the Americas:** Mompox is a **UNESCO World Heritage site (1995)**, a colonial river-island town that inspired García Márquez's Macondo. The hotel sits in the Santa Bárbara quarter, **behind the Iglesia de Santa Bárbara**, steps from the riverside *Albarrada* — a prime historic-center location.
+    17→
+    18→---
+    19→
+    20→## 2. HOTEL CASA MÓNICA — DETAILED PROFILE
+    21→
+    22→### 2.1 Identity & positioning
+    23→- **Name:** Hotel Casa Mónica (also styled "Hotel Casa Mónica Mompox" on Instagram)
+    24→- **Category:** Hospedaje / Hotel — but operationally a **casa hotel / posada familiar / hostal** (small family-run guesthouse). The hotelesbeijing listing frames it explicitly as *"alojamiento sencillo y acogedor, tipo posada y hostal, con habitaciones climatizadas y atención cercana."*
+    25→- **Concept:** Simple, functional, very focused on **human warmth over luxury**. Aimed at travelers who value the warmth of service and a tranquil, family atmosphere over the amenities of a large resort.
+    26→- **Positioning quote (directory):** *"un espacio acogedor donde el foco está puesto en la comodidad básica, la limpieza de las instalaciones y la cercanía en el servicio."*
+    27→
+    28→### 2.2 Contact & location (verified)
+    29→| Field | Value | Source |
+    30→|---|---|---|
+    31→| **Street address** | Cl. 14 #2 74, Santa Cruz de Mompox, Mompós, Bolívar, Colombia | hotelesbeijing JSON-LD + page body |
+    32→| **Postal code** | 132560 | hotelesbeijing JSON-LD |
+    33→| **Country** | CO (Colombia) | hotelesbeijing JSON-LD |
+    34→| **Phone (primary)** | **+57 300 310 0299** | hotelesbeijing JSON-LD `telephone` field |
+    35→| **Instagram** | **@casamonicamompox** — https://www.instagram.com/casamonicamompox/ | Instagram profile (login-walled but bio visible via search) |
+    36→| **Instagram reels** | https://www.instagram.com/casamonicamompox/reels/ | confirmed |
+    37→| **Directory listing (full)** | https://hotelesbeijing.com.co/hotel/hotel-casa-monica/ (listing ID **27767**) | read in full |
+    38→| **Directory "Contactar" link** | https://hotelesbeijing.com.co/contacto/#27767 | extracted from HTML |
+    39→| **Directory "Reservar" link** | https://hotelesbeijing.com.co/reservar/27767 | extracted from HTML |
+    40→| **Directory stub (2nd)** | https://www.alojamientosencolombia.com/alojamientos/hotel-casa-monica-mompox-santa-cruz-de-mompox-bolivar | unvalidated ("Por confirmar") |
+    41→| **Claimed official site** | https://hotelcasamonica.com/ — **NXDOMAIN (does not resolve)** | DNS verified |
+    42→
+    43→**Neighborhood / micro-location:** The hotel states (Instagram bio): *"Estamos ubicados en Santa Bárbara, entre calle del medio y calle de atrás."* A guest Facebook post clarifies: *"Hotel CASA MONICA en Google aparece queda detrás de Iglesia Santa Bárbara"* (behind the Church of Santa Bárbara), ideal for starting the walking tour along the Albarrada. Another guest review: *"Hotel casa monica callejón de santa bárbara. Super recomendado."* This places the hotel in the most photogenic, historic, riverside quadrant of Mompox — the same street (Calle 14) where the competitor *Hotel Santa Bárbara Mompox* (Calle 14 No 2-132) is located.
+    44→
+    45→### 2.3 Rating & reviews
+    46→- **Aggregate rating:** **9.2 / 10** based on **55 reviews** (hotelesbeijing.com.co, schema.org `AggregateRating`).
+    47→- **Best-valued aspects (synthesized from guest opinions in the listing):**
+    48→  - *"Atención cercana y cordial de los propietarios, con un trato que recuerda al de una posada familiar"* (close, cordial attention from the owners, treatment reminiscent of a family inn)
+    49→  - *"Buena climatización en las habitaciones"* (good air conditioning)
+    50→  - *"Ubicación práctica, a pocas cuadras de puntos de interés"* (practical location, a few blocks from points of interest, walkable)
+    51→  - *"Ambiente seguro y familiar"* (safe, family atmosphere — valued by couples and families)
+    52→  - *"Limpieza y orden"* (cleanliness and order)
+    53→- **Guest quotes (verbatim):**
+    54→  - *"Hotel casa monica callejón de santa bárbara. Super recomendado."* — Facebook traveler recommendation
+    55→  - *"Hotel CASA MONICA en Google aparece queda detrás de Iglesia Santa Bárbara."* — Facebook motorcycle-travel group
+    56→- **Instagram voice (owner posts):**
+    57→  - *"Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. Bendiciones y grandes éxitos para ti, José David, son los deseos de Casa Mónica."* (hosted musician José David)
+    58→  - *"Diferentes formas, pero todas pensadas en brindarte la mayor comodidad."* (referring to room types)
+    59→  - *"Mompox, Bolívar. Visítanos y siéntete como en casa."*
+    60→
+    61→### 2.4 Rooms & amenities
+    62→**Rooms:**
+    63→- Moderate size — *"suficientes para descansar con comodidad, sin exceso de metros pero tampoco agobiantes"* (enough to rest comfortably, neither excessive nor cramped)
+    64→- **Air-conditioned** (essential for the climate); some rooms also have **ceiling/portable fans** for softer ventilation
+    65→- Simple, hostal/posada-style decor (not designer); emphasis on cleanliness, tidy beds, towels in place, well-maintained bathrooms
+    66→- Multiple room types implied by Instagram: *"Diferentes formas, pero todas pensadas en brindarte la mayor comodidad"* (different layouts, all designed for comfort)
+    67→- Honest, unpretentious proposition: comfortable, climate-controlled, clean rooms
+    68→
+    69→**Amenities & services (confirmed):**
+    70→- ✅ Air conditioning (in all rooms) + fans
+    71→- ✅ **On-site parking (parqueadero)** — explicitly highlighted as rare in the historic zone; a real differentiator
+    72→- ✅ Owner-assisted **river/ferry tickets & river excursion booking** — owners help guests secure entries for ferrys and river trips ("consecución de entradas para ferris y paseos fluviales")
+    73→- ✅ Personalized concierge: restaurant recommendations, local guidance, help with activities, sometimes accompanying guests to places
+    74→- ✅ Family atmosphere, security
+    75→- ❌ No pool, no spa, no gym, no in-house restaurant, no large common leisure areas, no themed bars/nightlife
+    76→- ❌ Not a resort, not serviced apartments — compact structure
+    77→
+    78→**Owner / family info:** Owners are not named in any public source. They are consistently described as **"los propietarios"** — present, attentive, greet and advise guests, accompany them at multiple points in the stay. The hotel's own voice frames the property as *"nuestro hogar"* (our home), reinforcing a family-run identity. One Instagram post references hosting musician **José David** as a guest. No corporate/chain affiliation.
+    79→
+    80→### 2.5 Ideal guest profile (per listing synthesis)
+    81→- Couples, small groups of friends, families
+    82→- Travelers who prioritize **security, cleanliness, friendliness and human warmth over luxury**
+    83→- First-time visitors to the region / solo travelers who value the security of a hostal-style setup
+    84→- Travelers with a flexible plan who want a practical base from which to explore the town and surroundings
+    85→- **Not ideal for:** travelers seeking resort-style facilities (multiple pools, gym, gardens, animation, in-house restaurants/bars) or large serviced apartments.
+    86→
+    87→### 2.6 Competitive context (Mompox hotel landscape)
+    88→Direct / nearby competitors mentioned across sources (for benchmarking the showcase site):
+    89→- **Budget:** Hostal Cultural La Candelaria, La Casa Amarilla (Carrera 1 #13-59, Albarrada; casona colonial mid-17th c.), Hostal Doña Manuela (famous multicentennial ficus tree)
+    90→- **Mid-range:** Hotel Nieto Mompox (riverside, hacienda-style patio with hammocks), Hotel Casa Faccioli (6 rooms, AC, cable TV, private bath, wifi, mini-bar, 24h reception, restaurant), Hotel Isla Capri, Hotel Casa Vania, Hotel Casa de España, Hotel Filigrana, Hotel Heliconias, Hotel Majestic Plaza, Hotel Archangelus, Casa Taller & Hotel El Boga (Booking 9.3)
+    91→- **High-end / boutique:** Bioma Boutique Hotel (Carrera 2 #18-59; restored colonial house, pool, jacuzzi, terrace), Karakalí Boutique Hotel (Carrera 1 #19-101, Avianet/Aviatur group; suites), Hotel San Rafael (riverside, pool), Portal de la Marquesa, Hotel Boutique Ana Lorenza, Hotel Plaza Bolívar, Literatum, Albarrada Hotel Boutique, Bohemia Hotel Boutique, Casa Tres Cruces, Casa Sinning (1637), Casa Gerar Filigrana, Hotel Casa Santa Ana Lorenza
+    92→- **Adjacent neighbor:** Hotel Santa Bárbara Mompox (Calle 14 No 2-132, same postal code 132560 — essentially next door, listed on Expedia/Agoda/Hotels.com)
+    93→
+    94→Casa Mónica occupies the **simple/posada familiar** niche — it competes on warmth, location, price and authenticity, not on facilities.
+    95→
+    96→### 2.7 Pricing
+    97→No public price list was found (the hotel is not on Booking/Expedia). The Booking.com Mompós city page lists Mompox hotels "from US$24"; tomplanmytrip references budget hostals and high-end boutique options. The hotelesbeijing listing does not display a nightly rate. **Pricing must be obtained by direct contact** (phone +57 300 310 0299 / WhatsApp / Instagram DM / the hotelesbeijing inquiry forms). For the showcase site, a "request a quote" / WhatsApp CTA model is recommended rather than published rates.
+    98→
+    99→---
+   100→
+   101→## 3. MOMPOX (SANTA CRUZ DE MOMPOX / MOMPÓS) — TOWN PROFILE
+   102→
+   103→### 3.1 Essentials
+   104→- **Official name:** Santa Cruz de Mompox (also Mompós; both valid)
+   105→- **Department:** Bolívar, Caribbean Region, Colombia
+   106→- **Coordinates:** 9°14′22″N 74°25′30″O
+   107→- **Distance:** 248 km from Cartagena de Indias; ~6 h by road from Cartagena, Barranquilla; ~5h30 from Santa Marta; ~4h30 from Valledupar
+   108→- **Population:** ~46,408 (municipality, 2020); ~23,649 urban • Elevation: 33 m • Area: 652.1 km²
+   109→- **Geography:** A river-island town in the **Depresión Momposina**, formed by two arms (brazos) of the **Río Magdalena** — the Brazo de Mompox and the Brazo de Loba — which together enclose **Isla Margarita**, the largest island in continental Colombia.
+   110→- **Titles:** *"Ciudad Valerosa"* (Courageous City) and *"Ciudad Culta"* (Cultured City); declared **Distrito Especial, Turístico, Histórico y Cultural** by Law 1875 of 2017.
+   111→- **Current mayor (2024–2027):** Juan Sinning Ciodaro
+   112→
+   113→### 3.2 UNESCO World Heritage status (the headline credential)
+   114→- **Inscribed:** 1995, 19th session of the World Heritage Committee
+   115→- **Official name:** Historic Centre of Santa Cruz de Mompox
+   116→- **Criteria:** Cultural (iv) and (v)
+   117→- **Property:** 54.05 ha • **Buffer zone:** 237.48 ha • **Reference:** 742
+   118→- **UNESCO brief synthesis (verbatim):** *"Founded in 1540 on the banks of the River Magdalena, Mompox played a key role in the Spanish colonization of northern South America. From the 16th to the 19th century the city developed parallel to the river, with the main street acting as a dyke. The historic centre has preserved the harmony and unity of the urban landscape. Most of the buildings are still used for their original purposes, providing an exceptional picture of what a Spanish colonial city was like."*
+   119→- **Criterion (iv):** Integral to the processes of colonial penetration and dominion during the Spanish conquest, and to the growth of communications and commerce during the 17th to early 19th centuries.
+   120→- **Criterion (v):** The city's free, longitudinal growth following the sinuous river path, followed by 19th-century economic decline, created a special quality with few regional parallels — making Mompox *"the region's most outstanding surviving example of this type of riverine urban settlement."*
+   121→- **Other designations:** National Monument (Law 163 of 1959); Colombian **Pueblo Patrimonio** (2010, one of 11 original municipalities in the Red Turística de Pueblos Patrimonio); municipal building code since 1970 strictly controls all construction.
+   122→- **Distinctive urban form:** Instead of a single central plaza, Mompox has **three plazas lined up along the river**, each with its own church, each corresponding to a former indigenous settlement. The main street doubled as a dyke (**albarradas** — barricade walls) against flooding. Houses on the Calle de la Albarrada are **"house-store" buildings** in rows of 3–10 units with open hallways across the front sharing a common roof. Private houses (17th–early 19th c.) are laid out around central or lateral open patios adapted to the climate.
+   123→
+   124→### 3.3 History (key chapters for storytelling)
+   125→- **Pre-Columbian:** The **Cacique Mompoj** (Malibú culture; the name *Mompox* means "land of the ruler Mampo/Mompoj") governed ~50 small tribes (Güitacas, Chilloas, Chimíes, Chicaguas, Jaguas, Malibúes, Kates, Kimbayes, Menchiquejos, Talahiguas). Lieutenants: caciques Zuzua and Mahamon.
+   126→- **Foundation:** **May 3, 1537** by **Alonso de Heredia** (brother of Pedro de Heredia, founder of Cartagena) — some sources credit Juan de Santa Cruz, 1540. Established as a safe port on the Magdalena.
+   127→- **Colonial boom (16th–18th c.):** Prospered as a port moving goods upriver to the interior. A **royal mint** was established; the town was renowned for its **goldsmiths**. The **Convent of the Augustinian Hermits (17th c.)** brought a new era of progress (and the Inquisition). The **Jesuits founded the Colegio de San Carlos** (Latin grammar, philosophy, theology). **Hospital San Juan de Dios** was founded in 1540/1550 — the Knights Hospitaller took over in 1663; considered the oldest hospital in the Americas still functioning in its original building. Mompox was a **safe deposit for Spain's gold** and a refuge for wealthy families fleeing pirates on the coast. Notable residents: Conde de Santa Cruz de la Torre, Andrés de Madarriaga (hero of Cartagena's defense vs. Vernon), Juan Bautista de Mier y de la Torre (1st Marqués de Santa Coa, builder of Portales de la Marquesa), José Fernando de Mier y Guerra (pacifier of the Chimilas, founder of 20+ riverside towns). **Alexander von Humboldt** stayed at the Portales de la Marquesa on the Albarrada.
+   128→- **Independence (1810):** On **August 6, 1810**, Mompox became the **first town in the New Kingdom of Granada to proclaim absolute independence from Spain**, under the motto *"Ser libres o morir"* (Be free or die). The flag (red with a white cross, officialized 1810 — coincidentally resembles the later Swiss flag of 1848) dates from this moment. The Act of Independence was signed at the City Hall.
+   129→- **Simón Bolívar:** Stayed in Mompox in 1812; recruited **400 momposinos** for his **Campaña Admirable**, culminating in Caracas on August 6, 1813. His famous tribute: *"Si a Caracas debo la vida, a Mompox debo la gloria"* ("If to Caracas I owe my life, to Mompox I owe my glory"). Commemorated by the **Piedra de Bolívar** monument.
+   130→- **Decline & preservation:** Early 20th century, sediment shifted the Magdalena's main flow to the **Brazo de Loba** (via Magangué); the Brazo de Mompox became stagnant, commerce collapsed, inhabitants emigrated. This isolation **preserved** the colonial city almost intact — the foundation of its 1995 UNESCO listing.
+   131→- **Cultural cameo:** The 1987 film adaptation of **Gabriel García Márquez**'s *Crónica de una muerte anunciada* was partly shot in Mompox. García Márquez said towns like Mompox are *"where time doesn't pass"* — Mompox is widely cited as an inspiration for **Macondo**.
+   132→
+   133→### 3.4 Architecture & landmarks (showcase imagery goldmine)
+   134→**The three signature streets** (all parallel to the river):
+   135→- **Calle de la Albarrada** — the riverside street, with the dyke wall and 17th-c. "house-store" buildings; home to Iglesia de Santa Bárbara, Casa 1734, Portales de la Marquesa, and **Casa Mónica itself** (in the Santa Bárbara quarter)
+   136→- **Calle Real del Medio** (Main Royal Street) — the most important street, concentrating the most captivating architecture: Casa de la Cultura (Residencia Peñas Alvarado), Bolívar & Santander Parks, Te Deum House, Justice Palace, Museum of Religious Art, Casa de los Apóstoles
+   137→- **Calle de Atrás** — leads to Santo Domingo Church and the cemetery
+   138→- Note: **Hotel Casa Mónica sits between Calle del Medio and Calle de Atrás**, i.e. between two of these three iconic streets, behind Iglesia Santa Bárbara.
+   139→
+   140→**The six (or seven) colonial churches:**
+   141→1. **Iglesia de Santa Bárbara** (completed 1613) — the icon of Mompox. Baroque **octagonal bell tower** with a balcony; moldings of palm trees, flowers, and lions' heads; baroque dome; three heavily gilded altars. Legend: a Moorish princess Bárbara fell in love with a Christian youth; her father locked her in the tower and beheaded her; God struck him with lightning. Located on La Albarrada — **directly in front of Hotel Casa Mónica's neighborhood**.
+   142→2. **Iglesia de la Inmaculada Concepción** — originally adobe by Pedro de Heredia (1541), enlarged 1551, often regarded as the cathedral; last restoration 1795; demolished 1839; present church built on site. On the main plaza.
+   143→3. **Iglesia de San Francisco** — originally built 1564; convent founded 1580 by Fray Francisco Gonzaga. Oldest church in Mompox per some sources; white and ochre tones.
+   144→4. **Iglesia de San Agustín** — 17th century (1606); the convent brought the Inquisition era.
+   145→5. **Iglesia de San Juan de Dios** — attached to the 1550 hospital.
+   146→6. **Iglesia de Santo Domingo** — on Calle de Atrás.
+   147→7. (Some counts include the **Chapel of the Cemetery / Rosario**.)
+   148→
+   149→**Other key landmarks:**
+   150→- **Cementerio Rosario de Mompox** (1829; chapel & altar 1846) — white tombs, many cats; pays homage to General Hermógenes Maza and the poet **Candelario Obeso**.
+   151→- **Hospital San Juan de Dios** (1550) — oldest hospital in the Americas in its original building.
+   152→- **City Hall** — colonial dungeons; Act of Independence signed here Aug 6, 1810.
+   153→- **Municipal Palace / Cloister of San Carlos** (1660) — first secondary school; Jesuits expelled; Universal School of Saint Peter the Apostle founded 1809 by Pedro Martínez de Pinillos.
+   154→- **Casa de la Cultura** (Residencia Peñas Alvarado) — colonial residence, cultural exhibits; honors poet Candelario Obeso.
+   155→- **Portales de la Marquesa** — mansion of the Marqués de Santa Coa; where Humboldt stayed.
+   156→- **Casa de los Apóstoles** (Calle Real del Medio) — images of the 12 apostles + Last Supper.
+   157→- **Hostal Doña Manuela** — impressive multicentennial **ficus tree**.
+   158→- **Mompox farmer's market** — turn-of-20th-c. building.
+   159→- **Piedra de Bolívar** — monument to Bolívar's stay.
+   160→- **Statue of Liberty** — in front of the Cloister of San Carlos.
+   161→- **Bolívar Stone, Te Deum House** — frequently cited nearby points.
+   162→
+   163→**Architectural vocabulary** (useful for the showcase site's design language): rammed-earth walls (**tierra de embudo/tapial**), clay-tile roofs, **wrought-iron window grills, railings and door hardware** (the signature Mompox ironwork), thick walls, enormous interior patios, wood balconies, towering ceilings, ceiling fans, rocking chairs (**silla mecedora momposina**), white-washed facades, cobblestone streets, ceiba trees.
+   164→
+   165→### 3.5 Living traditions & culture
+   166→- **Filigrana Momposina (filigree)** — Mompox's signature craft. 16th-century artisan guilds (clay workers, blacksmiths, goldsmiths, silversmiths) + gold trade from Antioquia + African + indigenous techniques → a 300-year-old tradition of weaving fine gold/silver threads into jewels with spiral motifs. Now often silver due to gold prices. World-famous; workshops open to visitors; visitors can take a 3-hour hands-on workshop and craft their own silver piece. **Joyas de la Villa** and many family workshops are the local references.
+   167→- **Semana Santa (Holy Week)** — first celebrated in **1564**; the **second most important Holy Week in Colombia after Popayán**. Fusion of Catholic devotion with magical/pagan elements. Key events:
+   168→  - **Serenata a los Difuntos** (Serenade to the Dead): Good Wednesday afternoon at the municipal cemetery — inhabitants in best clothing sit beside relatives' graves from 6 PM into the small hours, lit by candles, decorated with flowers, to the rhythm of funeral music.
+   169→  - **Processions** of the **seven colonial churches**; the Good Thursday & Good Friday marches use a unique **"two steps forward, one step back"** rhythm — solemn and imposing.
+   170→  - **Desprendimiento** (Detachment) & **Paso Robado** (Stolen Effigy): midnight Good Friday at San Francisco church — parishioners knock on the three doors; the effigy is "stolen," hidden until 2 AM, then "recovered" by nazarenes and carried to Santo Domingo to a military-type march composed for the occasion.
+   171→  - Greatest tourist influx of the year; book accommodations well in advance.
+   172→- **Mompox Jazz Festival** (Festival Mompox Festijazz) — annual, September/October.
+   173→- **Festival Totó la Momposina** — July 19–21, honoring the legendary singer (recently deceased at 85).
+   174→- **Festival de Cultura Semana Santa** and **Semana Santica**.
+   175→- **Mompox music:** Cumbia, bullerengue, porro, mapalé, chalupas, garabatos, sones, guarachas. **Totó la Momposina** (Sonia Bazanta Vides) is the icon; **Candelario Obeso** is the literary icon (*Cantos populares de mi tierra*, precursor of "poesía negra y oscura"). The **Cumbión** is a town-wide parade. The traditional "Bailes cantados de Mompox" — cumbia preserved by local folk groups — is offered as a nocturnal experience.
+   176→
+   177→### 3.6 Gastronomy (flavor palette for the showcase)
+   178→**Savory dishes:**
+   179→- **Bocachico** and **bagre** — river fish from the Magdalena, in traditional stews
+   180→- **Arroz de chorizo** (chorizo rice), **mote de queso** (cheese stew), **pato guisado** (stewed duck), **butifarras** (local sausages — a symbol of momposino culinary legacy)
+   181→- **Posta negra momposina**, **ajiaco momposino** (soup), **lomo momposino** (pork loin in corozo/red-wine reduction)
+   182→- **Carimañolas** and **enyucados** (cassava fritters/snacks)
+   183→- **Arepa 'e huevo** (egg-stuffed corn arepa)
+   184→- **Hamburguesa Momposino** (modern local riff)
+   185→
+   186→**Sweets, snacks & cheeses:**
+   187→- **Casabito** — ubiquitous street snack: omelet of raw cassava, cheese, ground coconut, sugar, sometimes anise
+   188→- **Queso de capa** — layered stretched cheese (mozzarella-like), 100+ years of artisanal tradition, elastic texture, made by local families
+   189→- **Dulce de limón** (Doña Ada's lemon dessert — a regional reference)
+   190→
+   191→**Drinks:**
+   192→- **Vino de corozo** — Mompox specialty, made from the corozo berry (fruit of a palm); free tastings at places like *Vino Mompox*
+   193→- **Jugo de corozo**, **jugo de níspero**, **jugo de guayaba agria** — fresh tropical fruit juices (try toronja con guanábana at the corner of Calle 18 & Carrera 1)
+   194→
+   195→**Notable restaurants / cafés** (useful for "nearby" content):
+   196→- **Café 1700** — coffee in a rocking chair under the porch, riverfront, vintage decor
+   197→- **El Comedor Costeño** — lunch under trees, riverside, famous duck dish
+   198→- **Crepes D'la Villa** — crepes, waffles, ice cream under multicolored umbrellas; corozo yogurt ice cream
+   199→- **Crónicas** — bar-restaurant on the main plaza, terrace view of illuminated church, momposina rocking chairs, corozo wine
+   200→- **Santa Coa** — riverside, local & international; Momposino hamburger, risottos
+   201→- **Ambrosia Restaurante Bar** — Lomo Momposino, Latino-Caribbean & international cuisine
+   202→
+   203→### 3.7 Climate & best time to visit (WeatherSpark data)
+   204→- **Year-round feel:** hot, humid, oppressive, overcast. *"The summers are sweltering, short, and dry; the winters are short, wet, and warm; and it is oppressive and overcast year round."*
+   205→- **Temperature range:** typically **75°F → 99°F (24°C → 37°C)**; rarely below 72°F or above 103°F.
+   206→- **Hottest month:** **March** (avg high 99°F / 37°C, low 79°F / 26°C). Feb avg high 98°F.
+   207→- **"Coolest" month:** **October** (avg high 88°F / 31°C, low 75°F / 24°C).
+   208→- **Hot season:** Jan 25 – Apr 13 (daily high > 97°F). **Cool season:** Sep 18 – Nov 30 (daily high < 90°F).
+   209→- **Rain:** wetter season Apr 15 – Nov 26 (peak **October**, ~14 wet days, 3.9 in / 99 mm). Drier season Nov 26 – Apr 15 (driest **January**, 1.5 wet days, 0.3 in / 8 mm). Rainless period: Dec 30 – Mar 13.
+   210→- **Skies:** clearest in **January** (42% clear/mostly clear); cloudiest in **May** (92% overcast).
+   211→- **Humidity:** muggier Mar 13 – Jan 19; most muggy October (31 days); least muggy February.
+   212→- **Sun:** earliest sunrise 5:36 AM (May 28); latest sunset 6:22 PM (Jul 13).
+   213→- **Best time to visit:** **mid-December to late February** (peak second week of January) for both general outdoor tourism and hot-weather/beach-pool activities. Avoid peak crowds in January high season, Easter week, and the Jazz Festival (Sep/Oct) — book ahead in those windows.
+   214→- Practical note from a guide: *"Durante mi estadía en Mompox llovió una mañana. La ciudad de repente se convirtió en una ciudad fantasma."* (One morning of rain turned the town into a ghost town.)
+   215→
+   216→### 3.8 How to get to Mompox
+   217→**By air:**
+   218→- **San Bernardo Airport (Mompox)** — closest, but **no permanent routes**; active only during **Semana Santa** and the **Jazz Festival**.
+   219→- **Satena** operates a **direct Medellín (Olaya Herrera) → Mompox flight twice weekly** (useful from the south).
+   220→- Year-round alternative: **Las Brujas Airport, Corozal (Sucre, CZU)** — flights from Bogotá, Medellín, Barranquilla, Bucaramanga; then by land to Magangué and across the new bridge.
+   221→
+   222→**By land:**
+   223→- **From Cartagena:** 3 direct daily buses with **Unitransco**, ~6 h, direct.
+   224→- **From Santa Marta:** 1 daily **Copetran** bus, ~9 h (not ideal).
+   225→- **From Bogotá:** day and night buses via El Banco or direct.
+   226→- **From El Carmen de Bolívar:** take the **Ruta del Sol III**, detour at **La Gloria (Magdalena)**, through **Santa Ana** and **Talaigua Nuevo** to Mompox.
+   227→- **Game-changer (2020):** the **Puente Roncador / "Reconciliación" bridge** (Yatí–Bodega segment), ~12 km over the Magdalena, **inaugurated March 30, 2020** — part of the Ruta del Sol, reducing travel time between the interior and the Caribbean coast by ~3 hours and finally connecting Mompox by land without ferries.
+   228→- **No central bus terminal** in Mompox; each company has its own small point of sale along the main road on the outskirts; from there a **tuk-tuk (5 min)** reaches the historic center.
+   229→
+   230→**By water:**
+   231→- The **Brazo de Mompox** of the Magdalena; Mompox has a **river terminal** linked to the old port, with vessels from **Magangué, El Banco, Santa Ana, Barrancabermeja**.
+   232→- The historic route: Cartagena → Magangué → ferry/chalupa across the Magdalena to La Bodega → road to Mompox through plantations and cattle haciendas (now superseded by the bridge).
+   233→
+   234→**Getting around Mompox:**
+   235→- **On foot** — the best way; the historic center is compact and cobblestoned.
+   236→- **Tuk-tuk** — cheap, ubiquitous, fun; for longer hops or tired feet.
+   237→- **Boat** — public metal boats cross the river to the farming communities where Mompox's vegetables are grown; chickens, grandmothers, fruit and even motorcycles pile on board.
+   238→
+   239→---
+   240→
+   241→## 4. SURROUNDING AREA / DAY TRIPS FROM MOMPOX
+   242→
+   243→### 4.1 Ciénaga de Pijiño — the flagship nature excursion
+   244→- A large shallow swamp/lake connected to the Magdalena by a natural canal; the signature half-day trip from Mompox.
+   245→- **Tour operator reference:** Turismo Mompox (RNT 70619; +57 320 513 6005; reservas@turismomompox.com; Kra 1a No 22-26). Also **Tours Valerosa** (tickets sold on the street and at the old Market Building on La Albarrada).
+   246→- **Schedule & pricing (Turismo Mompox, 2026):**
+   247→  - **Shared tour:** COP **$50,000–60,000** per person, ~3 h, departs **3:00 PM from Muelle San Francisco**, returns ~6:20 PM.
+   248→  - **Private tour (1–9 pax):** COP **$400,000–450,000**, includes professional guide, ~3 h.
+   249→  - **Pasadía (10+ pax):** COP **$120,000** per person, ~5 h, departs 10:00 AM from Muelle San Francisco; includes fluvial/land transport, cultural presentation, typical regional lunch.
+   250→- (An independent blogger cited COP $120,000/person for a 3-h Valerosa tour as of June 2026.)
+
+[showing lines 1-250 of 411; use offset=251 with limit to continue reading]

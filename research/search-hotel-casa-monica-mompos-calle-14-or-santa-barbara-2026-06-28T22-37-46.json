@@ -1,0 +1,61 @@
+{
+  "query": "\"Hotel Casa Monica\" Mompos \"calle 14\" OR \"Santa Bárbara\"",
+  "num": 6,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://www.facebook.com/groups/3696299173920478/posts/4047332118817180",
+      "name": "Buenas noches, estoy necesitando hospedaje el dia viernes en",
+      "snippet": "Hotel casa monica callejón de santa bárbara Super recomendado. 34w · 1 like. Camila Marcela Blanco Ortega. 󱐭. Author. Jenïfër Isä Amador ...\nHotel casa monica callejón de santa bárbara Super recomendado ... Busco hospedaje para los días lunes 14, martes 15 y miércoles 16.",
+      "host_name": "www.facebook.com",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://es.dreamstime.com/photos-images/pueblo-colonial-hist%C3%B3rico.html",
+      "name": "76,376 Pueblo Colonial Histórico Fotos de stock - Dreamstime",
+      "snippet": "Paseo en tranvía, Hotel Casa Monica y Museo Lightner sobre un fondo de ...",
+      "host_name": "es.dreamstime.com",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.facebook.com/groups/125611632771420/posts/753841359948441",
+      "name": "Hola viajeros. Tengo una XTZ150 y estoy planeando hacer una ruta",
+      "snippet": "Le recomiendo pasar la tarde - noche en Mompós, es espectacular. Hotel CASA MONICA en Google aparece queda detras de Iglesia Santa Barbara ...",
+      "host_name": "www.facebook.com",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/Mompos-Hotels-Hotel-Santa-Barbara-Mompox.h112110643.Hotel-Information",
+      "name": "Hotel Santa Bárbara Mompox Reviews, Deals & Photos 2026",
+      "snippet": "Visit our Mompos travel guide. See more. Map. Calle 14 No 2 -132, Mompos, Bolivar, 132560. View in a map. What's nearby · Restaurants. Bolívar Stone. 8 min walk ...",
+      "host_name": "www.expedia.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.agoda.com/en-nz/hotel-santa-barbara-mompos/hotel/mompos-co.html",
+      "name": "BOOK >> Hotel Santa Barbara Mompox in Mompos, Colombia",
+      "snippet": "Calle 14 No 2 -132 Mompos Bolívar, Mompos, Mompos, Bolivar, Colombia, 132560 ... Nestled in the heart of Mompos, Hotel Santa Barbara Mompox offers ...",
+      "host_name": "www.agoda.com",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.hotels.com/ho3588540576",
+      "name": "Hotel Santa Bárbara Mompox , Mompos",
+      "snippet": "Calle 14 No 2 -132, Mompos, Bolivar, 132560. View in a map. What's nearby · Restaurants. Bolívar Stone - 8 min walk - 0.7 km. Te Deum House - 8 min walk - 0.7 ...",
+      "host_name": "www.hotels.com",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

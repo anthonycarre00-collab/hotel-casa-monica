@@ -1,0 +1,268 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-playfair);
+  --font-script: var(--font-dancing);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+
+  /* Casa Mónica brand palette */
+  --color-cream: var(--cream);
+  --color-cream-50: var(--cream-50);
+  --color-cream-100: var(--cream-100);
+  --color-terracotta: var(--terracotta);
+  --color-terracotta-dark: var(--terracotta-dark);
+  --color-brick: var(--brick);
+  --color-forest: var(--forest);
+  --color-palm: var(--palm);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-wood: var(--wood);
+  --color-wood-soft: var(--wood-soft);
+  --color-sand: var(--sand);
+  --color-river: var(--river);
+  --color-clay: var(--clay);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  --radius: 0.5rem;
+
+  /* Surfaces */
+  --background: #FDF6E8;            /* warm cream — cal y blanco */
+  --foreground: #3D2817;            /* dark hardwood */
+  --card: #FFFFFF;
+  --card-foreground: #3D2817;
+  --popover: #FFFFFF;
+  --popover-foreground: #3D2817;
+  --secondary: #F4E6C8;             /* sand */
+  --secondary-foreground: #5C3D1F;
+  --muted: #F4E6C8;
+  --muted-foreground: #7A5A35;
+  --accent: #C8542A;                /* terracotta */
+  --accent-foreground: #FFFFFF;
+  --destructive: #B22222;           /* brick red from logo */
+  --border: #E6D2B0;
+  --input: #E6D2B0;
+  --ring: #C8542A;
+
+  /* Brand */
+  --cream: #FDF6E8;
+  --cream-50: #FFFDF7;
+  --cream-100: #F8EFD9;
+  --terracotta: #C8542A;
+  --terracotta-dark: #A0431F;
+  --brick: #B22222;
+  --forest: #2E5D3A;
+  --palm: #5A8C5A;
+  --gold: #C9A961;
+  --gold-soft: #E8D6A0;
+  --wood: #3D2817;
+  --wood-soft: #6B4A2B;
+  --sand: #F4E6C8;
+  --river: #4A7A8C;
+  --clay: #B5683C;
+
+  /* shadcn primary = terracotta */
+  --primary: #C8542A;
+  --primary-foreground: #FFFDF7;
+
+  /* Charts */
+  --chart-1: #C8542A;
+  --chart-2: #2E5D3A;
+  --chart-3: #C9A961;
+  --chart-4: #B22222;
+  --chart-5: #4A7A8C;
+
+  --sidebar: #FFFDF7;
+  --sidebar-foreground: #3D2817;
+  --sidebar-primary: #C8542A;
+  --sidebar-primary-foreground: #FFFDF7;
+  --sidebar-accent: #F4E6C8;
+  --sidebar-accent-foreground: #3D2817;
+  --sidebar-border: #E6D2B0;
+  --sidebar-ring: #C8542A;
+}
+
+.dark {
+  --background: #2A1F12;
+  --foreground: #FDF6E8;
+  --card: #3D2817;
+  --card-foreground: #FDF6E8;
+  --popover: #3D2817;
+  --popover-foreground: #FDF6E8;
+  --primary: #E89770;
+  --primary-foreground: #2A1F12;
+  --secondary: #5C3D1F;
+  --secondary-foreground: #FDF6E8;
+  --muted: #5C3D1F;
+  --muted-foreground: #D6BFA0;
+  --accent: #E89770;
+  --accent-foreground: #2A1F12;
+  --destructive: #D44545;
+  --border: #5C3D1F;
+  --input: #5C3D1F;
+  --ring: #E89770;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "ss01", "cv01", "cv02";
+  }
+}
+
+/* ---- Decorative & utility classes ---- */
+.font-script { font-family: var(--font-script); }
+.font-serif  { font-family: var(--font-serif); }
+.font-sans   { font-family: var(--font-sans); }
+
+/* Filigree-inspired section divider */
+.filigree-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  color: var(--gold);
+}
+.filigree-divider::before,
+.filigree-divider::after {
+  content: "";
+  height: 1px;
+  flex: 1;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  max-width: 120px;
+}
+
+/* Subtle paper / cal texture */
+.bg-cal {
+  background-color: var(--cream);
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(184, 134, 75, 0.04) 0px, transparent 1px),
+    radial-gradient(circle at 80% 70%, rgba(184, 134, 75, 0.04) 0px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Heat-haze / Magdalena sunset wash */
+.bg-sunset-wash {
+  background:
+    radial-gradient(ellipse at top, rgba(232, 151, 112, 0.18), transparent 60%),
+    radial-gradient(ellipse at bottom, rgba(74, 122, 140, 0.10), transparent 60%),
+    var(--cream);
+}
+
+/* Wrought-iron inspired top border */
+.iron-border-top {
+  border-top: 3px double var(--wood);
+}
+.iron-border-bottom {
+  border-bottom: 3px double var(--wood);
+}
+
+/* Slow ken-burns hero zoom */
+@keyframes ken-burns {
+  0%   { transform: scale(1) translate(0, 0); }
+  50%  { transform: scale(1.08) translate(-1%, -1%); }
+  100% { transform: scale(1) translate(0, 0); }
+}
+.animate-ken-burns {
+  animation: ken-burns 24s ease-in-out infinite;
+}
+
+/* Gentle float */
+@keyframes gentle-float {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-6px); }
+}
+.animate-gentle-float { animation: gentle-float 4s ease-in-out infinite; }
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--cream-100); }
+::-webkit-scrollbar-thumb {
+  background: var(--terracotta);
+  border-radius: 6px;
+  border: 2px solid var(--cream-100);
+}
+::-webkit-scrollbar-thumb:hover { background: var(--terracotta-dark); }
+
+/* Selection */
+::selection {
+  background: var(--gold-soft);
+  color: var(--wood);
+}
+
+/* Decorative ornament — used between sections */
+.ornament {
+  display: inline-block;
+  color: var(--gold);
+  font-size: 1.5rem;
+  line-height: 1;
+  transform: rotate(0deg);
+}
+
+/* Reveal-on-scroll */
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Image hover lift */
+.img-lift {
+  transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.6s ease;
+}
+.img-lift:hover {
+  transform: translateY(-4px) scale(1.015);
+  box-shadow: 0 24px 48px -16px rgba(61, 40, 23, 0.45);
+}
+
+/* Sticky footer helper */
+.site-shell { min-height: 100vh; display: flex; flex-direction: column; }

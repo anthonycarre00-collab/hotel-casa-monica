@@ -1,0 +1,79 @@
+{
+  "query": "\"Hotel Casa Monica\" Mompos Colombia reserva",
+  "num": 8,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://www.alojamientosencolombia.com/alojamientos/hotel-casa-monica-mompox-santa-cruz-de-mompox-bolivar",
+      "name": "Hotel Casa Mónica Mompox en Santa Cruz de Mompox, Bolívar",
+      "snippet": "Hotel Casa Mónica Mompox: Casa hotel en Santa Cruz de Mompox, Bolívar. Consultá ubicación, contacto y datos disponibles antes de reservar.",
+      "host_name": "www.alojamientosencolombia.com",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.trivago.com/en-US/oar/hotel-casa-faccioli-santa-cruz-de-mompox?search=100-7752136",
+      "name": "Casa Faccioli - Santa Cruz de Mompox - Trivago",
+      "snippet": "SERVICIOS 6 habitaciones con aire acondicionado, televisión por cable, baño privado, teléfono, wifi, nevera Mini Bar. Recepción 24 horas del día Restaurante - ...",
+      "host_name": "www.trivago.com",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jaxak-casa-monica-resort-and-spa-autograph-collection/overview",
+      "name": "Casa Monica Resort & Spa, Autograph Collection - Marriott",
+      "snippet": "Book a distinctive stay at Casa Monica Resort & Spa, Autograph Collection. Premium accommodations, unique rooms & great service await you.",
+      "host_name": "www.marriott.com",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.hotels.com/de11419027/hotels-santa-cruz-de-mompox-colombia",
+      "name": "Reserve Santa Cruz de Mompox Hotels | Competitive Pricing",
+      "snippet": "Discover this Colonial-era hotel with 2 outdoor pools, lush gardens, and terrace near Bolívar Stone and Te Deum House. After exploring historic Mompos, relax at ...",
+      "host_name": "www.hotels.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/hotel/us/casa-monica-autograph-collection.html",
+      "name": "Casa Monica Resort & Spa, Autograph Collection - Booking.com",
+      "snippet": "All rooms at Casa Monica Luxury & Lifestyle hotel include a Bose sound system, flat-screen cable TV, desk, and tea- and coffee-making facilities. Each ...",
+      "host_name": "www.booking.com",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.pricetravel.com/en/hotel/casa-carmenza_a551296",
+      "name": "Casa Carmenza - Santa Cruz de Mompox, Colombia - PriceTravel",
+      "snippet": "Casa Carmenza is an accommodation available for fully booking. ***By law, currency exchange in hotels in Colombia is not permitted. ***There may be mandatory ...",
+      "host_name": "www.pricetravel.com",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297475-d1636435-Reviews-Casa_Santa_Monica-Cali_Valle_del_Cauca_Department.html",
+      "name": "CASA SANTA MONICA - Prices & Hotel Reviews (Cali, Colombia)",
+      "snippet": "Providing an ideal mix of value, comfort and convenience, it offers a family-friendly setting with an array of amenities designed for travelers like you.",
+      "host_name": "www.tripadvisor.com",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/Cali-Hotels-Hotel-Casa-Santa-Monica-Norte.h4404823.Hotel-Information",
+      "name": "Hotel Casa Santa Monica Norte Reviews, Deals & Photos 2026",
+      "snippet": "All guestrooms at Hotel Casa Santa Monica Norte boast comforts such as premium bedding and air conditioning, as well as amenities like free WiFi and minibars.",
+      "host_name": "www.expedia.com",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

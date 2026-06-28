@@ -1,0 +1,7 @@
+[
+  {
+    "ok": false,
+    "url": "--keep-html",
+    "error": "Function invoke failed with status 500: {\"result\":null,\"error\":\"Page reader failed: request failed with status 400: {\\\"code\\\":400,\\\"data\\\":null,\\\"message\\\":\\\"JINA request returned 400 for --keep-html: {\\\\\\\"data\\\\\\\":null,\\\\\\\"path\\\\\\\":\\\\\\\"url\\\\\\\",\\\\\\\"code\\\\\\\":400,\\\\\\\"name\\\\\\\":\\\\\\\"ParamValidationError\\\\\\\",\\\\\\\"status\\\\\\\":40001,\\\\\\\"message\\\\\\\":\\\\\\\"Domain '--keep-html' could not be resolved\\\\\\\",\\\\\\\"readableMessage\\\\\\\":\\\\\\\"ParamValidationError(url): Domain '--keep-html' could not be resolved\\\\\\\"}\\\",\\\"name\\\":\\\"UpstreamError\\\"}\\n\"}"
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "query": "hotelesbeijing.com.co \"Casa Monica\" Mompos",
+  "num": 8,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://hotelesbeijing.com.co/hotel/hotel-casa-monica",
+      "name": "Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia",
+      "snippet": "Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con habitaciones climatizadas y atención cercana ideal para ...",
+      "host_name": "hotelesbeijing.com.co",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.instagram.com/casamonicamompox",
+      "name": "Hotel Casa Mónica Mompox (@casamonicamompox) - Instagram",
+      "snippet": "Mompox, Bolívar Visítanos y siéntete como en casa · Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. · Diferentes formas, pero todas ...",
+      "host_name": "www.instagram.com",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.trivago.com/en-US/oar/hotel-casa-faccioli-santa-cruz-de-mompox?search=100-7752136",
+      "name": "Casa Faccioli - Santa Cruz de Mompox - Trivago",
+      "snippet": "SERVICIOS 6 habitaciones con aire acondicionado, televisión por cable, baño privado, teléfono, wifi, nevera Mini Bar. Recepción 24 horas del día Restaurante - ...",
+      "host_name": "www.trivago.com",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://lacasaamarillamompos.com",
+      "name": "La Casa Amarilla Mompós – Conoce nuestro hotel en Mompós o",
+      "snippet": "Estamos ubicados en el centro histórico de Mompós. Construida a mediados del siglo XVII, La Casa Amarilla es una casona colonial que conserva la esencia y el ...",
+      "host_name": "lacasaamarillamompos.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.trip.com/hotels/mompos-hotel-detail-50113337/casa-la-concepcin",
+      "name": "Casa La Concepción, Mompos - 2026 Prices & Reviews - Trip.com",
+      "snippet": "Want to book Casa La Concepción, Mompos hotel? Choose your room, check latest prices and hotel reviews. Book your perfect stay on Trip.com!",
+      "host_name": "www.trip.com",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://hotelesbeijing.com.co/ubicacion/bolivar/mompos/santa-cruz-de-mompox/page/3",
+      "name": "Hoteles en Santa Cruz de Mompox",
+      "snippet": "Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...",
+      "host_name": "hotelesbeijing.com.co",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://staugustine-us.com/en/p/resortcasamonicacollection.html",
+      "name": "Casa Monica Resort & Spa, Autograph Collection - St. Augustine",
+      "snippet": "Some rooms at Casa Monica Resort & Spa, Autograph Collection are fitted with a central heating and ironing facilities, and such self-catering options as a ...",
+      "host_name": "staugustine-us.com",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/city/co/mompos-co.es.html",
+      "name": "Los 10 mejores hoteles de Mompós, Colombia (desde € 136)",
+      "snippet": "Mompós: 10 hoteles y otros sitios para alojarse · Casa Taller & Hotel El Boga · Hotel Isla Capri · Hostal Casa La Candelaria · Casa Serrano - Calle Real 5 · Hotel ...",
+      "host_name": "www.booking.com",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

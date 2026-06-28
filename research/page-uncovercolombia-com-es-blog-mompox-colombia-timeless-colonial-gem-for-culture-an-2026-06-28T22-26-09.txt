@@ -1,0 +1,255 @@
+Descubre Mompox Colombia Una obra maestra colonial para la cultura Uncover Colombia
+Consent
+Details
+[#IABV2SETTINGS#]
+About
+This website uses cookies
+We use cookies to personalise content, evaluate website traffic, enhance performance, and provide social media features. To get more information about the cookies we use and the processing of your data, please check our Privacy Policy
+[#GPC_BANNER_ICON#]
+[#GPC_TOAST_TEXT#]
+Consent Selection Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Details
+Necessary 3
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Cloudflare 1
+Learn more about this provider cf.turnstile.u This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Persistent Type : HTML Local Storage
+Cookiebot 1
+Learn more about this provider CookieConsent Stores the user's cookie consent state for the current domain Maximum Storage Duration : 1 year Type : HTTP Cookie
+www.uncovercolombia.com 1
+wires The cookie is necessary for secure log-in and the detection of any spam or abuse of the website. Maximum Storage Duration : Session Type : HTTP Cookie
+Preferences 0
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type.
+Statistics 21
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Meta Platforms, Inc. 1
+Learn more about this provider _fbp Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. Maximum Storage Duration : 3 months Type : HTTP Cookie
+Flywire 1
+Learn more about this provider _cfuvid This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. Maximum Storage Duration : Session Type : HTTP Cookie
+Google 5
+Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+_ga Registers a unique ID that is used to generate statistical data on how the visitor uses the website. Maximum Storage Duration : 2 years Type : HTTP Cookie
+_ga_# Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. Maximum Storage Duration : 2 years Type : HTTP Cookie
+_gat Used by Google Analytics to throttle request rate Maximum Storage Duration : 1 day Type : HTTP Cookie
+_gcl_au Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. Maximum Storage Duration : 3 months Type : HTTP Cookie
+_gid Registers a unique ID that is used to generate statistical data on how the visitor uses the website. Maximum Storage Duration : 1 day Type : HTTP Cookie
+Hotjar 5
+Learn more about this provider hjActiveViewportIds This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience. Maximum Storage Duration : Persistent Type : HTML Local Storage
+hjViewportId Saves the user's screen size in order to adjust the size of images on the website. Maximum Storage Duration : Session Type : HTML Local Storage
+_hjSession_# Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. Maximum Storage Duration : 1 day Type : HTTP Cookie
+_hjSessionUser_# Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. Maximum Storage Duration : 1 year Type : HTTP Cookie
+_hjTLDTest Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Maximum Storage Duration : Session Type : HTTP Cookie
+Tripadvisor 9
+Learn more about this provider ServerPool Used for viewing embedded content from TripAdvisor, including payment of referral commission fees and user tracking across websites. Maximum Storage Duration : Session Type : HTTP Cookie
+TACds Used for viewing embedded content from TripAdvisor, including payment of referral commission fees and user tracking across websites. Maximum Storage Duration : 2 months Type : HTTP Cookie
+TADCID Used for viewing embedded content from TripAdvisor, including payment of referral commission fees and user tracking across websites. Maximum Storage Duration : 10 years Type : HTTP Cookie
+TART This cookie allows the visitor to view embedded content from Tripadvisor, such as advertisement. - This cookie is also used by the website to determine if visitor's click on the advertsements, in order to collect payment from Tripadviser. Maximum Storage Duration : 5 days Type : HTTP Cookie
+TASession Used for viewing embedded content from TripAdvisor, including payment of referral commission fees and user tracking across websites. Maximum Storage Duration : Session Type : HTTP Cookie
+TASSK This cookie allows the visitor to view embedded content from Tripadvisor, such as advertisement. - This cookie is also used by the website to determine if visitor's click on the advertsements, in order to collect payment from Tripadviser. Maximum Storage Duration : 180 days Type : HTTP Cookie
+TATravelInfo Used for viewing embedded content from TripAdvisor, including payment of referral commission fees and user tracking across websites. Maximum Storage Duration : 14 days Type : HTTP Cookie
+TAUD This cookie allows the visitor to view embedded content from Tripadvisor, such as advertisement. - This cookie is also used by the website to determine if visitor's click on the advertsements, in order to collect payment from Tripadviser. Maximum Storage Duration : 14 days Type : HTTP Cookie
+TAUnique Used for viewing embedded content from TripAdvisor, including payment of referral commission fees and user tracking across websites. Maximum Storage Duration : 2 years Type : HTTP Cookie
+Marketing 10
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Meta Platforms, Inc. 2
+Learn more about this provider lastExternalReferrer Detects how the user reached the website by registering their last URL-address. Maximum Storage Duration : Persistent Type : HTML Local Storage
+lastExternalReferrerTime Detects how the user reached the website by registering their last URL-address. Maximum Storage Duration : Persistent Type : HTML Local Storage
+Google 4
+Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+test_cookie Used to check if the user's browser supports cookies. Maximum Storage Duration : 1 day Type : HTTP Cookie
+NID Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. Maximum Storage Duration : 6 months Type : HTTP Cookie
+pagead/1p-user-list/# Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. Maximum Storage Duration : Session Type : Pixel Tracker
+_gcl_ls Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. Maximum Storage Duration : Persistent Type : HTML Local Storage
+Tripadvisor 4
+Learn more about this provider __vt Links user’s preferences and website behavior with the TripAdvisor website, allowing TripAdvisor to show relevant advertisement towards the specific user. Maximum Storage Duration : 1 day Type : HTTP Cookie
+PMC This cookie allows the visitor to view embedded content from Tripadvisor, such as advertisement. - This cookie is also used by the website to determine if visitor's click on the advertsements, in order to collect payment from Tripadviser. Maximum Storage Duration : 2 years Type : HTTP Cookie
+SRT This cookie allows the visitor to view embedded content from Tripadvisor, such as advertisement. - This cookie is also used by the website to determine if visitor's click on the advertsements, in order to collect payment from Tripadviser. Maximum Storage Duration : 1 day Type : HTTP Cookie
+TASID Used for viewing embedded content from TripAdvisor, including payment of referral commission fees and user tracking across websites. Maximum Storage Duration : 1 day Type : HTTP Cookie
+Unclassified 0 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+We do not use cookies of this type.
+Cross-domain consent [#BULK_CONSENT_DOMAINS_COUNT#] [#BULK_CONSENT_TITLE#]
+List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
+Cookie declaration last updated on 6/19/26 by Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#] [#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#] [#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#] [#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+About
+Cookies are small text files that can be used by websites to make a user's experience more efficient. The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies, we need your permission.
+Our website uses first-party and third-party cookies for a number of purposes. The first-party cookies are mostly necessary for the website to function the right way, and they do not collect any of your personally identifiable data.
+The third-party cookies are used to understand how the website performs and how you interact with it, as well as to keep our services secure, provide advertisements that are relevant to you, and provide you overall with a better browsing experience.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Do not sell or share my personal information
+Accept Customize
+Allow selection Use necessary cookies only
+MENU
+UK +44 330 027 0158
+UK +44 330 027 0158
+USA +1 (646) 586-2388
+COL +57 310 865 0695
+ESP
+ENG
+DEU
+ITA
+GBP (£)
+planea tu viaje
+Tour de un Dia
+Tour de un Dia
+Todos los Tours
+Bogotá
+Medellín
+Cartagena
+Viajes Cortos
+Viajes Cortos
+Todos los Viajes
+Historia y Cultura
+Naturaleza y Vida Salvaje
+Avistamiento de Aves
+Expediciones
+Expediciones
+Todas las Expediciones
+Viajes Clásicos
+Viajes Fuera de lo Común
+Naturaleza y Vida Salvaje
+Turismo Comunitario
+Avistamiento de Aves
+Destinos
+Destinos
+Bogotá
+Región Cafetera
+Amazonas
+Medellín
+Costa Caribe
+Los Llanos
+Boyacá y Santander
+Costa Pacifica
+Sur del Pais
+Mas Informacion
+Mas Informacion
+Sobre nosotros
+Planea tu viaje
+Consejos de Viaje
+Preguntas Frecuentes
+Blog de Viajes a Colombia
+Condiciones Generales
+Descargar Guía de Viaje
+UK +44 330 027 0158
+USA +1 (646) 586-2388
+COL +57 310 865 0695
+Hogar
+Blog de Viajes de Colombia
+Explora Mompox: El Tesoro Colonial de Colombia
+Travel Blog Explora Mompox: El Tesoro Colonial de Colombia
+Tours relacionados
+Tours relacionados
+Tour por el mágico Caribe colombiano: Tayrona, Mompox y Cartagena
+11 Días • Private (Pick dates from any available start days)
+Secretos de la Región Caribe colombiana
+10 Días • Private (Pick dates from any available start days)
+Contáctenos
+Escondido en una isla en la cuenca baja del río Magdalena, Mompox (o Santa Cruz de Mompox) es uno de los pueblos coloniales mejor conservados de Colombia. Ubicado en el departamento de Bolívar, a unas 6 horas de Cartagena, esta joya ribereña se siente como un mundo aparte, protegido por sinuosos cursos de agua y exuberantes humedales que han conservado sus tradiciones intactas durante siglos.
+Su ubicación no es casualidad. Durante más de 400 años, el río Magdalena fue la arteria principal del país, transportando personas, oro, historias y culturas enteras entre la costa caribeña y el interior andino. Mompox se convirtió en un puerto comercial vital, un depósito seguro para el oro de España y un refugio para comerciantes, familias y revolucionarios. El río moldeó su prosperidad, su arquitectura e incluso su estilo de vida tranquilo y reflexivo. Caminar por Mompox hoy es adentrarse en un capítulo vivo de la historia colombiana: uno que el río aún susurra a través de sus tranquilos y dorados reflejos.
+Gabriel García Márquez dijo alguna vez que pueblos como Mompox son lugares “donde el tiempo no pasa”, y cuando recorres sus tranquilas calles al atardecer a través de Mompox tours , entiendes al instante por qué.
+¿Qué hace a Mompox tan especial? Un pueblo donde la historia duerme pero nunca muere.
+Mompox (oficialmente Santa Cruz de Mompox) es uno de esos raros lugares donde el pasado se percibe en cada rincón. Fundada en 1540 en una isla formada por los canales entrelazados del río Magdalena, se convirtió en una próspera ciudad colonial gracias a su posición estratégica como puerto fluvial entre el mar Caribe y el interior andino. Durante siglos, el río Magdalena fue la principal vía fluvial de Colombia. Todo: personas, oro, comida, historias, circulaba por este río, y Mompox se convirtió en el lugar perfecto para que los comerciantes descansaran, comerciaran y protegieran sus tesoros. El pueblo incluso sirvió como bóveda para el oro español, almacenado en sus iglesias y mansiones, de ahí la frase: «Quien se queda en Mompox no se quiere ir».
+En los siglos XVIII y XIX, Mompox era conocida por sus familias adineradas, sus hábiles orfebres y su vibrante vida cultural. Desempeñó un papel importante en la independencia de Colombia; el propio Simón Bolívar se alojó aquí y reclutó tropas en la ciudad. Pero entonces el río cambió. A medida que el curso del Magdalena se desvió y las rutas de navegación se trasladaron a otros lugares, Mompox se fue aislando poco a poco. Ese aislamiento se convirtió en una bendición: conservó la arquitectura colonial prácticamente intacta. Caminar por Mompox hoy es como adentrarse en una ciudad del siglo XVIII perfectamente conservada.
+Una ciudad colonial congelada en el tiempo
+Una de las cosas más sorprendentes de Mompox es lo auténtico que todavía se siente:
+Elegantes iglesias con altares de madera y detalles barrocos.
+Fachadas blancas brillantes alineadas a lo largo de calles adoquinadas
+Casas coloniales junto al río con largos balcones que dan al Magdalena
+Plazas tranquilas llenas de viejos árboles de ceiba y suaves brisas de río.
+La arquitectura refleja la riqueza de su pasado: enormes patios, gruesos muros, ornamentada herrería e iglesias espaciosas que parecen demasiado imponentes para un pueblo tan tranquilo. El silencio, el calor y el ritmo pausado le dan a todo una atmósfera casi onírica.
+Gabriel García Márquez, escritor colombiano ganador del Premio Nobel, se inspiró en pueblos como Mompox para dar forma al mundo de Macondo, un lugar donde el tiempo se dobla, los recuerdos perduran y el realismo mágico se siente completamente natural.
+Todo esto lo podrás vivir a través de itinerarios como nuestro Tour Costa Caribe Mágica: Cartagena, Tayrona y Mompox o el Tour Secretos de la Costa Caribe .
+Un lugar de tradiciones vivas
+Más allá de su arquitectura, Mompox es un pueblo definido por la tradición:
+Filigrana (Filigrana Momposina): Su delicada técnica de joyería es mundialmente famosa. Muchas familias locales la han practicado durante generaciones, utilizando métodos que no han cambiado en 300 años.
+Semana Santa en Mompox: Una de las celebraciones religiosas más hermosas de Colombia, conocida por sus procesiones con velas y costumbres centenarias.
+Cultura fluvial La vida todavía gira en torno al Magdalena: la pesca, los paseos nocturnos por el paseo marítimo, los barqueros cantando mientras se desplazan lentamente por el agua.
+La gastronomía de Mompox es una deliciosa mezcla de influencias caribeñas, ribereñas y coloniales. Podrá degustar platillos como queso de capas , bocachico o mojarra recién pescada en el río Magdalena, y arroz de camarones , además de dulces tradicionales preparados con cariño por mujeres locales con recetas transmitidas de generación en generación. Cada comida refleja el patrimonio de la región, su cultura ribereña y la calidez de su gente.
+Por qué Mompox se siente como ningún otro lugar en Colombia
+Los viajeros suelen decir que visitar Mompox es como descubrir un secreto. Es más tranquilo, más íntimo y con una cultura más preservada que otras ciudades coloniales como Cartagena o Villa de Leyva. Al ser más difícil de alcanzar, todo se siente más auténtico, nada recargado ni recreado para los turistas.
+En cambio, obtienes vida local real, artesanos reales, tradiciones reales, cultura fluvial real y puestas de sol sobre el río Magdalena que parecen pinturas.
+Las mejores actividades para hacer en Mompox, Colombia
+1. Explora uno de los pueblos coloniales más bellos de Colombia
+El centro histórico de Mompox es un sueño para los amantes de la arquitectura y la cultura que buscan un recorrido. Sus fachadas encaladas, iglesias ornamentadas, balcones de madera y paseos ribereños le valieron la declaración de Patrimonio Mundial de la UNESCO. No te pierdas: la Iglesia de Santa Bárbara y su icónica torre octogonal, el paseo de la Alameda, los talleres de orfebrería, y las mansiones y plazas perfectamente conservadas. Es uno de los pueblos coloniales más fotogénicos de Colombia.
+2. Aprenda a hacer joyería de filigrana con artesanos locales
+Mompox es mundialmente famosa por su joyería de filigrana, una delicada técnica introducida por los españoles y perfeccionada por las familias locales durante generaciones. Durante este taller práctico, podrás: adentrarte en el taller de un artesano tradicional, aprender a torcer finos hilos de plata u oro, crear tu propia pieza única de filigrana y escuchar las historias detrás de esta artesanía centenaria. Esto no es solo joyería, es un encuentro cultural íntimo.
+3. Cocina como un local y navega por el río Magdalena al atardecer
+Comienza tu inmersión cultural con una experiencia culinaria local: prepara platillos tradicionales momposinos, aprende recetas con influencia caribeña y comparte historias y sabores con un chef local. Después, disfruta de un tranquilo crucero al atardecer por el río Magdalena, el mismo río que forjó la historia de Colombia e inspiró el mundo de García Márquez. A medida que el sol tiñe el agua de dorado y las riberas se aquietan, comprenderás por qué este lugar parece una experiencia de realismo mágico.
+4. Únete a la Comunidad Indígena Zenú para un Taller de “Sombrero Vueltiao”
+Cerca de Mompox, puedes sumergirte en la cultura Zenú con un taller de tejido dedicado al icónico Sombrero Vueltiao de Colombia, un símbolo de patrimonio nacional reconocido por la UNESCO.
+Aprenderás: cómo se preparan las fibras de caña flecha, el significado de cada patrón en blanco y negro, y técnicas transmitidas por más de 2000 años. Esta es una forma inolvidable de conectar con una de las tradiciones indígenas más importantes de Colombia.
+5. Descubra playas vírgenes
+Después de explorar la historia y la cultura, relájese en las tranquilas playas vírgenes cerca de Punta Bolívar en San Antero. Disfrute de playas privadas de arena blanca, aguas turquesas y tranquilas del Caribe, chiringuitos y mariscos locales, además de actividades acuáticas como kayak, recorridos por los manglares y experiencias de remo. Es el complemento perfecto para la riqueza cultural de Mompox.
+¿Por qué Mompox debería ser tu próximo destino de viaje?
+Mompox es ideal para: Amantes de la cultura y la historia, viajeros que buscan experiencias auténticas y no turísticas, fanáticos de Gabriel García Márquez, entusiastas de la arquitectura y la fotografía, amantes de la comida y la artesanía, debido a su mezcla de encanto colonial, tradiciones artesanales, herencia indígena y la cercana belleza caribeña lo convierte en uno de los lugares más singulares para visitar en Colombia.
+¿Listo para descubrir Mompox?
+Deja que Uncover Colombia te lleve al corazón de este mágico pueblo y su cultura. Personaliza tu itinerario en Mompox o reserva tu tour aquí .
+Share with your traveller friends!
+SOBRE EL AUTOR
+Paola Rodriguez
+Paola is passionate about travelling to explore new places and cultures. Her love for learning other languages led her to pursue an MBA in Taiwan, where she seized every opportunity to explore Asia, visiting countries like Japan, Vietnam, Thailand, and Korea. After finishing her studies, Paola returned to Colombia and joined the Uncover Colombian team to continue working in Tourism and promoting her country.
+RELATED TOURS
+Expedición privada
+Tour por el mágico Caribe colombiano: Tayrona, Mompox y Cartagena
+desde $0
+11 Días
+Descubre el parque de Tayrona, visita la casa natal de Gabriel García Márquez, comparte con comunidades indígenas y explora Mompox, Cartagena y las islas vírgenes del Caribe colombiano.
+MORE DETAILS
+Expedición privada
+Secretos de la Región Caribe colombiana
+desde $0
+10 Días
+Descubre las playas de Tayrona, la ciudad colonial de Mompox, el romanticismo de Cartagena, Aracataca, lugar de nacimiento de García Márquez, y la cultura caribeña de Colombia a lo largo del río...
+MORE DETAILS
+Tours relacionados
+Tours relacionados
+Tour por el mágico Caribe colombiano: Tayrona, Mompox y Cartagena
+11 Días • Private (Pick dates from any available start days)
+Secretos de la Región Caribe colombiana
+10 Días • Private (Pick dates from any available start days)
+Contáctenos
+GRACIAS
+Reserva completada. Recibirás un correo electrónico con la confirmación de la reserva.
+Confirmación de pago en curso
+¡Hemos recibido el pago! Nos pondremos en contacto con usted pronto para concretar todos los detalles de su excursión.
+Error en la pasarela de pago
+Lo sentimos, pero estamos experimentando un error en nuestra pasarela de pago. Por favor, inténtelo de nuevo pronto.
+ERROR DE DISPONIBILIDAD
+Lo sentimos, pero no podemos completar la reserva debido a un cambio en la disponibilidad. Por favor, inténtelo de nuevo con nuevas fechas.
+ERROR DE RESERVA
+Lo sentimos, pero no podemos completar la reserva debido a un cambio en la disponibilidad. Por favor, inténtelo de nuevo con nuevas fechas.
+Cerca
+ERROR DE CLAVE DE RESERVA
+Lo sentimos, pero no podemos completar la reserva debido a un error en la clave de reserva. Por favor, inténtelo de nuevo.
+Close
+¡Ya casi terminamos! Ahora serás redirigido a PayPal para completar el proceso de reserva seguro. ¡Estás a punto de reservar unas vacaciones increíbles en Colombia!
+Don't miss out!
+Hi there, let us inspire you for your next holidays and get exclusive offers and updates on our latest tours!
+Nombre
+Email
+Acepto Descubrir Colombia términos and política de privacidad.
+Suscríbete para recibir actualizaciones
+Nombre
+Email
+Acepto los términos y la política de privacidad de Uncover Colombia.
+Contact Us
+About Us
+Terms & Conditions
+© Uncover Colombia 2026
+Uncover Colombia Limited. 124 City Road, London, EC1V 2NX. Registered in England and Wales No. 08092957
+Uncover Colombia Ltda. Transversal 22A No. 60 - 37 Apto 801, Bogotá - Colombia . NIT: 900.553.236-9 RNT: 27816
+Web Design
+by

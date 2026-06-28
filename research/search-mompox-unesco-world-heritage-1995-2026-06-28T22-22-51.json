@@ -1,0 +1,79 @@
+{
+  "query": "Mompox UNESCO World Heritage 1995",
+  "num": 8,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://whc.unesco.org/en/list/742",
+      "name": "Historic Centre of Santa Cruz de Mompox",
+      "snippet": "Founded in 1540 on the banks of the River Magdalena, Mompox played a key role in the Spanish colonization of northern South America.",
+      "host_name": "whc.unesco.org",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.wmf.org/monuments/historic-center-santa-cruz-de-mompox",
+      "name": "Historic Center of Santa Cruz de Mompox - World Monuments Fund",
+      "snippet": "2012 World Monuments Watch. In 1995, the Historic Center of Santa Cruz de Mompox was inscribed on UNESCO's World Heritage List. But the gradual change of ...",
+      "host_name": "www.wmf.org",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://colombia-travels.com/caribbean/mompox",
+      "name": "Mompox, a World Heritage Colombian colonial town - Terra Colombia",
+      "snippet": "Located on the banks of the Magdalena River south of Cartagena, the village of Mompox was declared a UNESCO World Heritage Site in 1995. Seemingly frozen in ...",
+      "host_name": "colombia-travels.com",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://whc.unesco.org/en/list/742/documents",
+      "name": "Historic Centre of Santa Cruz de Mompox - Documents",
+      "snippet": "UNESCO World Heritage Centre. ... 1995, Report of the 19th Session of the Committee. 1995, 19COM VIIIC.1 - Inscription: The Historic Centre of Santa Cruz de ...",
+      "host_name": "whc.unesco.org",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://uncovercolombia.com/blog/unesco-heritage-sites-in-colombia",
+      "name": "UNESCO Heritage Sites in Colombia",
+      "snippet": "... World Heritage Site in 1995. Visit to Mompox will surely transport you back in time. 3. National Archaeological Park of Tierradentro. Located in the ...",
+      "host_name": "uncovercolombia.com",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.nationalgeographic.com/travel/world-heritage/article/mompox",
+      "name": "Santa Cruz de Mompox -- World Heritage Site - National Geographic",
+      "snippet": "Site: Historic Center of Santa Cruz de Mompox. Location: Colombia. Year Designated: 1995. Category: Cultural. Criteria: (iv)(v).",
+      "host_name": "www.nationalgeographic.com",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Cruz_de_Mompox",
+      "name": "Santa Cruz de Mompox - Wikipedia",
+      "snippet": "UNESCO named the historic center of Mompox as a World Heritage Site in 1995. The Colombian government named Mompox a Pueblo Patrimonio (heritage town) in 2010.",
+      "host_name": "en.wikipedia.org",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.tripadvisor.com/Attractions-g445061-Activities-c42-t228-Mompos_Bolivar_Department.html",
+      "name": "Historical & Heritage Tours in Mompos - Tripadvisor",
+      "snippet": "Mompox has been a UNESCO World Heritage Site and Cultural Heritage since 1995, defined as a magical city with a lot of history, therefore walking its ...",
+      "host_name": "www.tripadvisor.com",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

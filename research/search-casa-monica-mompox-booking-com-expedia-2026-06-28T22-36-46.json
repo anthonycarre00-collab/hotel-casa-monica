@@ -1,0 +1,79 @@
+{
+  "query": "\"Casa Monica\" Mompox Booking.com Expedia",
+  "num": 8,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://www.expedia.com/St-Augustine-Hotels-Casa-Monica-Resort-Spa.h329630.Hotel-Information",
+      "name": "Casa Monica Resort & Spa: View Reviews & Photos 2026 - Expedia",
+      "snippet": "Just steps from Flagler College and St. George Street, Casa Monica Resort & Spa offers Mediterranean cuisine at Costa Brava Restaurant and therapeutic ...",
+      "host_name": "www.expedia.com",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia-aarp.com/St-Augustine-Hotels-Casa-Monica-Resort-Spa.h329630.Hotel-Information",
+      "name": "Casa Monica Resort & Spa, Autograph Collection",
+      "snippet": "Book a stay at this luxury hotel in St. Augustine. Enjoy a full-service spa, breakfast (surcharge), and room service. Our guests praise the helpful staff ...",
+      "host_name": "www.expedia-aarp.com",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/hotel/us/casa-monica-autograph-collection.html",
+      "name": "Casa Monica Resort & Spa, Autograph Collection - Booking.com",
+      "snippet": "Casa Monica Resort & Spa features Moorish-style architecture that dates back to 1888. The hotel is located in historic St. Augustine, only a 1-minute walk from ...",
+      "host_name": "www.booking.com",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/Pijino-Del-Carmen-Hotels.d720042128806522880.Travel-Guide-Hotels",
+      "name": "Top 10 Hotels in Pijiño del Carmen (from $31) 2026 - Expedia.com",
+      "snippet": "Find 34 of the best hotels in Pijiño del Carmen in 2026. Compare room rates, hotel reviews and availability. Most hotels are fully refundable.",
+      "host_name": "www.expedia.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/Fiefiemu-Hotels-Santa-Monica-Home-Lodge.h50904204.Hotel-Information",
+      "name": "Santa Monica Home Lodge Reviews, Deals & Photos 2026 - Expedia",
+      "snippet": "Enjoy free WiFi, free parking, and a garden. A peaceful retreat with outdoor spaces for relaxation and pet-friendly amenities, Located in Fiefiemu,",
+      "host_name": "www.expedia.com",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/Mompos-Hotels.d6340237.Travel-Guide-Hotels",
+      "name": "Top 10 Hotels in Mompos (from $21) 2026 - Competitive Prices",
+      "snippet": "Find 39 of the best hotels in Mompos in 2026. Compare room rates, hotel reviews and availability. Most hotels are fully refundable.",
+      "host_name": "www.expedia.com",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/Cali-Hotels-Santa-Monica-Alta-Hotel-Boutique.h13124036.Hotel-Information",
+      "name": "Santa Monica Alta Hotel Boutique - Hostel - Expedia",
+      "snippet": "Book a stay at this business-friendly hostel in Cali. Enjoy free breakfast, free WiFi, and free parking. Popular attractions Chipichape Shopping Center and ...",
+      "host_name": "www.expedia.com",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/hotel/ph/monique-residences.html",
+      "name": "Casa Monica, Tuguegarao City (updated prices 2026) - Booking.com",
+      "snippet": "Casa Monica in Tuguegarao City offers aparthotel-style accommodations with family rooms. Each unit features air-conditioning, a kitchenette, and a private ...",
+      "host_name": "www.booking.com",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

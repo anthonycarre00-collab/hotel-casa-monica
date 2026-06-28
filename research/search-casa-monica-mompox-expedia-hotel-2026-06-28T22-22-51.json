@@ -1,0 +1,79 @@
+{
+  "query": "\"Casa Monica\" Mompox Expedia hotel",
+  "num": 8,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://www.rome2rio.com/es/s/Santa-Ana/Tuguegarao",
+      "name": "Santa Ana → Tuguegarao: precios y horarios",
+      "snippet": "Casa Monica. 2485 ₱. Casa Monica(Se abre en una ventana nueva). 8.8Fabuloso. NGN GRAN HOTEL. 1869 ₱. NGN GRAN HOTEL(Se abre en una ventana nueva). 7.8Bien.",
+      "host_name": "www.rome2rio.com",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/St-Augustine-Hotels-Casa-Monica-Resort-Spa.h329630.Hotel-Information",
+      "name": "Casa Monica Resort & Spa: View Reviews & Photos 2026 - Expedia",
+      "snippet": "Casa Monica Resort & Mediterranean dining and spa treatments. Guests can relax by the outdoor pool, explore the garden, or connect using in-room WiFi. Reviews ...",
+      "host_name": "www.expedia.com",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/St-Augustine-Historic-District-St-Augustine-Hotels-Luxury-Hotel.0-n6339215-0-tLuxuryHotel.Travel-Guide-Filter-Hotels",
+      "name": "The Best Luxury Hotels in St. Augustine Historic District, St  - Expedia",
+      "snippet": "Casa Monica Resort & Spa, Autograph Collection is a luxury hotel with a full-service spa and in-room massages, and it's a popular choice for Expedia travelers",
+      "host_name": "www.expedia.com",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia-aarp.com/St-Augustine-Hotels-Casa-Monica-Resort-Spa.h329630.Hotel-Information",
+      "name": "Casa Monica Resort & Spa, Autograph Collection",
+      "snippet": "Enjoy a full-service spa, breakfast (surcharge), and room service. this property has an outdoor pool and a children's pool. a fee of USD 150.00 per ...",
+      "host_name": "www.expedia-aarp.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/Mompos-Hotels.d6340237.Travel-Guide-Hotels",
+      "name": "Top 10 Hotels in Mompos (from $21) 2026 - Competitive Prices",
+      "snippet": "Find 39 of the best hotels in Mompos in 2026. Compare room rates, hotel reviews and availability. Most hotels are fully refundable.",
+      "host_name": "www.expedia.com",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/Cali-Hotels-Hotel-Casa-Santa-Monica-Norte.h4404823.Hotel-Information",
+      "name": "Hotel Casa Santa Monica Norte Reviews, Deals & Photos 2026",
+      "snippet": "All guestrooms at Hotel Casa Santa Monica Norte boast comforts such as premium bedding and air conditioning, as well as amenities like free WiFi and minibars.",
+      "host_name": "www.expedia.com",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/Mompos-Hotels-Portal-De-La-Marquesa.h19015265.Hotel-Information",
+      "name": "Portal de la Marquesa - Mompos Hotels - Expedia",
+      "snippet": "Enjoy free breakfast, free WiFi, and 2 outdoor pools. With in-room WiFi, dry cleaning services, and concierge assistance ideal location and tasty breakfast",
+      "host_name": "www.expedia.com",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.expedia.com/Pijino-Del-Carmen-Hotels.d720042128806522880.Travel-Guide-Hotels",
+      "name": "Top 10 Hotels in Pijiño del Carmen (from $31) 2026 - Expedia.com",
+      "snippet": "Find 34 of the best hotels in Pijiño del Carmen in 2026. Rooms are very large. Mompox Hotel Casa $55 nightly The price is $55 total per night",
+      "host_name": "www.expedia.com",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

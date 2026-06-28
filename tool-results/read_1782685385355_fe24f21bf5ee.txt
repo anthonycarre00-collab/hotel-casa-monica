@@ -1,0 +1,930 @@
+     1→
+     2→>>> Searching: "Casa Monica" Mompox Colombia hotel
+     3→
+     4→===== QUERY: "Casa Monica" Mompox Colombia hotel =====
+     5→  1. Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia
+     6→     URL : https://hotelesbeijing.com.co/hotel/hotel-casa-monica
+     7→     Host: hotelesbeijing.com.co | Date: 
+     8→     Snip: Las habitaciones de Hotel Casa Mónica se describen como espacios de tamaño moderado, suficientes para descansar con comodidad, sin exceso de metros pero tampoco ...
+     9→  2. MG-TD 1951 in Arecibo - Facebook
+    10→     URL : https://www.facebook.com/aacapr/posts/mg-td-1951-in-arecibo/1202684039901255
+    11→     Host: www.facebook.com | Date: 
+    12→     Snip: “Me and my tomato red MG-TD, Hotel Del Coronado, San Diego, California, circa 1953. ... We were in Mompox, Colombia to take this great shot! ... Casa Monica Resort/ ...
+    13→  3. Saint Augustine Mother Monica Stained Glass Cathedral Saint
+    14→     URL : https://www.dreamstime.com/saint-augustine-mother-monica-stained-glass-cathedral-saint-augustine-florida-saint-augustine-saint-monica-stained-glass-cathedral-image236470989
+    15→     Host: www.dreamstime.com | Date: 
+    16→     Snip: ... Hotel Monica · Casa Monica Hotel · Monica Mother · Santa Monica · Santa · California ... Basilica of Saint Augustine in Santa Cruz ...
+    17→  4. سانت أوغستين، فلوريدا - St. Augustine, Florida - المعرفة
+    18→     URL : https://www.marefa.org/%D8%B3%D8%A7%D9%86%D8%AA_%D8%A3%D9%88%D8%BA%D8%B3%D8%AA%D9%8A%D9%86%D8%8C_%D9%81%D9%84%D9%88%D8%B1%D9%8A%D8%AF%D8%A7
+    19→     Host: www.marefa.org | Date: 
+    20→     Snip: The next year, he purchased the Casa Monica Hotel (renaming it the Cordova Hotel) across the street from both the Alcazar and the Ponce de Leon. His chosen ...
+    21→  5. Savannah City Night Imágenes y Fotos - 123RF
+    22→     URL : https://fr.123rf.com/images-libres-de-droits/savannah_city_night.html
+    23→     Host: fr.123rf.com | Date: 
+    24→     Snip: Le Casa Monica Hôtel de nuit à St. Augustine ...
+    25→  6. Hola viajeros. Tengo una XTZ150 y estoy planeando hacer una ruta
+    26→     URL : https://www.facebook.com/groups/125611632771420/posts/753841359948441
+    27→     Host: www.facebook.com | Date: 
+    28→     Snip: Hotel CASA MONICA en Google aparece queda detras de Iglesia Santa Barbara (a menas para iniciar el recorrido caminando por la Albarrada a ...
+    29→  7. Saint Augustine Cityscape Decorated with Christmas Lights at Night
+    30→     URL : https://www.dreamstime.com/saint-augustine-cityscape-decorated-christmas-lights-night-saint-augustine-cityscape-decorated-christmas-lights-image262438333
+    31→     Host: www.dreamstime.com | Date: 
+    32→     Snip: ... Basilica of Saint Augustine in Santa Cruz ... Exterior of Casa Monica Hotel in ...
+    33→  8. Basilica in the City Center of Buga Colombia Editorial Photo
+    34→     URL : https://www.dreamstime.com/editorial-photo-basilica-city-center-buga-colombia-july-valle-de-cauca-lord-miracles-receiving-three-million-pilgrims-each-year-image96900851
+    35→     Host: www.dreamstime.com | Date: 
+    36→     Snip: ... Casa Monica in St Augustine royalty free stock image · Casa Monica in St Augustine.
+    37→  (total: 8)
+    38→
+    39→>>> Searching: "Casa Monica" Mompos Bolivar hotel habitaciones
+    40→
+    41→===== QUERY: "Casa Monica" Mompos Bolivar hotel habitaciones =====
+    42→  1. Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia
+    43→     URL : https://hotelesbeijing.com.co/hotel/hotel-casa-monica
+    44→     Host: hotelesbeijing.com.co | Date: 
+    45→     Snip: Las habitaciones de Hotel Casa Mónica se describen como espacios de tamaño moderado, suficientes para descansar con comodidad, sin exceso de metros pero tampoco ...
+    46→  2. Bolivar Establecimientos De Hospitalidad Restaurantes
+    47→     URL : https://www.revistalabarra.com/bolivar/restaurantes?page=58
+    48→     Host: www.revistalabarra.com | Date: 
+    49→     Snip: Hotel Casa Mónica ofrece una experiencia única de hospedaje en Santa Cruz de Mompox, Mompós, Bolivar. Este hotel destaca por su atención al ...
+    50→  3. Hoteles en Santa Cruz de Mompox
+    51→     URL : https://hotelesbeijing.com.co/ubicacion/bolivar/mompos/santa-cruz-de-mompox/page/3
+    52→     Host: hotelesbeijing.com.co | Date: 
+    53→     Snip: Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...
+    54→  4. Find Bolívar LA BARRA HORECA News, Reviews, and Information
+    55→     URL : https://www.revistalabarra.com/bol%C3%ADvar?page=58
+    56→     Host: www.revistalabarra.com | Date: Jun 25, 2026
+    57→     Snip: Este hotel destaca por sus elegantes habitaciones y suites, ubicadas en dos edific ... Hotel Casa Mónica ofrece una experiencia única de hospedaje ...
+    58→  5. Hoteles en Bolívar
+    59→     URL : https://hotelesbeijing.com.co/ubicacion/bolivar/page/94
+    60→     Host: hotelesbeijing.com.co | Date: 
+    61→     Snip: Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...
+    62→  6. plan de desarrollo turístico del departamento de sucre 2012 – 2015
+    63→     URL : https://www.academia.edu/36509724/PLAN_DE_DESARROLLO_TUR%C3%8DSTICO_DEL_DEPARTAMENTO_DE_SUCRE_2012_2015
+    64→     Host: www.academia.edu | Date: 
+    65→     Snip: C 32 32876 Activo 3108454931 VACACIONAL CASA MONICA P. 2 APTO. BLANCA 302 CL ... Habitaciones promedio en hoteles de Tolú y Coveñas Número de habitaciones ...
+    66→  7. - Find & Compare LA BARRA HORECA Profesional Mostrando
+    67→     URL : https://www.revistalabarra.com/search_results?page=1467
+    68→     Host: www.revistalabarra.com | Date: 
+    69→     Snip: Hotel Casa Mónica ofrece una experiencia única de hospedaje en Santa Cruz de Mompox, Mompós, Bolivar. Este hotel destaca por su atención al cliente y su ...
+    70→  8. Cabaña Valle De La Laguna - Hoteles en Colombia
+    71→     URL : https://hotelesbeijing.com.co/hotel/cabana-valle-de-la-laguna-six-bedroom-house
+    72→     Host: hotelesbeijing.com.co | Date: 
+    73→     Snip: Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...
+    74→  (total: 8)
+    75→
+    76→>>> Searching: casamonicamompox Instagram Mompox
+    77→
+    78→===== QUERY: casamonicamompox Instagram Mompox =====
+    79→  1. Photo by Hotel Casa Mónica Mompox (@casamonicamompox
+    80→     URL : https://www.instagram.com/p/DMfa5douucR
+    81→     Host: www.instagram.com | Date: 
+    82→     Snip: Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. Bendiciones y grandes éxitos para ti, José David, son los deseos de Casa Mónica.
+    83→  2. ColombiaOne | Mompox Filigree: Colombia's Artistic Heritage
+    84→     URL : https://www.instagram.com/reel/DJUURCyOR92
+    85→     Host: www.instagram.com | Date: 
+    86→     Snip: Tienda Mompox Mompox-Bali Boli aonc ነድቱት designs that customers diseños 2- que nos envien . la Tiend de ... © 2026 Instagram from Meta.
+    87→  3. Hotel Casa Mónica Mompox (@casamonicamompox  - Instagram
+    88→     URL : https://www.instagram.com/casamonicamompox/reels
+    89→     Host: www.instagram.com | Date: 
+    90→     Snip: Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. · Estamos ubicados en Santa Bárbara, entre calle del medio y calle de atrás. · Casa ...
+    91→  4. Mompox no es una sola cosa es todo lo que se siente al estar aquí
+    92→     URL : https://www.instagram.com/reel/DYsxQUKjvQC
+    93→     Host: www.instagram.com | Date: 
+    94→     Snip: Santa Cruz de Mompox. Aquí el río Magdalena marca el ritmo, sin prisa. La arquitectura colonial sigue intacta y las iglesias es un icono de este ...
+    95→  5. Mompox is where Gabriel García Márquez's magical realism comes
+    96→     URL : https://www.instagram.com/p/DYXX_OADiOz
+    97→     Host: www.instagram.com | Date: 
+    98→     Snip: Mompox is where Gabriel García Márquez's magical realism comes to life 🕰️✨ This UNESCO World Heritage town on the banks of the Magdalena River ...
+    99→  6. Mompox.. siempre me han inspirado sus calles paisajes de
+   100→     URL : https://www.instagram.com/p/Cm0be43OGOp
+   101→     Host: www.instagram.com | Date: 
+   102→     Snip: Mompox….. siempre me han inspirado sus calles paisajes de poesías.. hoy a ponerle la música para adornarlas ... © 2026 Instagram from Meta.
+   103→  7. Mompox Filigree Jewlery- Colombia is also known for its gold and its
+   104→     URL : https://www.instagram.com/p/C329igiu3W7
+   105→     Host: www.instagram.com | Date: 
+   106→     Snip: In this quaint town of Mompox, a Unesco world heritage site, you will find artisans devoted to this craft. It is impossible not to hear the ...
+   107→  8. Colombia: * MOMPOX EN MI INSTAGRAM - FOTOS
+   108→     URL : http://mompoxcolombia.blogspot.com/p/mompox-en-mi-instagram-todas-las-fotos.html
+   109→     Host: mompoxcolombia.blogspot.com | Date: 
+   110→     Snip: Conozca Mompox y su cultura desde casa de esta manera: 1. Tour virtual historico, cultural, religioso y arquitectónico por Mompox.
+   111→  (total: 8)
+   112→
+   113→>>> Searching: Hotel Casa Monica Mompos Colombia precio contacto
+   114→
+   115→===== QUERY: Hotel Casa Monica Mompos Colombia precio contacto =====
+   116→  1. Hotel Casa Mónica Mompox (@casamonicamompox) - Instagram
+   117→     URL : https://www.instagram.com/casamonicamompox
+   118→     Host: www.instagram.com | Date: 
+   119→     Snip: Hotel Casa Mónica Mompox (@casamonicamompox) Estamos ubicados en Santa Bárbara, entre calle del medio y calle de atrás. Ven
+   120→  2. Hotel Villa de Mompox - Trivago
+   121→     URL : https://www.trivago.com/en-US/oar/hotel-villa-de-mompox-santa-cruz-de-mompox?search=100-4092644
+   122→     Host: www.trivago.com | Date: 
+   123→     Snip: Compare hotel prices and find an amazing price for the Hotel Villa de Mompox Hotel in Santa Cruz de Mompox, Colombia. View 21 photos and read 616 reviews.
+   124→  3. LA CASA AMARILLA - Prices & Hostel Reviews (Mompos, Colombia)
+   125→     URL : https://www.tripadvisor.com/Hotel_Review-g445061-d1119367-Reviews-La_Casa_Amarilla-Mompos_Bolivar_Department.html
+   126→     Host: www.tripadvisor.com | Date: 
+   127→     Snip: The only true guesthouse in a colonial mansion in front of the river for travelers in Mompos. We have comfortable, spacious and clean en suite private rooms.
+   128→  4. Los 10 mejores hoteles de Mompós, Colombia (desde € 136)
+   129→     URL : https://www.booking.com/city/co/mompos-co.es.html
+   130→     Host: www.booking.com | Date: 
+   131→     Snip: Hotel Casa Evan tiene centro de fitness, jardín, terraza y restaurante en Mompox. El alojamiento dispone de servicio de habitaciones y recepción 24 horas.
+   132→  5. La Casa Amarilla Mompós – Conoce nuestro hotel en Mompós o
+   133→     URL : https://lacasaamarillamompos.com
+   134→     Host: lacasaamarillamompos.com | Date: 
+   135→     Snip: CONTACTO NOSOTROS EL HOTEL HABITACIONES. Bolivar Colombia Cel: +57 3106064632 +57 3115306735 La Casa Amarilla Mompox SAS.
+   136→  6. Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia
+   137→     URL : https://hotelesbeijing.com.co/hotel/hotel-casa-monica
+   138→     Host: hotelesbeijing.com.co | Date: 
+   139→     Snip: Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con habitaciones climatizadas y atención cercana ideal para ...
+   140→  7. Casa Carmenza - Santa Cruz de Mompox, Colombia - PriceTravel
+   141→     URL : https://www.pricetravel.com/en/hotel/casa-carmenza_a551296
+   142→     Host: www.pricetravel.com | Date: 
+   143→     Snip: Carmenza is an accommodation available for fully booking. No prepayment needed, pay at the property. Casa Carmenza is an accommodation available for fully ...
+   144→  8. La Casa Amarilla en Mompós: ver hotel, precios y opiniones
+   145→     URL : https://co.hoteles.com/ho743581152/la-casa-amarilla-mompos-colombia
+   146→     Host: co.hoteles.com | Date: 
+   147→     Snip: Disfruta de tu visita a Mompós en La Casa Amarilla. Los servicios gratuitos incluyen wifi y desayuno completo todos los días, de 07:00 a 10:30.
+   148→  (total: 8)
+   149→
+   150→>>> Searching: "Casa Monica" Mompox Booking.com hotel
+   151→
+   152→===== QUERY: "Casa Monica" Mompox Booking.com hotel =====
+   153→  1. Travel Tuesday: have you ever stayed in the historic Casa Monica
+   154→     URL : https://www.facebook.com/StAugustineAttractionsAssociation/posts/travel-tuesday-have-you-ever-stayed-in-the-historic-casa-monica-resort-spa-autog/1799789953423273
+   155→     Host: www.facebook.com | Date: 
+   156→     Snip: Casa Monica Resort & Spa, Autograph Collection is an iconic stop for anyone visiting Florida's Historic Coast! The resort is steeped in history and charm, ...
+   157→  2. Todos los hoteles en Grecia
+   158→     URL : https://www.top-hotels-gr.com/es/all-hotels
+   159→     Host: www.top-hotels-gr.com | Date: 
+   160→     Snip: HOTEL CASA VANIA MOMPOX, Centro histórico, Con Parqueadero en el Hotel ... Hotel Casa Monica Băile Felix · Hotel Charissi ... Naoussa Hotel Paros By Booking Kottas ...
+   161→  3. Casa Monica Resort & Spa, Autograph Collection - Booking.com
+   162→     URL : https://www.booking.com/hotel/us/casa-monica-autograph-collection.html
+   163→     Host: www.booking.com | Date: 
+   164→     Snip: All rooms at Casa Monica Luxury & Lifestyle hotel include a Bose sound system, flat-screen cable TV, desk, and tea- and coffee-making facilities. Each ...
+   165→  4. Reviews of Casa Monica Resort & Spa, Autograph Collection
+   166→     URL : https://www.booking.com/reviews/us/hotel/casa-monica-autograph-collection.en-gb.html
+   167→     Host: www.booking.com | Date: 
+   168→     Snip: Excellent hotel experience. The staff is the best! The valet parking tunnel brings you to ground level entry. Checking in is fun when you get a ...
+   169→  5. 10 Best Mompós Hotels, Colombia (From US$153) - Booking.com
+   170→     URL : https://www.booking.com/city/co/mompos-co.html
+   171→     Host: www.booking.com | Date: 
+   172→     Snip: Located in Mompos, HOTEL CASA VANIA MOMPOX, Centro histórico, Con Parqueadero en el Hotel offers 4-star accommodations with a garden, a shared lounge and a bar.
+   173→  6. Exploring Casa Monica Resort & Spa in St. Augustine - YouTube
+   174→     URL : https://www.youtube.com/watch?v=4qSKf0z1yJo
+   175→     Host: www.youtube.com | Date: 
+   176→     Snip: Step inside Casa Monica Resort & Spa, one of the most iconic historic hotels in St. Augustine, the nation's oldest city.
+   177→  7. Hotel Casa Santa Monica Norte, Cali (updated prices 2026)
+   178→     URL : https://www.booking.com/hotel/co/casa-santa-monica.en-gb.html
+   179→     Host: www.booking.com | Date: 
+   180→     Snip: Comfortable Accommodations: Hotel Casa Santa Monica Norte in Cali offers family rooms with air-conditioning, private bathrooms, and free WiFi. Each room ...
+   181→  8. Casa Monica Resort & Spa, Autograph Collection - Marriott
+   182→     URL : https://www.marriott.com/en-us/hotels/jaxak-casa-monica-resort-and-spa-autograph-collection/overview
+   183→     Host: www.marriott.com | Date: 
+   184→     Snip: Book a distinctive stay at Casa Monica Resort & Spa, Autograph Collection. Premium accommodations, unique rooms & great service await you.
+   185→  (total: 8)
+   186→
+   187→>>> Searching: "Casa Monica" Mompox Expedia hotel
+   188→
+   189→===== QUERY: "Casa Monica" Mompox Expedia hotel =====
+   190→  1. Santa Ana → Tuguegarao: precios y horarios
+   191→     URL : https://www.rome2rio.com/es/s/Santa-Ana/Tuguegarao
+   192→     Host: www.rome2rio.com | Date: 
+   193→     Snip: Casa Monica. 2485 ₱. Casa Monica(Se abre en una ventana nueva). 8.8Fabuloso. NGN GRAN HOTEL. 1869 ₱. NGN GRAN HOTEL(Se abre en una ventana nueva). 7.8Bien.
+   194→  2. Casa Monica Resort & Spa: View Reviews & Photos 2026 - Expedia
+   195→     URL : https://www.expedia.com/St-Augustine-Hotels-Casa-Monica-Resort-Spa.h329630.Hotel-Information
+   196→     Host: www.expedia.com | Date: 
+   197→     Snip: Casa Monica Resort & Mediterranean dining and spa treatments. Guests can relax by the outdoor pool, explore the garden, or connect using in-room WiFi. Reviews ...
+   198→  3. The Best Luxury Hotels in St. Augustine Historic District, St  - Expedia
+   199→     URL : https://www.expedia.com/St-Augustine-Historic-District-St-Augustine-Hotels-Luxury-Hotel.0-n6339215-0-tLuxuryHotel.Travel-Guide-Filter-Hotels
+   200→     Host: www.expedia.com | Date: 
+   201→     Snip: Casa Monica Resort & Spa, Autograph Collection is a luxury hotel with a full-service spa and in-room massages, and it's a popular choice for Expedia travelers
+   202→  4. Casa Monica Resort & Spa, Autograph Collection
+   203→     URL : https://www.expedia-aarp.com/St-Augustine-Hotels-Casa-Monica-Resort-Spa.h329630.Hotel-Information
+   204→     Host: www.expedia-aarp.com | Date: 
+   205→     Snip: Enjoy a full-service spa, breakfast (surcharge), and room service. this property has an outdoor pool and a children's pool. a fee of USD 150.00 per ...
+   206→  5. Top 10 Hotels in Mompos (from $21) 2026 - Competitive Prices
+   207→     URL : https://www.expedia.com/Mompos-Hotels.d6340237.Travel-Guide-Hotels
+   208→     Host: www.expedia.com | Date: 
+   209→     Snip: Find 39 of the best hotels in Mompos in 2026. Compare room rates, hotel reviews and availability. Most hotels are fully refundable.
+   210→  6. Hotel Casa Santa Monica Norte Reviews, Deals & Photos 2026
+   211→     URL : https://www.expedia.com/Cali-Hotels-Hotel-Casa-Santa-Monica-Norte.h4404823.Hotel-Information
+   212→     Host: www.expedia.com | Date: 
+   213→     Snip: All guestrooms at Hotel Casa Santa Monica Norte boast comforts such as premium bedding and air conditioning, as well as amenities like free WiFi and minibars.
+   214→  7. Portal de la Marquesa - Mompos Hotels - Expedia
+   215→     URL : https://www.expedia.com/Mompos-Hotels-Portal-De-La-Marquesa.h19015265.Hotel-Information
+   216→     Host: www.expedia.com | Date: 
+   217→     Snip: Enjoy free breakfast, free WiFi, and 2 outdoor pools. With in-room WiFi, dry cleaning services, and concierge assistance ideal location and tasty breakfast
+   218→  8. Top 10 Hotels in Pijiño del Carmen (from $31) 2026 - Expedia.com
+   219→     URL : https://www.expedia.com/Pijino-Del-Carmen-Hotels.d720042128806522880.Travel-Guide-Hotels
+   220→     Host: www.expedia.com | Date: 
+   221→     Snip: Find 34 of the best hotels in Pijiño del Carmen in 2026. Rooms are very large. Mompox Hotel Casa $55 nightly The price is $55 total per night
+   222→  (total: 8)
+   223→
+   224→>>> Searching: hotelesbeijing.com.co "Casa Monica" Mompos
+   225→
+   226→===== QUERY: hotelesbeijing.com.co "Casa Monica" Mompos =====
+   227→  1. Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia
+   228→     URL : https://hotelesbeijing.com.co/hotel/hotel-casa-monica
+   229→     Host: hotelesbeijing.com.co | Date: 
+   230→     Snip: Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con habitaciones climatizadas y atención cercana ideal para ...
+   231→  2. Hotel Casa Mónica Mompox (@casamonicamompox) - Instagram
+   232→     URL : https://www.instagram.com/casamonicamompox
+   233→     Host: www.instagram.com | Date: 
+   234→     Snip: Mompox, Bolívar Visítanos y siéntete como en casa · Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. · Diferentes formas, pero todas ...
+   235→  3. Casa Faccioli - Santa Cruz de Mompox - Trivago
+   236→     URL : https://www.trivago.com/en-US/oar/hotel-casa-faccioli-santa-cruz-de-mompox?search=100-7752136
+   237→     Host: www.trivago.com | Date: 
+   238→     Snip: SERVICIOS 6 habitaciones con aire acondicionado, televisión por cable, baño privado, teléfono, wifi, nevera Mini Bar. Recepción 24 horas del día Restaurante - ...
+   239→  4. La Casa Amarilla Mompós – Conoce nuestro hotel en Mompós o
+   240→     URL : https://lacasaamarillamompos.com
+   241→     Host: lacasaamarillamompos.com | Date: 
+   242→     Snip: Estamos ubicados en el centro histórico de Mompós. Construida a mediados del siglo XVII, La Casa Amarilla es una casona colonial que conserva la esencia y el ...
+   243→  5. Casa La Concepción, Mompos - 2026 Prices & Reviews - Trip.com
+   244→     URL : https://www.trip.com/hotels/mompos-hotel-detail-50113337/casa-la-concepcin
+   245→     Host: www.trip.com | Date: 
+   246→     Snip: Want to book Casa La Concepción, Mompos hotel? Choose your room, check latest prices and hotel reviews. Book your perfect stay on Trip.com!
+   247→  6. Hoteles en Santa Cruz de Mompox
+   248→     URL : https://hotelesbeijing.com.co/ubicacion/bolivar/mompos/santa-cruz-de-mompox/page/3
+   249→     Host: hotelesbeijing.com.co | Date: 
+   250→     Snip: Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...
+   251→  7. Casa Monica Resort & Spa, Autograph Collection - St. Augustine
+   252→     URL : https://staugustine-us.com/en/p/resortcasamonicacollection.html
+   253→     Host: staugustine-us.com | Date: 
+   254→     Snip: Some rooms at Casa Monica Resort & Spa, Autograph Collection are fitted with a central heating and ironing facilities, and such self-catering options as a ...
+   255→  8. Los 10 mejores hoteles de Mompós, Colombia (desde € 136)
+   256→     URL : https://www.booking.com/city/co/mompos-co.es.html
+   257→     Host: www.booking.com | Date: 
+   258→     Snip: Mompós: 10 hoteles y otros sitios para alojarse · Casa Taller & Hotel El Boga · Hotel Isla Capri · Hostal Casa La Candelaria · Casa Serrano - Calle Real 5 · Hotel ...
+   259→  (total: 8)
+   260→
+   261→>>> Searching: Casa Monica Mompox dueños propietarios historia
+   262→
+   263→===== QUERY: Casa Monica Mompox dueños propietarios historia =====
+   264→  1. Hotel Casa Mónica Mompox (@casamonicamompox) - Instagram
+   265→     URL : https://www.instagram.com/casamonicamompox
+   266→     Host: www.instagram.com | Date: 
+   267→     Snip: Hotel Casa Mónica Mompox. Estamos ubicados en Santa Bárbara, entre calle del medio y calle de atrás.
+   268→  2. Casa Monica Hotel - Wikipedia, la enciclopedia libre
+   269→     URL : https://es.wikipedia.org/wiki/Casa_Monica_Hotel
+   270→     Host: es.wikipedia.org | Date: 
+   271→     Snip: Casa Mónica es un hotel histórico ubicado en St. Augustine, Florida, en los Estados Unidos. Originalmente se llamó Casa Mónica, luego Hotel Córdoba, luego ...
+   272→  3. Hoy Mompox celebra un hito que marcó para siempre nuestra
+   273→     URL : https://www.instagram.com/reel/DR701x2j6T_
+   274→     Host: www.instagram.com | Date: 
+   275→     Snip: ... Mompox desde la historia hasta la arquitectura. ... Casa Candelario Obeso Alcaldía Distrital de Santa Cruz de Mompox DISTRI SODAS COCTELES MOMPOX ...
+   276→  4. Alcaldía Distrital Santa Cruz de Mompox - Facebook
+   277→     URL : https://www.facebook.com/Alcaldiademompox/posts/la-alcald%C3%ADa-distrital-de-santa-cruz-de-mompox-a-trav%C3%A9s-de-la-secretar%C3%ADa-de-turis/122298828248181081
+   278→     Host: www.facebook.com | Date: 
+   279→     Snip: Hotel Casa Ana Lorenza y a su propietario, Yiris David Bayter Gil, de 20 municipios, Mónica Melgarejo Mora;
+   280→  5. La Casa Amarilla Mompós – Conoce nuestro hotel en Mompós o
+   281→     URL : https://lacasaamarillamompos.com
+   282→     Host: lacasaamarillamompos.com | Date: 
+   283→     Snip: Construida a mediados del siglo XVII, La Casa Amarilla es una casona colonial que conserva la esencia y el carácter de la Mompox histórica. Está ubicada en la ...
+   284→  6. Grupo de Investigación y Documentación, Dirección de Patrimonio
+   285→     URL : https://www.wmf.org/news/grupo-de-investigaci-c3-b3n-y-documentaci-c3-b3n-direcci-c3-b3n-de-patrimonio-ministerio-de-cultura
+   286→     Host: www.wmf.org | Date: 
+   287→     Snip: Entre el legado patrimonial arquitectónico de Mompox pueden citarse las Casas de los Portales de la Marquesa, el Colegio Pinillos, la Casa del Te Deum, la Real ...
+   288→  7. La casa se llama Legado de la Marquesa #mompox #hospedaje
+   289→     URL : https://www.tiktok.com/@buscandoajacinta/video/7301749192983121158
+   290→     Host: www.tiktok.com | Date: 
+   291→     Snip: Y adivina la casa donde vivió la marquesa. Sigue en pie y tú te puedes hospedar ahí. Es una casa llena de historia, con capacidad de hasta para ...
+   292→  8. Mompox, la ciudad valerosa, se ha revitalizado. - YouTube
+   293→     URL : https://www.youtube.com/watch?v=j9m1Wu5qgtc
+   294→     Host: www.youtube.com | Date: 
+   295→     Snip: ... Mónica Pulido Villamarín Divulgación y Prensa Ministerio de Cultura Tel 3424100 ext 1252 Cel 3138870758. ... Go to channel Historia Incomprendida ...
+   296→  (total: 8)
+   297→
+   298→>>> Searching: Casa Monica Mompox reseñas huéspedes opiniones
+   299→
+   300→===== QUERY: Casa Monica Mompox reseñas huéspedes opiniones =====
+   301→  1. LA CASA AMARILLA desde $ 220.690 (Mompós, Colombia) - hostal
+   302→     URL : https://www.tripadvisor.co/Hotel_Review-g445061-d1119367-Reviews-La_Casa_Amarilla-Mompos_Bolivar_Department.html
+   303→     Host: www.tripadvisor.co | Date: 
+   304→     Snip: Excelente atención, muy limpio, Ana, Carmen y José Antonio siempre atentos a las necesidades de los huéspedes, el desayuno delicioso, muy bien ubicado; ...
+   305→  2. CASA HOTEL LA CASONA (Mompos, Colombia): reseñas 2026
+   306→     URL : https://www.tripadvisor.es/Hotel_Review-g445061-d2039022-Reviews-Casa_Hotel_La_Casona-Mompos_Bolivar_Department.html
+   307→     Host: www.tripadvisor.es | Date: 
+   308→     Snip: El personal es súper atento, las instalaciones están en muy buen estado. Es una casa antigua pero muy bien conservada y las habitaciones están remodeladas. Todo ...
+   309→  3. Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia
+   310→     URL : https://hotelesbeijing.com.co/hotel/hotel-casa-monica
+   311→     Host: hotelesbeijing.com.co | Date: 
+   312→     Snip: Lo mejor valorado por los huéspedes · Atención cercana y cordial de los propietarios, con un trato que recuerda al de una posada familiar. · Buena climatización ...
+   313→  4. Opiniones del La Casa Amarilla - el alojamiento - Booking.com
+   314→     URL : https://www.booking.com/reviews/co/hotel/la-casa-amarilla.es.html
+   315→     Host: www.booking.com | Date: 
+   316→     Snip: La ubicación es excelente. Las habitaciones son muy limpias y comodas. A veces el agua huele mal, les falta iniciativa para mejorar los servicios, ...
+   317→  5. Hoteles en Mompós & Alojamiento 2026 desde $39 - Expedia
+   318→     URL : https://www.expedia.com/es/Mompos-Hoteles.d6340237.Guia-Viajes-Hoteles
+   319→     Host: www.expedia.com | Date: 
+   320→     Snip: “Se puede mejorar el aseo de las habitaciones cuando estan en uso, solamente se limitan a tender las camas pero no asean la habitacion ni el baño ”.
+   321→  6. Hotel Casa Mónica Mompox (@casamonicamompox) - Instagram
+   322→     URL : https://www.instagram.com/casamonicamompox
+   323→     Host: www.instagram.com | Date: 
+   324→     Snip: Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. · Diferentes formas, pero todas pensadas en brindarte la mayor comodidad. · #viajes # ...
+   325→  7. La Casa Amarilla en Mompós: ver hotel, precios y opiniones
+   326→     URL : https://co.hoteles.com/ho743581152/la-casa-amarilla-mompos-colombia
+   327→     Host: co.hoteles.com | Date: 
+   328→     Snip: Excelente lugar, en todo el centro del pueblo para caminar. No hay como tal parqueadero del lugar, pero al ser temporada baja pudimos dejarlo al lado del hotel ...
+   329→  8. La Casa Amarilla Mompós – Conoce nuestro hotel en Mompós o
+   330→     URL : https://lacasaamarillamompos.com
+   331→     Host: lacasaamarillamompos.com | Date: 
+   332→     Snip: Desde los corredores coloniales se respira la historia viva de la casa, con su arquitectura original, techos altos, pisos de baldosa antigua y detalles que ...
+   333→  (total: 8)
+   334→
+   335→>>> Searching: Mompox hoteles coloniales boutique recomendados
+   336→
+   337→===== QUERY: Mompox hoteles coloniales boutique recomendados =====
+   338→  1. Karakalí Boutique Hotel | Hoteles en Mompox Bolívar
+   339→     URL : https://www.hotelkarakali.com
+   340→     Host: www.hotelkarakali.com | Date: 
+   341→     Snip: Bienvenidos a Karakalí Boutique Hotel, exclusiva casona colonial, frente al Río Magdalena en Mompox, patrimonio histórico de la humanidad desde 1995.
+   342→  2. LOS 5 MEJORES hoteles boutique en Mompós 2026 - Tripadvisor
+   343→     URL : https://www.tripadvisor.co/HotelsList-Mompos-Hotels-Motels-Boutique-zfp15767220.html
+   344→     Host: www.tripadvisor.co | Date: 
+   345→     Snip: 1. Bioma Boutique Hotel Mompox · 2. Hotel San Rafael · 3. Albarrada Hotel Boutique · 4. Bohemia Hotel Boutique · 5. Hotel Boutique Casa Tres Cruces · 6. Hotel ...
+   346→  3. Bioma Boutique Hotel Mompos
+   347→     URL : https://www.bioma.co/es
+   348→     Host: www.bioma.co | Date: 
+   349→     Snip: En Bioma Boutique Hotel te ofrecemos una experiencia única de descanso y confort en uno de los destinos coloniales más fascinantes de Colombia.
+   350→  4. Los 10 mejores hoteles de Mompox, Colombia (desde € 38)
+   351→     URL : https://www.booking.com/city/co/mompos.es.html
+   352→     Host: www.booking.com | Date: 
+   353→     Snip: Cuáles son los mejores hoteles de Mompox? Portal de la Marquesa, Hotel Boutique Ana Lorenza y Karakali Boutique Hotel son algunos hoteles populares en Mompox.
+   354→  5. Best Hotels in Mompox Colombia | Top Picks - YouTube
+   355→     URL : https://www.youtube.com/watch?v=NrhrjsT3yHI
+   356→     Host: www.youtube.com | Date: 
+   357→     Snip: Discover the best hotels in Mompox (Mompós), Colombia — a UNESCO World Heritage town frozen in time along the Magdalena River.
+   358→  6. Los 7 mejores hoteles de lujo de Mompox - LuxuryHotel.world
+   359→     URL : https://es.luxuryhotel.world/mompos
+   360→     Host: es.luxuryhotel.world | Date: 
+   361→     Snip: San Rafael · Karakali Boutique Hotel · Bioma Boutique Hotel · Portal de la Marquesa · LITERATIUM · HOTEL PLAZA BOLIVAR MOMPOX ubicado en el centro histórico con ...
+   362→  7. Mejores hoteles en Mompox – Top 10
+   363→     URL : https://top10hedonist.com/2026/05/07/mejores-hoteles-en-mompox-top-10
+   364→     Host: top10hedonist.com | Date: 
+   365→     Snip: 1.Bioma Boutique Hotel Bioma no nace como hotel: renace como hotel. · 2.Karakalí Boutique Hotel · 3.Casa Gerar Filigrana · 4.Casa Sinning Año 1637 ...
+   366→  8. Karakalí Boutique Hotel (@karakali_mompox) · Mompós - Instagram
+   367→     URL : https://www.instagram.com/karakali_mompox
+   368→     Host: www.instagram.com | Date: 
+   369→     Snip: Realismo mágico en Karakalí ✨ La entrada de Karakalí Boutique Hotel te recibe entre naturaleza viva y detalles arquitectónicos coloniales que evocan el ...
+   370→  (total: 8)
+   371→
+   372→>>> Searching: Mompos Colombia turismo guía
+   373→
+   374→===== QUERY: Mompos Colombia turismo guía =====
+   375→  1. Mompox : Guía de viaje - Aventure Colombia
+   376→     URL : https://aventurecolombia.com/es/mompox-guia-de-viaje
+   377→     Host: aventurecolombia.com | Date: 
+   378→     Snip: La mejor época para visitar Mompox es de diciembre a abril, ya que llueve mucho menos. En cambio, de mayo a junio y de septiembre a noviembre, las lluvias son ...
+   379→  2. Visitar Santa Cruz de Mompox, Colombia: Guía de Viaje
+   380→     URL : https://www.tomplanmytrip.com/es/blog-colombia/destinos/costa-caribe-este/santa-cruz-de-mompox
+   381→     Host: www.tomplanmytrip.com | Date: 
+   382→     Snip: Situada en el departamento de Bolívar entre dos meandros del río Magdalena, Mompox (o Santa Cruz de Mompox) es un excelente destino si deseas ...
+   383→  3. Guía rápida para viajar a Mompox Mompox es una joya histórica
+   384→     URL : https://www.instagram.com/reel/DHRpBddpiGR/?hl=en
+   385→     Host: www.instagram.com | Date: 
+   386→     Snip: ¡¡Descubre!! UNO DE LOS DESTINOS CULTURALES Y PATRIMONIALES MÁS IMPORTANTES DE COLOMBIA. SANTA CRUZ DE MOMPOX UBICADO AL NORTE DE COLOMBIA, EN ...
+   387→  4. Cosas por hacer en Mompox, Colombia: Guía de Turismo - TikTok
+   388→     URL : https://www.tiktok.com/@sebassoy_/video/7509634565909122360
+   389→     Host: www.tiktok.com | Date: 
+   390→     Snip: De camino a Cartagena visitamos Mompox, un hermoso municipio de Colombia donde tiene historia por contar . #mompox #bolivar #turismo #colombia # ...
+   391→  5. Tu Guía por Mompox | Tours y Experiencias Inolvidables en Colombia
+   392→     URL : https://www.guiaturisticomompox.com
+   393→     Host: www.guiaturisticomompox.com | Date: 
+   394→     Snip: Descubre la magia de Mompox, Colombia, con el guía experto Fidel Leonardo Nieto Carvajal. Ofrecemos tours históricos, cruceros por el río Magdalena, ...
+   395→  6. GUIA TURÍSTICA - Mompox - Colombia
+   396→     URL : http://mompoxcolombia.blogspot.com/p/guia-turistica.html
+   397→     Host: mompoxcolombia.blogspot.com | Date: 
+   398→     Snip: 1. Tour virtual historico, cultural, religioso y arquitectónico por Mompox. 2. Semana SanTour: Conozca virtualmente la Semana Santa de Mompox y su religiosidad.
+   399→  7. Mompox 2026,Joya Colonial de Colombia - Viajes Comfama
+   400→     URL : https://www.viajescomfama.com/destinos/nacionales/mompox-joya-colonial
+   401→     Host: www.viajescomfama.com | Date: 
+   402→     Snip: Viaja a Mompox - Bolívar. Experiencia histórica y cultural. Descubre una joya colonial detenida en el tiempo a orillas del río Magdalena.
+   403→  8. Mompox Retro: Agencia de viajes
+   404→     URL : https://www.mompoxretro.co
+   405→     Host: www.mompoxretro.co | Date: 
+   406→     Snip: Mompox Retro Travel es una agencia de Viajes operadora, especialista en turismo inmersivo generador de experiencias inolvidables enfocadas en la historia, ...
+   407→  (total: 8)
+   408→
+   409→>>> Searching: Mompox Bolivar Colombia historia colonial
+   410→
+   411→===== QUERY: Mompox Bolivar Colombia historia colonial =====
+   412→  1. Santa Cruz de Mompox - Wikipedia, la enciclopedia libre
+   413→     URL : https://es.wikipedia.org/wiki/Santa_Cruz_de_Mompox
+   414→     Host: es.wikipedia.org | Date: 
+   415→     Snip: Santa Cruz de Mompós o Mompox es un distrito de Colombia, en el departamento de Bolívar. En mérito del estado de conservación de su centro histórico fue ...
+   416→  2. Descubre Mompox Colombia Una obra maestra colonial para la
+   417→     URL : https://uncovercolombia.com/es/blog/mompox-colombia-timeless-colonial-gem-for-culture-and-history-lovers
+   418→     Host: uncovercolombia.com | Date: 
+   419→     Snip: Fundada en 1540 en una isla formada por los canales entrelazados del río Magdalena, se convirtió en una próspera ciudad colonial gracias a su posición ...
+   420→  3. Un viaje por Santa Cruz de Mompox - Instagram
+   421→     URL : https://www.instagram.com/reel/DXfk57oJfRC
+   422→     Host: www.instagram.com | Date: 
+   423→     Snip: Hoy, como integrante de la red de pueblos patrimonio de Colombia, Mompox conserva intacto su encanto colonial, sus tradiciones y su legado ...
+   424→  4. El municipio de Mompox, ubicado en el departamento de Bolívar
+   425→     URL : https://www.facebook.com/NoticiasCaracol/videos/el-municipio-de-mompox-ubicado-en-el-departamento-de-bol%C3%ADvar-celebra-el-trig%C3%A9sim/2055106332068671
+   426→     Host: www.facebook.com | Date: 
+   427→     Snip: El municipio de Mompox, ubicado en el departamento de Bolívar, celebra el trigésimo aniversario de su inclusión en la lista de Patrimonio ...
+   428→  5. Mompox, Colombia - Joyas de la Villa
+   429→     URL : https://joyasdelavilla.com/mompox/?srsltid=AfmBOookW845mjFqlF4InJXD4fGvO4Nv5mQ3nniNnvm8yZm503_x8El6
+   430→     Host: joyasdelavilla.com | Date: 
+   431→     Snip: Mompós fue fundada en 1537, era una de las ciudades más importantes en la colonia y, paradójicamente, fue la primera en liberarse de la corona española.
+   432→  6. HISTORIA DE MOMPOX
+   433→     URL : https://guiaturisticomompox.wordpress.com/historia-de-mompox
+   434→     Host: guiaturisticomompox.wordpress.com | Date: 
+   435→     Snip: Su conquista fue por Alonso de Heredia el tres de Mayo de 1537, tres de Mayo es el día de la santa cruz, por eso hoy por hoy la región tiene el nombre de Santa ...
+   436→  7. EL DIARIO VIVIR EN CARTAGENA Y MOMPOX COLONIAL
+   437→     URL : http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-16172004000200008
+   438→     Host: www.scielo.org.co | Date: 
+   439→     Snip: Durante la época colonial hispana la vida en ciudad o en policía hacia referencia a la necesidad de control publico y privado por parte de las autoridades en ...
+   440→  8. Mompox: Un tesoro bien guardado - Universidad de los Andes
+   441→     URL : https://www.uniandes.edu.co/es/noticias/ambiente-y-sostenibilidad/mompox-un-tesoro-bien-guardado
+   442→     Host: www.uniandes.edu.co | Date: 
+   443→     Snip: Hace más de 100 años, Santa Cruz de Mompox, una población colonial del departamento de Bolívar bordeada por el río Magdalena, era uno de principales puertos ...
+   444→  (total: 8)
+   445→
+   446→>>> Searching: Mompox UNESCO World Heritage 1995
+   447→
+   448→===== QUERY: Mompox UNESCO World Heritage 1995 =====
+   449→  1. Historic Centre of Santa Cruz de Mompox
+   450→     URL : https://whc.unesco.org/en/list/742
+   451→     Host: whc.unesco.org | Date: 
+   452→     Snip: Founded in 1540 on the banks of the River Magdalena, Mompox played a key role in the Spanish colonization of northern South America.
+   453→  2. Historic Center of Santa Cruz de Mompox - World Monuments Fund
+   454→     URL : https://www.wmf.org/monuments/historic-center-santa-cruz-de-mompox
+   455→     Host: www.wmf.org | Date: 
+   456→     Snip: 2012 World Monuments Watch. In 1995, the Historic Center of Santa Cruz de Mompox was inscribed on UNESCO's World Heritage List. But the gradual change of ...
+   457→  3. Mompox, a World Heritage Colombian colonial town - Terra Colombia
+   458→     URL : https://colombia-travels.com/caribbean/mompox
+   459→     Host: colombia-travels.com | Date: 
+   460→     Snip: Located on the banks of the Magdalena River south of Cartagena, the village of Mompox was declared a UNESCO World Heritage Site in 1995. Seemingly frozen in ...
+   461→  4. Historic Centre of Santa Cruz de Mompox - Documents
+   462→     URL : https://whc.unesco.org/en/list/742/documents
+   463→     Host: whc.unesco.org | Date: 
+   464→     Snip: UNESCO World Heritage Centre. ... 1995, Report of the 19th Session of the Committee. 1995, 19COM VIIIC.1 - Inscription: The Historic Centre of Santa Cruz de ...
+   465→  5. UNESCO Heritage Sites in Colombia
+   466→     URL : https://uncovercolombia.com/blog/unesco-heritage-sites-in-colombia
+   467→     Host: uncovercolombia.com | Date: 
+   468→     Snip: ... World Heritage Site in 1995. Visit to Mompox will surely transport you back in time. 3. National Archaeological Park of Tierradentro. Located in the ...
+   469→  6. Santa Cruz de Mompox -- World Heritage Site - National Geographic
+   470→     URL : https://www.nationalgeographic.com/travel/world-heritage/article/mompox
+   471→     Host: www.nationalgeographic.com | Date: 
+   472→     Snip: Site: Historic Center of Santa Cruz de Mompox. Location: Colombia. Year Designated: 1995. Category: Cultural. Criteria: (iv)(v).
+   473→  7. Santa Cruz de Mompox - Wikipedia
+   474→     URL : https://en.wikipedia.org/wiki/Santa_Cruz_de_Mompox
+   475→     Host: en.wikipedia.org | Date: 
+   476→     Snip: UNESCO named the historic center of Mompox as a World Heritage Site in 1995. The Colombian government named Mompox a Pueblo Patrimonio (heritage town) in 2010.
+   477→  8. Historical & Heritage Tours in Mompos - Tripadvisor
+   478→     URL : https://www.tripadvisor.com/Attractions-g445061-Activities-c42-t228-Mompos_Bolivar_Department.html
+   479→     Host: www.tripadvisor.com | Date: 
+   480→     Snip: Mompox has been a UNESCO World Heritage Site and Cultural Heritage since 1995, defined as a magical city with a lot of history, therefore walking its ...
+   481→  (total: 8)
+   482→
+   483→>>> Searching: Mompox Colombia arquitectura colonial iglesias
+   484→
+   485→===== QUERY: Mompox Colombia arquitectura colonial iglesias =====
+   486→  1. #MOMPOX y sus 7 iglesias. Las 7 iglesias símbolos icónicos de
+   487→     URL : https://www.instagram.com/p/DXAM_PbEY7u
+   488→     Host: www.instagram.com | Date: 
+   489→     Snip: Aquí el río Magdalena marca el ritmo, sin prisa. La arquitectura colonial sigue intacta y las iglesias es un icono de este destino. Aquí todo ...
+   490→  2. Hoy, en este Viernes Santo, nos sumergimos en la historia viva de
+   491→     URL : https://www.instagram.com/reel/DWrAHGjjr6b
+   492→     Host: www.instagram.com | Date: 
+   493→     Snip: De las ciudades de Colombia que más iglesias católicas tienen en sus centros históricos, aparte de Mompox, tambien los centros históricos de ...
+   494→  3. Mompox, Colombia - Joyas de la Villa
+   495→     URL : https://joyasdelavilla.com/mompox/?srsltid=AfmBOooI8jGIC-NqH1B3tmtq9JNXuhIZpS_GYfzkUSOPIjpxQ_gzJ_MB
+   496→     Host: joyasdelavilla.com | Date: 
+   497→     Snip: Mompox no solo sorprende con joyería tradicional con la técnica de filigrana y su arquitectura colonial sino que deslumbra con sus seis iglesias, algunas de ...
+   498→  4. Exploring Mompox, Colombia's colonial architecture - Facebook
+   499→     URL : https://www.facebook.com/groups/amainsidersgroup/posts/1958563074946219
+   500→     Host: www.facebook.com | Date: 
+   501→     Snip: Esta Arquitectura representa Nuestra Barranquilla Independiente/Libre sin ninguna influencia o imposiciones coloniales o imperialistas que tiene ...
+   502→  5. Mompox, a World Heritage Colombian colonial town - Terra Colombia
+   503→     URL : https://colombia-travels.com/caribbean/mompox
+   504→     Host: colombia-travels.com | Date: 
+   505→     Snip: San Francisco church and convent. Built in 1580, this is the oldest church in Mompox. Majestic and elegant, it is distinguished by its white and ochre tones.
+   506→  6. Descubriendo los Tesoros Arquitectónicos de una Ciudad Colonial
+   507→     URL : https://www.bioma.co/es/post/descubriendo-los-tesoros-arquitect%C3%B3nicos-de-una-ciudad-colonial
+   508→     Host: www.bioma.co | Date: 
+   509→     Snip: Iglesia de San Francisco: Una joya de la arquitectura religiosa: Otro tesoro arquitectónico en Mompox es la Iglesia de San Francisco.
+   510→  7. Historia y arquitectura de Mompox | PDF | Iglesia (edificio) - Scribd
+   511→     URL : https://es.scribd.com/document/547167052/Mompox-Santiago-Roman-Karoll-Contreras-Lina-Rojas
+   512→     Host: es.scribd.com | Date: 
+   513→     Snip: Su trazado urbano sigue un diseño de seis calles principales que convergen en plazas, y su arquitectura colonial conserva iglesias y casas de ladrillo y teja. ...
+   514→  8. Las iglesias de Mompox: joyas que todo colombiano debería visitar
+   515→     URL : https://blogs.eltiempo.com/filho-da-terra/2021/03/26/las-iglesias-de-mompox-joyas-que-todo-colombiano-deberia-visitar
+   516→     Host: blogs.eltiempo.com | Date: 
+   517→     Snip: Mompox es reconocido por su increíble arquitectura colonial y sus iglesias. el templo colonial fue construido en 1580.
+   518→  (total: 8)
+   519→
+   520→>>> Searching: Mompox Magdalena River attractions things to do
+   521→
+   522→===== QUERY: Mompox Magdalena River attractions things to do =====
+   523→  1. Exploring Mompox, Colombia with Amawaterways - Facebook
+   524→     URL : https://www.facebook.com/groups/amainsidersgroup/posts/2136977077104817
+   525→     Host: www.facebook.com | Date: 
+   526→     Snip: Mompox is a pretty little town with anice walkway along the river, many small hotels and cafes, various plazas to enjoy, 6 churches and lots of ...
+   527→  2. THE 15 BEST Things to Do in Mompos (2026) - Must-See Attractions
+   528→     URL : https://www.tripadvisor.com/Attractions-g445061-Activities-Mompos_Bolivar_Department.html
+   529→     Host: www.tripadvisor.com | Date: 
+   530→     Snip: Check out must-see sights and activities: Centro Historico de Santa Cruz de Mompox, Santa Barbara Church, Churches & Cathedrals, Cultural Tours.
+   531→  3. Magdalena River, Antioquia - Book Tickets & Tours | GetYourGuide
+   532→     URL : https://www.getyourguide.com/en-au/magdalena-river-l216994
+   533→     Host: www.getyourguide.com | Date: 
+   534→     Snip: After a calm night in Mompox, discover why the town is famous for its filigree and goldsmith workshops. Visit forge workshops to see how Mompox's facade ...
+   535→  4. Visit Santa Cruz De Mompox, Colombia: Travel Guide - Tomplanmytrip
+   536→     URL : https://www.tomplanmytrip.com/travel-to-colombia/destinations-in-colombia/caribbean-east/santa-cruz-de-mompox
+   537→     Host: www.tomplanmytrip.com | Date: 
+   538→     Snip: My favorite activities in Mompox · Enjoying a coffee at Café 1700, sitting in a rocking chair under the porch. · Sipping a drink on the terrace at ...
+   539→  5. Things to do in Mompox - Aventure Colombia
+   540→     URL : https://aventurecolombia.com/en/things-to-do-in-mompox
+   541→     Host: aventurecolombia.com | Date: 
+   542→     Snip: What to see in Mompox and its surroundings? Visit the historical and religious centre, take a boat trip down the Magdalena River and El Pijiño, visit Aracataca.
+   543→  6. Mompox town and river excursion recommendations - Facebook
+   544→     URL : https://www.facebook.com/groups/amainsidersgroup/posts/1919203342215526
+   545→     Host: www.facebook.com | Date: 
+   546→     Snip: I highly recommend getting up early (6 am departure) for the boat ride to Penoncito and the same trip at 4:30 for the sunset. The birds and ...
+   547→  7. Visit Mompox: Luxury Travel to Mompos, Colombia | LANDED Travel
+   548→     URL : https://landedtravel.com/destinations/mompox
+   549→     Host: landedtravel.com | Date: 
+   550→     Snip: What to do in Mompox · Hiring a lancha for a private fishing and swimming day-trip · Paying your respects at the atmospheric central cemetery · Admiring the ...
+   551→  8. Discover Mompox Colombia A Colonial Masterpiece for Culture
+   552→     URL : https://uncovercolombia.com/blog/mompox-colombia-timeless-colonial-gem-for-culture-and-history-lovers
+   553→     Host: uncovercolombia.com | Date: 
+   554→     Snip: Explore Mompox, Colombia, a preserved colonial treasure offering rich culture, history, and unforgettable travel experiences for every explorer.
+   555→  (total: 8)
+   556→
+   557→>>> Searching: Mompox Colombia climate weather when to visit
+   558→
+   559→===== QUERY: Mompox Colombia climate weather when to visit =====
+   560→  1. Mompós Climate, Weather By Month, Average Temperature
+   561→     URL : https://weatherspark.com/y/23442/Average-Weather-in-Momp%C3%B3s-Colombia-Year-Round
+   562→     Host: weatherspark.com | Date: 
+   563→     Snip: Based on the beach/pool score, the best time of year to visit Mompós for hot-weather activities is from mid December to late February. Mompós Temperature By ... Discover the year-round climate in Mompós, from sweltering, short summers to short, wet winters, in detailed charts, weather & temperature 
+   564→  2. When to Travel to Colombia? Climate, Seasons & Major Events
+   565→     URL : https://colombia-travels.com/practical-guide/best-season-festivities
+   566→     Host: colombia-travels.com | Date: 
+   567→     Snip: July-August: PEAK SEASON – Most vibrant reds, most reliable weather, best visibility. This is THE time to go. September-October: Still excellent, colors remain ...
+   568→  3. Colombia's weather: 15 facts and what is the best time to travel?
+   569→     URL : https://www.besabine.com/en/colombias-climate-15-facts-and-what-is-the-best-time-to-travel
+   570→     Host: www.besabine.com | Date: 
+   571→     Snip: Generally, the best travel month for Colombia is between December and March and July and August. Please note that it can rain even during these ...
+   572→  4. Best Time to Visit Colombia: Rainy Season, Tourists & Events
+   573→     URL : https://www.tomplanmytrip.com/best-time-to-travel-to-colombia-tips
+   574→     Host: www.tomplanmytrip.com | Date: 
+   575→     Snip: Avoid April-May and September-October, the rainiest months. Expect afternoon showers mainly from April to June and October to November. The ...
+   576→  5. Colombia Weather Month by Month - Travel Information 2026 & 2027
+   577→     URL : https://boutiquetravelexperts.com/colombia/weather
+   578→     Host: boutiquetravelexperts.com | Date: 
+   579→     Snip: Dry Season (summer) runs from December to March. Wet Season (winter) runs from April to November. Expect warm, tropical weather year-round, with temperatures ...
+   580→  6. Mompos, Colombia Travel Guide: Discover the Colonial Charm
+   581→     URL : https://www.kupi.com/en-ae/explore/colombia/mompos/weather
+   582→     Host: www.kupi.com | Date: 
+   583→     Snip: The hottest months are traditionally February and March, when average temperatures reach 30.5°C, and daytime maximums often rise to 35°C.
+   584→  7. Best Time to Visit Colombia | Monthly Climate Guide
+   585→     URL : https://www.enchantingtravels.com/destinations/south-america/colombia/best-time-to-visit-colombia
+   586→     Host: www.enchantingtravels.com | Date: 
+   587→     Snip: The best times to visit Colombia are the two dry season phases. The first is between December and March, and the second is between July and August.
+   588→  8. Best Time to Visit Colombia | Weather and Climate Guide
+   589→     URL : https://www.metropolitan-touring.com/blog/nature/best-time-to-visit-colombia
+   590→     Host: www.metropolitan-touring.com | Date: 
+   591→     Snip: As the dry season spans from December to March, Colombia transforms into a paradise for travelers eager to explore its diverse landscapes and vibrant culture.
+   592→  (total: 8)
+   593→
+   594→>>> Searching: how to get to Mompox Colombia bus transport
+   595→
+   596→===== QUERY: how to get to Mompox Colombia bus transport =====
+   597→  1. Visit Santa Cruz De Mompox, Colombia: Travel Guide - Tomplanmytrip
+   598→     URL : https://www.tomplanmytrip.com/travel-to-colombia/destinations-in-colombia/caribbean-east/santa-cruz-de-mompox
+   599→     Host: www.tomplanmytrip.com | Date: 
+   600→     Snip: However, there are 3 bus departures from Cartagena to Mompox (with Unitransco), and the trip is almost as fast (6 hours) since it's direct.
+   601→  2. Bus travel from Mompos to Rincon del Mar in Colombia - Facebook
+   602→     URL : https://www.facebook.com/groups/270371291453054/posts/1499540988536072
+   603→     Host: www.facebook.com | Date: Jun 26, 2026
+   604→     Snip: Bus travel from Mompos to Rincon del Mar in Colombia. Summarized by ... What are bus routes from Medellin to Mompox via Caucasia? Edwina ...
+   605→  3. How to get to Mompox, Colombia | Get off the beaten path
+   606→     URL : https://cuppatocopatravels.com/south-america/colombia/2019-guide-to-mompox-colombia-a-pueblo-frozen-in-time
+   607→     Host: cuppatocopatravels.com | Date: 
+   608→     Snip: There are day and night buses that go directly to Mompox from Bogotá Terminal Salitre, or to nearby El Banco, from which you'll need to take an ... The journey to get to this part of Colombia is not for those who like to travel fast, and the only way to travel to Mompox time-efficiently is to let an
+   609→  4. Cartagena to Mompox Province - 4 ways to travel via bus, car, and taxi
+   610→     URL : https://www.rome2rio.com/s/Cartagena/Mompox-Province
+   611→     Host: www.rome2rio.com | Date: 
+   612→     Snip: Yes, there is a direct bus departing from Terminal de Transporte de Cartagena and arriving at Mompós. Services depart twice daily, and operate every day. The ...
+   613→  5. Why Mompox, Colombia is So Special
+   614→     URL : https://uncovercolombia.com/blog/mompox
+   615→     Host: uncovercolombia.com | Date: 
+   616→     Snip: Take a bus to Magangué (5hrs approx). In Magangue, you can take either a ferry boat (1.5 hr approx) or a motorboat (chalupa) (15 min) along the Magdalena River ...
+   617→  6. How to get to Mompox from Cartagena?/ other worthwhile places
+   618→     URL : https://www.reddit.com/r/cartagena/comments/1cohmgy/how_to_get_to_mompox_from_cartagena_other
+   619→     Host: www.reddit.com | Date: 
+   620→     Snip: We are going to be in Cartagena a whole week. It's a lot of time and we would like to go to mompox for 3 days or so.
+   621→  7. travel from cartagena to mompos - Tripadvisor
+   622→     URL : https://www.tripadvisor.com/ShowTopic-g297476-i4451-k14649729-Travel_from_cartagena_to_mompos-Cartagena_Cartagena_District_Bolivar_Department.html
+   623→     Host: www.tripadvisor.com | Date: 
+   624→     Snip: What is the best way to get to Mompos? I see that there is an early morning bus from Cartagena that takes about 6 hours for a reasonable price.
+   625→  8. Mompox : Travel guide - Aventure Colombia
+   626→     URL : https://aventurecolombia.com/en/mompox-travel-guide
+   627→     Host: aventurecolombia.com | Date: 
+   628→     Snip: How to get to Mompox? BY BUS : the Mompóx terminal connects the city with Cartagena (6am), Barranquilla (7am) and Bogotá (10pm). Expert tip ...
+   629→  (total: 8)
+   630→
+   631→>>> Searching: Mompox Semana Santa festivals culture
+   632→
+   633→===== QUERY: Mompox Semana Santa festivals culture =====
+   634→  1. Easter Traditions: Semana Santa in Colombia
+   635→     URL : https://uncovercolombia.com/blog/easter-traditions-semana-santa-colombia
+   636→     Host: uncovercolombia.com | Date: 
+   637→     Snip: The northern Colombian town of Mompox, declared a historical and architectural world heritage site, has a long history of upholding Semana Santa traditions.
+   638→  2. FESTIVALS DURING SEMANA SANTA - BnB Colombia Tours
+   639→     URL : https://bnbcolombia.com/festivals-during-semana-santa/?srsltid=AfmBOooTQr038zK6EW5ORqgaUNGEYK4dNaqDxTSXUPjbfN0dOmOnI4FK
+   640→     Host: bnbcolombia.com | Date: 
+   641→     Snip: During Semana Santa, the city hosts parades through the streets with participants carrying images and statues of religious characters to commemorate the death ...
+   642→  3. Holy Week in Mompox | Tourism - Colombia Travel
+   643→     URL : https://colombia.travel/en/blog/holy-week-mompox
+   644→     Host: colombia.travel | Date: 
+   645→     Snip: Holy Week in Mompox · Place: Mompox, Bolívar · Region: Caribbean · Date: April 13 - 19, every year (varies according to Christian calendar) · Duration: 8 days.
+   646→  4. Holy Week in Mompox | Karakali Hotel
+   647→     URL : https://www.hotelkarakali.com/en/actividades-en-semana-santa-en-mompox
+   648→     Host: www.hotelkarakali.com | Date: 
+   649→     Snip: During these holy days, the cobbled streets are festooned with flower carpets, the sounds of drums and religious processions fill the air. It is a special time ...
+   650→  5. Así se vive la Semana Santa de #mompox en #bolívar  - Instagram
+   651→     URL : https://www.instagram.com/reel/DWpy-QiDVhj/?hl=en
+   652→     Host: www.instagram.com | Date: 
+   653→     Snip: The initiative promoted by Senator Enrique Cabrales from Mompox recognizes the religious, historical, and cultural value of a celebration that ...
+   654→  6. Semana Santa in Mompox, Colombia
+   655→     URL : http://raisingcolombiankids.blogspot.com/2009/04/semana-santa-in-mompox-colombia.html
+   656→     Host: raisingcolombiankids.blogspot.com | Date: 
+   657→     Snip: The festivities start on the Thursday before Palm Sunday, when a procession of Nazarenos (Nazarenes) arrive, dressed in turquoise robes, at the ...
+   658→  7. Mompox vibra con su agenda cultural de Semana Santa La cultura
+   659→     URL : https://www.facebook.com/GobDeBolivar/posts/mompox-vibra-con-su-agenda-cultural-de-semana-santala-cultura-se-toma-cada-rinc%C3%B3/1487325373439231
+   660→     Host: www.facebook.com | Date: 
+   661→     Snip: Julio Cárdenas, te invita a vivir una temporada llena de arte, alegría y tradición con el Festival de Cultura Semana Santa. Disfruta en ...
+   662→  8. How Does Colombia Celebrate Easter? A Glimpse into the Semana
+   663→     URL : https://www.chaskatours.co/en/post/how-does-colombia-celebrate-easter-a-glimpse-into-the-semana-santa?srsltid=AfmBOop3TOKNffnF7PqMDx13l7x73x4Py-9Fcxia7ZtZH6HPmIH5nOH7
+   664→     Host: www.chaskatours.co | Date: 
+   665→     Snip: Mompox's Semana Santa blends Catholic devotion with local character and is unique in many ways. Friday processions begin weeks ahead of Easter.
+   666→  (total: 8)
+   667→
+   668→>>> Searching: Mompox gastronomy comida típica platos
+   669→
+   670→===== QUERY: Mompox gastronomy comida típica platos =====
+   671→  1. Restaurantes en Mompox: sabores y tradición | Karakalí
+   672→     URL : https://www.hotelkarakali.com/restaurantes-en-mompox
+   673→     Host: www.hotelkarakali.com | Date: 
+   674→     Snip: Platos típicos de Mompox como arroz de chorizo, mote de queso, pato guisado y butifarras, símbolo del legado culinario local.
+   675→  2. El Sabor de Mompox - Joyas de la Villa
+   676→     URL : https://joyasdelavilla.com/el-sabor-de-mompox/?srsltid=AfmBOooAPOAvIXDwgGAbnR7PbxTu1JLZIZOea5N274m8K6CLmPBVigGh
+   677→     Host: joyasdelavilla.com | Date: 
+   678→     Snip: Los platos Típicos que Debes Probar: Pescados Frescos, (Bagre, Bocachico, Mojarra), Pato Guisado, Arróz de Chorizo Artesanal, Posta Negra Momposina, entre otros ...
+   679→  3. Descubre Mompox: Restaurante y Comida Tradicional - TikTok
+   680→     URL : https://www.tiktok.com/@efrendgl/video/7327430449809083654
+   681→     Host: www.tiktok.com | Date: 
+   682→     Snip: Llegaron los platos fuertes, lomo momposino, lomo rellenos de vegetales en reducción de coroza. y vino tinto con quesito de cas, puré de papa y ...
+   683→  4. Mompox - Colombia: * GASTRONOMÍA MOMPOSINA
+   684→     URL : http://mompoxcolombia.blogspot.com/p/gastronomia-momposina.html
+   685→     Host: mompoxcolombia.blogspot.com | Date: 
+   686→     Snip: Carne: En Mompox se le llama carne, sólo a la de res; es la base de la alimentación, un plato sin carne es un “plato triste” se prepara de diversas formas, las ...
+   687→  5. Cinco platos que no debe dejar de probar si está de visita por
+   688→     URL : https://www.semana.com/turismo/articulo/cinco-platos-que-no-debe-dejar-de-probar-si-esta-de-visita-por-mompox-pueblo-patrimonio-de-colombia/202454
+   689→     Host: www.semana.com | Date: 
+   690→     Snip: El portal Red de Pueblos Patrimonio de Colombia indica que uno de los platos típicos es el ajiaco momposino, que es una sopa elaborada a base de ... En los restaurantes de esta población se pueden degustar platos que van desde lo más tradicional, pasando por la cocina fusión, sin dejar de lado lo in
+   691→  6. Si aún no sabes dónde comer en MOMPOX - Instagram
+   692→     URL : https://www.instagram.com/reel/DOEZO64D09y
+   693→     Host: www.instagram.com | Date: 
+   694→     Snip: Aquí podrás encontrar platos desde 23,000 pesos. comida para dioses. toda la tradición mompoxina. es un plato inspirado en la gastronomía ...
+   695→  7. En las calles llenas de historia de Mompox descubrimos  - Instagram
+   696→     URL : https://www.instagram.com/reel/DZnr1C9sDvY
+   697→     Host: www.instagram.com | Date: 
+   698→     Snip: ... gastronomía y crear una versión única que une lo mejor de nuestra cocina tradicional con la calidad de la carne de Estados Unidos ...
+   699→  8. [PDF] Sabores y Saberes Mompox - Patrimonio
+   700→     URL : https://patrimonio.mincultura.gov.co/SiteAssets/Paginas/Publicaciones-biblioteca-cocinas/Saberes%20y%20sabores%20.pdf
+   701→     Host: patrimonio.mincultura.gov.co | Date: 
+   702→     Snip: Algunas de las principales y emblemáticas prepa- raciones en la cocina tradicional de la Isla de. Mompox se presentan en sopas, sancochos y motes, platos ...
+   703→  (total: 8)
+   704→
+   705→>>> Searching: Mompox música tradicional porro cumbia folklore
+   706→
+   707→===== QUERY: Mompox música tradicional porro cumbia folklore =====
+   708→  1. La voz de Totó la Momposina es memoria, tradición y resistencia
+   709→     URL : https://www.instagram.com/reel/DYiQywdtsQ-
+   710→     Host: www.instagram.com | Date: 
+   711→     Snip: Primero, rescat3 ritmos ancestrales. Mientras muchos los olvidaban, Tot3 mantuvo vivos sonidos como la Cumbia, el Bullerengue y el Mapal3.
+   712→  2. Totó la Momposina (@totolamomposinaoficial), una de
+   713→     URL : https://www.instagram.com/p/DYh5lOYDW3l/?img_index=8
+   714→     Host: www.instagram.com | Date: 
+   715→     Snip: La cantante falleció a los 85 años, dejando un legado imborrable en la cumbia, el bullerengue, el porro y las tradiciones afrocolombianas.
+   716→  3. Festival Totó la Momposina del 19, 20 y 21 de julio en Mompox
+   717→     URL : https://www.facebook.com/TotolaMomposinaOfficial/posts/festival-tot%C3%B3-la-momposina-del-19-20-y-21-de-julio-en-mompox-inauguraci%C3%B3n-plaza-/1034724201355859
+   718→     Host: www.facebook.com | Date: 
+   719→     Snip: Asimismo, su música está cargada de cumbias, bullerengues, chalupas, garabatos o mapalés, sones, guarachas, y demás géneros del folclor. Sus ...
+   720→  4. The History Of Colombian Cumbia & Porro 1948-79 cd 1. (Full Album)
+   721→     URL : https://www.youtube.com/watch?v=Vc-OjM1OnOo
+   722→     Host: www.youtube.com | Date: 
+   723→     Snip: The Original Sound of Cumbia is Soundway's definitive guide to the origins of Colombian cumbia and porro and the result of five years pain ...
+   724→  5. ¡Eres eterna, Totó! - Instagram
+   725→     URL : https://www.instagram.com/reel/DYixm1dNCFM
+   726→     Host: www.instagram.com | Date: 
+   727→     Snip: Sonia Bazanta Vides llevó con orgullo el nombre de Mompox, de su natal Talaigua Nuevo, de Bolívar y de toda nuestra identidad cultural ante el ...
+   728→  6. Bailes cantados de Mompox - Colombia Travel
+   729→     URL : https://colombia.travel/es/mapa-turismo/bailes-cantados-de-mompox
+   730→     Host: colombia.travel | Date: 
+   731→     Snip: En este viaje nocturno nos dirigiremos a la periferia de Mompox para conocer a un grupo folclórico local que ha salvaguardado la tradición cumbia de los “Bailes ...
+   732→  7. ¡Vamos pa la Cumbia! - PanoramaCultural.com.co
+   733→     URL : https://panoramacultural.com.co/musica-y-folclor/8368/vamos-pa-la-cumbia
+   734→     Host: panoramacultural.com.co | Date: 
+   735→     Snip: Los ritmos tradicionales tocados y bailados en estas ruedas de cumbiamba en Guamal, son: Perillero, Porro tapao, Porro jalao y Cumbia, siendo ...
+   736→  8. Mompox vibra al ritmo de la cumbia Con el sonar del tambor  - Facebook
+   737→     URL : https://www.facebook.com/Alcaldiademompox/videos/cumbi%C3%B3n/1372551430748389
+   738→     Host: www.facebook.com | Date: 
+   739→     Snip: Este viernes viviremos el Gran Cumbión, un recorrido lleno de música y baile, donde nuestra monarquía real y las reinas populares contagiarán a ...
+   740→  (total: 8)
+   741→
+   742→>>> Searching: Mompox day trips Pijiño swamp Ciénaga
+   743→
+   744→===== QUERY: Mompox day trips Pijiño swamp Ciénaga =====
+   745→  1. Santa Cruz de Mompox 3-Day Tour from Santa Marta
+   746→     URL : https://www.colombiatravelandtours.com/tours/caribbean/santa-cruz-de-mompox-3-day-tour-with-cienaga-de-pijino-from-santa-marta
+   747→     Host: www.colombiatravelandtours.com | Date: 
+   748→     Snip: In the afternoon, venture to Ciénaga de Pijiño, a lake characterized by its beautiful waters and a large number of exotic birds. Board a traditional boat called ...
+   749→  2. 2 Days Mompox And Cienaga Pijiño (with Reviews) - Tripadvisor
+   750→     URL : https://www.tripadvisor.com/AttractionProductReview-g297476-d20325767-2_Days_Mompox_And_Cienaga_Pijino-Cartagena_Cartagena_District_Bolivar_Department.html
+   751→     Host: www.tripadvisor.com | Date: 
+   752→     Snip: Its seven churches and beautiful architecture make it worth spending more than three days in Mompox. You can go to the Pijiño swamp and sail ...
+   753→  3. 2 Days Mompox And Cienaga Pijiño in Cartagena, Caribbean Coast
+   754→     URL : https://www.aaa.com/tripcanvas/thing-to-do/2-days-mompox-and-cienaga-pijino-91445P5
+   755→     Host: www.aaa.com | Date: 
+   756→     Snip: Large colonial houses, numerous churches, a cemetery of great value, squares, a lot of tradition and the nearby Cienaga de Pijiño with its diversity of birds, ...
+   757→  4. Ciénaga de Pijiño: An Ecological & Cultural Cruise from Mompox
+   758→     URL : https://nomadicniko.com/colombia/cienaga-de-pijino
+   759→     Host: nomadicniko.com | Date: 
+   760→     Snip: While in Mompox, we decided to take an ecological cruise down the Magdalena River to the Ciénaga de Pijiño, a large swamp.
+   761→  5. Santa Cruz de Mompox 4-Day Tour from Santa Marta
+   762→     URL : https://www.colombiatravelandtours.com/tours/caribbean/santa-cruz-de-mompox-4-day-tour-with-cienaga-de-pijino-and-magdalena-river-cruise
+   763→     Host: www.colombiatravelandtours.com | Date: 
+   764→     Snip: Santa Cruz de Mompox 4-Day Tour with Cienaga de Pijiño and Magdalena River Cruise ; Duration: 4 Days (approx.) ; Location: Santa Cruz de Mompox ; Product code: ...
+   765→  6. Tag: cienaga de pijiño - Ian's World Travel Blog - WordPress.com
+   766→     URL : https://iansworldtravelblog.wordpress.com/tag/cienaga-de-pijino
+   767→     Host: iansworldtravelblog.wordpress.com | Date: 
+   768→     Snip: A stunningly humid and attractive old town that sits on the bank of the Rio Magdalena in Colombia. It's one of those languid country places left behind by ...
+   769→  7. Magdalena River Cruise: Colombia's Hidden Gems
+   770→     URL : https://www.journeylatinamerica.com/destinations/colombia/holidays/magdalena-river-cruise-cartagena-to-mompox/itinerary
+   771→     Host: www.journeylatinamerica.com | Date: 
+   772→     Snip: Day 6. Mompox walking tour and Ciénaga Pijiño wildlife. Step into the timeless rhythm of Mompox, where riverside streets and artisan workshops seem untouched ...
+   773→  8. Mompox town and river excursion recommendations - Facebook
+   774→     URL : https://www.facebook.com/groups/amainsidersgroup/posts/1919203342215526
+   775→     Host: www.facebook.com | Date: 
+   776→     Snip: Mompox is a lovely town and you get to spend two nights. We had time on day one for walking in town the evening of arrival, lots of free time and excursion ...
+   777→  (total: 8)
+   778→
+   779→>>> Searching: Ciénaga de Pijiño Mompox naturaleza paseo
+   780→
+   781→===== QUERY: Ciénaga de Pijiño Mompox naturaleza paseo =====
+   782→  1. Descubre la tranquilidad de la Ciénaga de Pijiño, un rincón mágico
+   783→     URL : https://www.instagram.com/reel/DBXKjZCPrGf/?hl=en
+   784→     Host: www.instagram.com | Date: 
+   785→     Snip: Una experiencia perfecta para quienes buscan conectarse con la naturaleza y vivir la esencia cultural de la región. Recomendaciones para visitar ...
+   786→  2. RUTA: Ciénaga de Pijiño - Turismo en Mompox
+   787→     URL : https://turismomompox.com/producto/ruta-cienaga-de-pijino
+   788→     Host: turismomompox.com | Date: 
+   789→     Snip: Pasadia: De 1 a 10 Personas en Adelante ; Tour compartido: 50.000 Pesos por Persona ; Tour Privado: Precio de 400.000 Válido hasta 7 Personas.
+   790→  3. Ciénaga de Pijiño, un remanso en la naturaleza salvaje del norte
+   791→     URL : https://efeverde.com/cienaga-pijino-naturaleza-colombia
+   792→     Host: efeverde.com | Date: 
+   793→     Snip: La naturaleza del norte de Colombia se abre a los ojos del visitante en la Ciénaga de Pijiño, donde conviven diferentes especies de aves y ...
+   794→  4. Paseo por la Ciénaga Pijiño - Tours Valerosa - Tripadvisor
+   795→     URL : https://www.tripadvisor.es/ShowUserReviews-g445061-d11748283-r654208398-Tours_Valerosa-Mompos_Bolivar_Department.html
+   796→     Host: www.tripadvisor.es | Date: 
+   797→     Snip: Un agradable paseo al atardecer por el río Magdalena, en un planchón seguro, que permite contemplar en todo su esplendor los paisajes de la depresión Momposina.
+   798→  5. Ir a la ciénaga de Pijiño - Colombia Travel
+   799→     URL : https://colombia.travel/es/mompox/ir-la-cienaga-de-pijino
+   800→     Host: colombia.travel | Date: 
+   801→     Snip: Durante el trayecto, que se cubre en canoas anchas con motor, se observan aves y reptiles. De regreso los pasajeros se pueden entretener al atardecer con el ...
+   802→  6. Paseo por el Brazo de Mompox y Baño en la Cienaga de Pijiño
+   803→     URL : https://www.tripadvisor.co/ShowUserReviews-g445061-d11748283-r640611318-Tours_Valerosa-Mompos_Bolivar_Department.html
+   804→     Host: www.tripadvisor.co | Date: 
+   805→     Snip: Un agradable paseo al atardecer por el río Magdalena, en un planchón seguro, que permite contemplar en todo su esplendor los paisajes de la depresión Momposina.
+   806→  7. Ruta Paseo Ecologico Mompox Cienaga Pijiño - Wikiloc
+   807→     URL : https://es.wikiloc.com/rutas-lancha-motora/paseo-ecologico-mompox-cienaga-pijino-9662062
+   808→     Host: es.wikiloc.com | Date: 
+   809→     Snip: En todo el recorrido, se pueden apreciar una gran cantidad de fauna, entre ellos aves de muchas especies, iguanas, tortugas, micos y muchas mas.
+   810→  8. Avistamiento de Aves Ciénaga de Pijiño - Mompox Retro
+   811→     URL : https://www.mompoxretro.co/service-page/avistamiento-de-aves-ci%C3%A9naga-de-piji%C3%B1o
+   812→     Host: www.mompoxretro.co | Date: 
+   813→     Snip: A través de una embarcación tradicional y en compañía de un Guía Profesional, podrás avistar e interactuar con las más de 300 especies de aves y gran variedad ...
+   814→  (total: 8)
+   815→
+   816→>>> Searching: Isla de Salamanca Mompox nearby
+   817→
+   818→===== QUERY: Isla de Salamanca Mompox nearby =====
+   819→  1. Parque Isla Salamanca - All You SHOULD Know Before Going 2026
+   820→     URL : https://www.tripadvisor.com/Attraction_Review-g297473-d3624562-Reviews-Parque_Isla_Salamanca-Barranquilla_Atlantico_Department.html
+   821→     Host: www.tripadvisor.com | Date: 
+   822→     Snip: Recommended experiences nearby ; Gran Malecón, Carnaval Museum and Downtown Barranquilla City Tour. (34). Duration: 6h ; Private Bike Tour of Barranquilla. (12).
+   823→  2. Isla de Salamanca and Tayrona National Park | Birds of passage
+   824→     URL : https://birdsofpassage.wordpress.com/2015/04/07/isla-de-salamanca-and-tayrona-national-park
+   825→     Host: birdsofpassage.wordpress.com | Date: 
+   826→     Snip: Salamanca National Park is only 2 hours north of Cartagena along the coast and is accessible by bus. Many birders head here to look for the endemic Sapphire- ...
+   827→  3. Salamanca Island Road Park - Wikipedia
+   828→     URL : https://en.wikipedia.org/wiki/Salamanca_Island_Road_Park
+   829→     Host: en.wikipedia.org | Date: 
+   830→     Snip: The Salamanca Island Road Park (Spanish: Vía Parque Isla de Salamanca) is a national park located in the Caribbean Region of Colombia
+   831→  4. Reasons to visit the Isla de Salamanca National Natural Park
+   832→     URL : https://baquianos.com/en/blog/reasons-to-visit-isla-salamanca
+   833→     Host: baquianos.com | Date: 
+   834→     Snip: The Isla de Salamanca Natural Park is a perfect setting for the practice of ecotourism in Colombia . It is located in the municipality of Pueblo Viejo, ...
+   835→  5. Isla de Salamanca Park Way
+   836→     URL : https://old.parquesnacionales.gov.co/portal/en/ecotourism/caribbean-region/isla-de-salamanca-park-way-2
+   837→     Host: old.parquesnacionales.gov.co | Date: 
+   838→     Snip: Salamanca Island received the category 'Park Way' because it allows the visitor to observe exceptional mangrove forests, swamps and beaches from the road that ...
+   839→  6. Santa Cruz de Mompox 4-Day Tour from Santa Marta
+   840→     URL : https://www.colombiatravelandtours.com/tours/caribbean/santa-cruz-de-mompox-4-day-tour-with-cienaga-de-pijino-and-magdalena-river-cruise
+   841→     Host: www.colombiatravelandtours.com | Date: 
+   842→     Snip: Explore the UNESCO World Heritage-listed Santa Cruz de Mompox, a sleepy colonial town where time has stood still, on this 4-day tour from Santa Marta.
+   843→  7. Mompox: a colonial island in the Magdalena River - Colombia Travel
+   844→     URL : https://colombia.travel/en/blog/mompox-colonial-island-in-magdalena-river
+   845→     Host: colombia.travel | Date: 
+   846→     Snip: Close to the famous city of Cartagena de Indias, in the department of Bolívar, is Santa Cruz de Mompox, a magical town on an island in the middle of the ...
+   847→  8. Isla Salamanca Parkway – Travel guide at Wikivoyage
+   848→     URL : https://en.wikivoyage.org/wiki/Isla_Salamanca_Parkway
+   849→     Host: en.wikivoyage.org | Date: 
+   850→     Snip: Isla Salamanca Parkway (officially, Vía Parque Isla de Salamanca) is a protected natural area along the Caribbean coast in the Magdalena Department in ...
+   851→  (total: 8)
+   852→
+   853→>>> Searching: Mompox alrededores paseos río tours
+   854→
+   855→===== QUERY: Mompox alrededores paseos río tours =====
+   856→  1. Mompox town and river excursion recommendations - Facebook
+   857→     URL : https://www.facebook.com/groups/amainsidersgroup/posts/1919203342215526
+   858→     Host: www.facebook.com | Date: 
+   859→     Snip: Mompox is a pretty little town with anice walkway along the river, ing excursions from all cruise ports in Jamaica, from all cruise ports in ...
+   860→  2. THE BEST Mompos Boat Rides & Day Cruises (2026) - Tripadvisor
+   861→     URL : https://www.tripadvisor.com/Attractions-g445061-Activities-c55-Mompos_Bolivar_Department.html
+   862→     Host: www.tripadvisor.com | Date: 
+   863→     Snip: Boat Rides & Cruises in Mompos · 1. Tours Valerosa · 2. Canoa Cruise · 3. Canoa Cruise Río Magdalena · 4. RUTAS DEL CARIBE.
+   864→  3. ¡Vive el encanto de Mompox y sus atardeceres coloniales con
+   865→     URL : https://www.instagram.com/p/DaFxRoIkVTO
+   866→     Host: www.instagram.com | Date: Jun 27, 2026
+   867→     Snip: A orillas del río Magdalena, Santa Cruz de Mompox es uno de los tesoros coloniales mejor conservados de Colombia. Sus calles empedradas, ...
+   868→  4. Santa Cruz de Mompox - GetYourGuide
+   869→     URL : https://www.getyourguide.com/santa-cruz-de-mompox-l208863
+   870→     Host: www.getyourguide.com | Date: 
+   871→     Snip: In the afternoon, take a stroll along the Magdalena River, where you can admire the area's wide biodiversity. Capture photos of the village, nature, and birds.
+   872→  5. ¡Vámonos a Mompox! 🏘️ Disfruta de un pasadía increíble en uno
+   873→     URL : https://www.instagram.com/p/DUB91Q-Dpl7
+   874→     Host: www.instagram.com | Date: 
+   875→     Snip: Recorrer Mompox es viajar entre calles llenas de historias, arquitectura colonial y tradiciones que aún permanecen vivas. Durante el city tour ...
+   876→  6. Best Tours and Activities in Mompox | Book Online - Civitatis
+   877→     URL : https://www.civitatis.com/en/mompox/?srsltid=AfmBOorB4zFH-q5xuVNJK0d9T6l9JdxM5TZs_iXFEqcg8lg0X74Qu_kP
+   878→     Host: www.civitatis.com | Date: 
+   879→     Snip: Discover top things to do in Mompox. Explore guided tours, river cruises, and local experiences. Book your adventure in Colombia's hidden gem today!
+   880→  7. Paseo en planchón por el río Magdalena, un plan  - YouTube
+   881→     URL : https://www.youtube.com/watch?v=SdD8lYsfUwI
+   882→     Host: www.youtube.com | Date: 
+   883→     Snip: Comments ; This is how I LIVED a day in MOMPOX: The MAGICAL TOWN of the Magdalena River · Auto-dubbed. 3.6K views ; Pueblos del Magdalena. Gran ...
+   884→  8. Tour de 3 días a Santa Cruz de Mompox desde Santa Marta
+   885→     URL : https://www.colombiatravelandtours.com/tours/caribbean/santa-cruz-de-mompox-3-day-tour-with-cienaga-de-pijino-from-santa-marta/?lang=es
+   886→     Host: www.colombiatravelandtours.com | Date: 
+   887→     Snip: Alojamiento por 2 noches · Comidas mencionadas en el itinerario · Recorrido por Santa Cruz de Mompox · Visita a la Ciénaga de Pijiño · Traslados de regreso a Santa ...
+   888→  (total: 8)
+   889→
+   890→>>> Searching: Mompox mangroves birdwatching nature
+   891→
+   892→===== QUERY: Mompox mangroves birdwatching nature =====
+   893→  1. Wildlife in colombia early excursion - Facebook
+   894→     URL : https://www.facebook.com/groups/amainsidersgroup/posts/2085076128961579
+   895→     Host: www.facebook.com | Date: 
+   896→     Snip: Early Nature Excursion. Howler monkeys, iguanas, pigs & birds! Mompoxals invites natural beauty nearby , rich flora. Bird species along the ...
+   897→  2. We explored the mangroves of the "La boquilla" with American
+   898→     URL : https://www.instagram.com/reel/DD5DSKTxlux
+   899→     Host: www.instagram.com | Date: 
+   900→     Snip: ... Bird Watching experience now with Betoma tours at WhatsApp +57 3026626358 #birdingphotography #birdwatching_wildlife #birdwatching #nature # ...
+   901→  3. Colombia Birdwatching travel guide: where to do birding in Colombia
+   902→     URL : https://mytriptocolombia.com/birdwatching-colombia-birding-travel-guide
+   903→     Host: mytriptocolombia.com | Date: 
+   904→     Snip: Birdwatching in Colombia is one of the country's fastest-growing nature activities, Beaches, marshes, mangroves, savannahs, rivers, Nature ...
+   905→  4. Bird Watching Tour in the Mangroves Cartagena (with Reviews)
+   906→     URL : https://www.tripadvisor.com/AttractionProductReview-g297476-d19651471-Bird_Watching_Tour_in_the_Mangroves_Cartagena-Cartagena_Cartagena_District_Bolivar.html
+   907→     Host: www.tripadvisor.com | Date: 
+   908→     Snip: (5) from $130.00 per adult Birdwatching from $140.00 per adult. Birdwatching in a private nature reserve
+   909→  5. Bird watching in the mangroves - Alternative Travel Cartagena
+   910→     URL : https://www.alternativetravelcartagena.com/tours/bird-watching-in-the-mangroves
+   911→     Host: www.alternativetravelcartagena.com | Date: 
+   912→     Snip: Bird watching in the mangroves (2-3 hours) nature, authentic, for ・ identify native and migratory birds ・ learn about the ecosystem, flora, and fauna of the ...
+   913→  6. The world's most biodiverse country by nature, Colombia  - Instagram
+   914→     URL : https://www.instagram.com/p/DX1kVVrkfyi
+   915→     Host: www.instagram.com | Date: 
+   916→     Snip: Bird watching, Colombian style! Today's excursion took us deep into the natural beauty along the Magdalena River. We spotted iguanas along ...
+   917→  7. Colombia's Santa Marta Mountains and Caribbean Coast
+   918→     URL : https://delawarenaturesociety.org/blog/colombias-santa-marta-mountains-and-caribbean-coast
+   919→     Host: delawarenaturesociety.org | Date: 
+   920→     Snip: Many bird species occur nowhere else on Earth, rare bird sightings amid palm-studded cloud forest, mangroves, lagoons, and beaches of the ...
+   921→  8. Rare Birds of the Mangroves! | Birding El Barra Santiago, El Salvador
+   922→     URL : https://www.youtube.com/watch?v=8tzjMXxQ6UI
+   923→     Host: www.youtube.com | Date: 
+   924→     Snip: ... nature as we track some of the most fascinating birds in Central America. From secretive mangrove dwellers to tropical migrants, this ...
+   925→  (total: 8)
+   926→
+   927→
+   928→Saved consolidated results -> /home/z/my-project/research/search-results-2026-06-28T22-22-51.json
+   929→Saved 25 per-query JSON files to /home/z/my-project/research
+   930→

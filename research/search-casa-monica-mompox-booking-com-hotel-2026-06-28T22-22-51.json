@@ -1,0 +1,79 @@
+{
+  "query": "\"Casa Monica\" Mompox Booking.com hotel",
+  "num": 8,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://www.facebook.com/StAugustineAttractionsAssociation/posts/travel-tuesday-have-you-ever-stayed-in-the-historic-casa-monica-resort-spa-autog/1799789953423273",
+      "name": "Travel Tuesday: have you ever stayed in the historic Casa Monica",
+      "snippet": "Casa Monica Resort & Spa, Autograph Collection is an iconic stop for anyone visiting Florida's Historic Coast! The resort is steeped in history and charm, ...",
+      "host_name": "www.facebook.com",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.top-hotels-gr.com/es/all-hotels",
+      "name": "Todos los hoteles en Grecia",
+      "snippet": "HOTEL CASA VANIA MOMPOX, Centro histórico, Con Parqueadero en el Hotel ... Hotel Casa Monica Băile Felix · Hotel Charissi ... Naoussa Hotel Paros By Booking Kottas ...",
+      "host_name": "www.top-hotels-gr.com",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/hotel/us/casa-monica-autograph-collection.html",
+      "name": "Casa Monica Resort & Spa, Autograph Collection - Booking.com",
+      "snippet": "All rooms at Casa Monica Luxury & Lifestyle hotel include a Bose sound system, flat-screen cable TV, desk, and tea- and coffee-making facilities. Each ...",
+      "host_name": "www.booking.com",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/reviews/us/hotel/casa-monica-autograph-collection.en-gb.html",
+      "name": "Reviews of Casa Monica Resort & Spa, Autograph Collection",
+      "snippet": "Excellent hotel experience. The staff is the best! The valet parking tunnel brings you to ground level entry. Checking in is fun when you get a ...",
+      "host_name": "www.booking.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/city/co/mompos-co.html",
+      "name": "10 Best Mompós Hotels, Colombia (From US$153) - Booking.com",
+      "snippet": "Located in Mompos, HOTEL CASA VANIA MOMPOX, Centro histórico, Con Parqueadero en el Hotel offers 4-star accommodations with a garden, a shared lounge and a bar.",
+      "host_name": "www.booking.com",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4qSKf0z1yJo",
+      "name": "Exploring Casa Monica Resort & Spa in St. Augustine - YouTube",
+      "snippet": "Step inside Casa Monica Resort & Spa, one of the most iconic historic hotels in St. Augustine, the nation's oldest city.",
+      "host_name": "www.youtube.com",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/hotel/co/casa-santa-monica.en-gb.html",
+      "name": "Hotel Casa Santa Monica Norte, Cali (updated prices 2026)",
+      "snippet": "Comfortable Accommodations: Hotel Casa Santa Monica Norte in Cali offers family rooms with air-conditioning, private bathrooms, and free WiFi. Each room ...",
+      "host_name": "www.booking.com",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jaxak-casa-monica-resort-and-spa-autograph-collection/overview",
+      "name": "Casa Monica Resort & Spa, Autograph Collection - Marriott",
+      "snippet": "Book a distinctive stay at Casa Monica Resort & Spa, Autograph Collection. Premium accommodations, unique rooms & great service await you.",
+      "host_name": "www.marriott.com",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

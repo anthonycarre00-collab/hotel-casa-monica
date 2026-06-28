@@ -1,0 +1,32 @@
+[
+  {
+    "ok": false,
+    "url": "https://hotelcasamonica.com/",
+    "error": "Function invoke failed with status 500: {\"result\":null,\"error\":\"Page reader failed: request failed with status 400: {\\\"code\\\":400,\\\"data\\\":null,\\\"message\\\":\\\"JINA request returned 400 for https:/hotelcasamonica.com/: {\\\\\\\"data\\\\\\\":null,\\\\\\\"path\\\\\\\":\\\\\\\"url\\\\\\\",\\\\\\\"code\\\\\\\":400,\\\\\\\"name\\\\\\\":\\\\\\\"ParamValidationError\\\\\\\",\\\\\\\"status\\\\\\\":40001,\\\\\\\"message\\\\\\\":\\\\\\\"Domain 'hotelcasamonica.com' could not be resolved\\\\\\\",\\\\\\\"readableMessage\\\\\\\":\\\\\\\"ParamValidationError(url): Domain 'hotelcasamonica.com' could not be resolved\\\\\\\"}\\\",\\\"name\\\":\\\"UpstreamError\\\"}\\n\"}"
+  },
+  {
+    "ok": false,
+    "url": "https://hotelcasamonica.com",
+    "error": "Function invoke failed with status 500: {\"result\":null,\"error\":\"Page reader failed: request failed with status 400: {\\\"code\\\":400,\\\"data\\\":null,\\\"message\\\":\\\"JINA request returned 400 for https:/hotelcasamonica.com: {\\\\\\\"data\\\\\\\":null,\\\\\\\"path\\\\\\\":\\\\\\\"url\\\\\\\",\\\\\\\"code\\\\\\\":400,\\\\\\\"name\\\\\\\":\\\\\\\"ParamValidationError\\\\\\\",\\\\\\\"status\\\\\\\":40001,\\\\\\\"message\\\\\\\":\\\\\\\"Domain 'hotelcasamonica.com' could not be resolved\\\\\\\",\\\\\\\"readableMessage\\\\\\\":\\\\\\\"ParamValidationError(url): Domain 'hotelcasamonica.com' could not be resolved\\\\\\\"}\\\",\\\"name\\\":\\\"UpstreamError\\\"}\\n\"}"
+  },
+  {
+    "ok": true,
+    "url": "https://www.instagram.com/p/DMfa5douucR/",
+    "finalUrl": "https://www.instagram.com/p/DMfa5douucR/",
+    "title": "Hotel Casa Mónica Mompox on Instagram",
+    "publishedTime": "",
+    "textFile": "/home/z/my-project/research/page-instagram-com-p-dmfa5douucr-2026-06-28T22-35-40.txt",
+    "metaFile": "/home/z/my-project/research/page-instagram-com-p-dmfa5douucr-2026-06-28T22-35-40.meta.json",
+    "textLength": 1045
+  },
+  {
+    "ok": true,
+    "url": "https://www.booking.com/city/co/mompos-co.html",
+    "finalUrl": "https://www.booking.com/city/co/mompos-co.html",
+    "title": "10 Best Mompós Hotels, Colombia (From US$24)",
+    "publishedTime": "",
+    "textFile": "/home/z/my-project/research/page-booking-com-city-co-mompos-co-html-2026-06-28T22-35-50.txt",
+    "metaFile": "/home/z/my-project/research/page-booking-com-city-co-mompos-co-html-2026-06-28T22-35-50.meta.json",
+    "textLength": 17702
+  }
+]

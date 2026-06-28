@@ -1,0 +1,79 @@
+{
+  "query": "Mompox hoteles coloniales boutique recomendados",
+  "num": 8,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://www.hotelkarakali.com",
+      "name": "Karakalí Boutique Hotel | Hoteles en Mompox Bolívar",
+      "snippet": "Bienvenidos a Karakalí Boutique Hotel, exclusiva casona colonial, frente al Río Magdalena en Mompox, patrimonio histórico de la humanidad desde 1995.",
+      "host_name": "www.hotelkarakali.com",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.tripadvisor.co/HotelsList-Mompos-Hotels-Motels-Boutique-zfp15767220.html",
+      "name": "LOS 5 MEJORES hoteles boutique en Mompós 2026 - Tripadvisor",
+      "snippet": "1. Bioma Boutique Hotel Mompox · 2. Hotel San Rafael · 3. Albarrada Hotel Boutique · 4. Bohemia Hotel Boutique · 5. Hotel Boutique Casa Tres Cruces · 6. Hotel ...",
+      "host_name": "www.tripadvisor.co",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.bioma.co/es",
+      "name": "Bioma Boutique Hotel Mompos",
+      "snippet": "En Bioma Boutique Hotel te ofrecemos una experiencia única de descanso y confort en uno de los destinos coloniales más fascinantes de Colombia.",
+      "host_name": "www.bioma.co",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/city/co/mompos.es.html",
+      "name": "Los 10 mejores hoteles de Mompox, Colombia (desde € 38)",
+      "snippet": "Cuáles son los mejores hoteles de Mompox? Portal de la Marquesa, Hotel Boutique Ana Lorenza y Karakali Boutique Hotel son algunos hoteles populares en Mompox.",
+      "host_name": "www.booking.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NrhrjsT3yHI",
+      "name": "Best Hotels in Mompox Colombia | Top Picks - YouTube",
+      "snippet": "Discover the best hotels in Mompox (Mompós), Colombia — a UNESCO World Heritage town frozen in time along the Magdalena River.",
+      "host_name": "www.youtube.com",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://es.luxuryhotel.world/mompos",
+      "name": "Los 7 mejores hoteles de lujo de Mompox - LuxuryHotel.world",
+      "snippet": "San Rafael · Karakali Boutique Hotel · Bioma Boutique Hotel · Portal de la Marquesa · LITERATIUM · HOTEL PLAZA BOLIVAR MOMPOX ubicado en el centro histórico con ...",
+      "host_name": "es.luxuryhotel.world",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://top10hedonist.com/2026/05/07/mejores-hoteles-en-mompox-top-10",
+      "name": "Mejores hoteles en Mompox – Top 10",
+      "snippet": "1.Bioma Boutique Hotel Bioma no nace como hotel: renace como hotel. · 2.Karakalí Boutique Hotel · 3.Casa Gerar Filigrana · 4.Casa Sinning Año 1637 ...",
+      "host_name": "top10hedonist.com",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.instagram.com/karakali_mompox",
+      "name": "Karakalí Boutique Hotel (@karakali_mompox) · Mompós - Instagram",
+      "snippet": "Realismo mágico en Karakalí ✨ La entrada de Karakalí Boutique Hotel te recibe entre naturaleza viva y detalles arquitectónicos coloniales que evocan el ...",
+      "host_name": "www.instagram.com",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}

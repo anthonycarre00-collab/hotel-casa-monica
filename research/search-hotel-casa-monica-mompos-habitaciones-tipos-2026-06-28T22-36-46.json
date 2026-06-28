@@ -1,0 +1,79 @@
+{
+  "query": "\"Hotel Casa Monica\" Mompos habitaciones tipos",
+  "num": 8,
+  "ok": true,
+  "results": [
+    {
+      "url": "https://hotelesbeijing.com.co/hotel/hotel-casa-monica",
+      "name": "Hotel Casa Mónica | Hotel en Mompós, Bolívar - Hoteles en Colombia",
+      "snippet": "Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con habitaciones climatizadas y atención cercana ideal para ...",
+      "host_name": "hotelesbeijing.com.co",
+      "rank": 0,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://hotelesbeijing.com.co/ubicacion/bolivar/mompos/santa-cruz-de-mompox/page/3",
+      "name": "Hoteles en Santa Cruz de Mompox",
+      "snippet": "Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...",
+      "host_name": "hotelesbeijing.com.co",
+      "rank": 1,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.facebook.com/groups/3696299173920478/posts/4047332118817180",
+      "name": "Buenas noches, estoy necesitando hospedaje el dia viernes en",
+      "snippet": "Hotel casa monica callejón de santa bárbara Super recomendado. 34w · 1 like. Camila Marcela Blanco Ortega. 󱐭. Author. Jenïfër Isä Amador ...",
+      "host_name": "www.facebook.com",
+      "rank": 2,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.top-hotels-gr.com/es/all-hotels",
+      "name": "Todos los hoteles en Grecia",
+      "snippet": "Habitaciones en casas particulares (145) ... HOTEL CASA VANIA MOMPOX, Centro histórico, Con Parqueadero en el Hotel ... Hotel Casa Monica Băile Felix · Hotel ...",
+      "host_name": "www.top-hotels-gr.com",
+      "rank": 3,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://hotelesbeijing.com.co/ubicacion/bolivar/page/94",
+      "name": "Hoteles en Bolívar",
+      "snippet": "Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con...",
+      "host_name": "hotelesbeijing.com.co",
+      "rank": 4,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://hotelesbeijing.com.co/hotel/cabana-valle-de-la-laguna-six-bedroom-house",
+      "name": "Cabaña Valle De La Laguna - Six-Bedroom House | Hospedaje en",
+      "snippet": "Hotel Casa Mónica. Hospedaje. Bolívar. Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con... 9.2 ...",
+      "host_name": "hotelesbeijing.com.co",
+      "rank": 5,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://hotelesbeijing.com.co/hotel/casa-hotel-boutique-el-jardin-de-envigado-double-room-with-private-bathroom",
+      "name": "Casa-hotel boutique el jardín de Envigado - Double Room with",
+      "snippet": "Hotel Casa Mónica en Mompox ofrece alojamiento sencillo y acogedor, tipo posada y hostal, con...",
+      "host_name": "hotelesbeijing.com.co",
+      "rank": 6,
+      "date": "",
+      "favicon": ""
+    },
+    {
+      "url": "https://www.booking.com/hotel/co/casa-colonial-mompox.es.html",
+      "name": "hotel casa colonial mompox, Gloria (precios actualizados en 2026)",
+      "snippet": "Esta casa o chalet con aire acondicionado consta de 3 dormitorios independientes, una sala de estar, una cocina totalmente equipada y 2 baños. Hay TV de ...",
+      "host_name": "www.booking.com",
+      "rank": 7,
+      "date": "",
+      "favicon": ""
+    }
+  ]
+}
