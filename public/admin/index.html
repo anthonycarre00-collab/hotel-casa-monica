@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Editor · Hotel Casa Mónica</title>
+  <link rel="icon" href="/casa-monica-logo.png" />
+  <style>
+    /* Loading screen while Decap CMS loads */
+    body {
+      margin: 0;
+      background: #FDF6E8;
+      font-family: Georgia, serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      color: #3D2817;
+    }
+    .loader {
+      text-align: center;
+    }
+    .loader img {
+      width: 80px;
+      height: 80px;
+      margin-bottom: 16px;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    .loader h1 {
+      font-size: 24px;
+      color: #C8542A;
+      margin: 0 0 8px;
+    }
+    .loader p {
+      color: #7A5A35;
+      font-size: 14px;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.7; transform: scale(0.95); }
+    }
+  </style>
+</head>
+<body>
+  <div class="loader">
+    <img src="/casa-monica-logo.png" alt="Casa Mónica" />
+    <h1>Cargando editor…</h1>
+    <p>Hotel Casa Mónica · Mompox</p>
+  </div>
+  <!-- Netlify Identity widget — required for git-gateway auth -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script src="https://unpkg.com/decap-cms@3.4.0/dist/decap-cms.js"></script>
+  <script>
+    // Redirect to /admin after login
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+</body>
+</html>

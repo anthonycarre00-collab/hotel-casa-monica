@@ -1,0 +1,112 @@
+# Decap CMS configuration — Hotel Casa Mónica
+# Uses Netlify Identity for authentication (works on Vercel, free)
+
+backend:
+  name: git-gateway
+  # Netlify Identity handles auth — see DECAP-CMS.md for setup
+  branch: main
+
+# Where media (uploaded images) are stored
+media_folder: "public"
+public_folder: ""
+
+# Editor settings
+publish_mode: editorial_workflow
+show_preview_links: false
+
+# Content collections — what can be edited
+collections:
+  # === SITE CONTENT (global settings) ===
+  - name: "site_content"
+    label: "Contenido del sitio"
+    description: "Textos principales del sitio — portada, nosotros, contacto"
+    delete: false
+    editor:
+      preview: false
+    files:
+      # === HERO ===
+      - file: "content/hero.json"
+        name: "hero"
+        label: "Portada (Hero)"
+        fields:
+          - { label: "Título (parte 1)", name: "title1", widget: "string", hint: "Ej: 'Siéntete como'" }
+          - { label: "Título (parte 2, script)", name: "title2", widget: "string", hint: "Ej: 'en casa'" }
+          - { label: "Subtítulo", name: "subtitle", widget: "text" }
+          - { label: "Botón de reserva", name: "cta_book", widget: "string" }
+          - { label: "Botón explorar", name: "cta_explore", widget: "string" }
+
+      # === ABOUT ===
+      - file: "content/about.json"
+        name: "about"
+        label: "Nosotros"
+        fields:
+          - { label: "Título", name: "title", widget: "string" }
+          - { label: "Párrafo 1", name: "p1", widget: "text" }
+          - { label: "Párrafo 2", name: "p2", widget: "text" }
+          - { label: "Párrafo 3", name: "p3", widget: "text" }
+
+      # === FREDY ===
+      - file: "content/fredy.json"
+        name: "fredy"
+        label: "Sr Fredy"
+        fields:
+          - { label: "Nombre", name: "name", widget: "string" }
+          - { label: "Rol", name: "role", widget: "string" }
+          - { label: "Frase", name: "tagline", widget: "string" }
+          - { label: "Biografía", name: "bio", widget: "text" }
+          - { label: "Foto", name: "photo", widget: "image" }
+
+      # === MÓNICA ===
+      - file: "content/monica.json"
+        name: "monica"
+        label: "Sra Mónica"
+        fields:
+          - { label: "Nombre", name: "name", widget: "string" }
+          - { label: "Rol", name: "role", widget: "string" }
+          - { label: "Frase", name: "tagline", widget: "string" }
+          - { label: "Biografía", name: "bio", widget: "text" }
+          - { label: "Foto", name: "photo", widget: "image" }
+
+      # === CONTACT ===
+      - file: "content/contact.json"
+        name: "contact"
+        label: "Contacto"
+        fields:
+          - { label: "WhatsApp", name: "whatsapp", widget: "string", hint: "Ej: +57 300 310 0299" }
+          - { label: "Instagram", name: "instagram", widget: "string" }
+          - { label: "Dirección", name: "address", widget: "string" }
+
+  # === REVIEWS (multiple entries) ===
+  - name: "reviews"
+    label: "Opiniones"
+    label_singular: "Opinión"
+    folder: "content/reviews"
+    create: true
+    delete: true
+    slug: "{{slug}}-{{year}}{{month}}{{day}}"
+    summary: "{{author}} — {{rating}}★"
+    editor:
+      preview: false
+    fields:
+      - { label: "Texto", name: "text", widget: "text" }
+      - { label: "Autor", name: "author", widget: "string" }
+      - { label: "Calificación", name: "rating", widget: "number", min: 1, max: 5, default: 5 }
+      - { label: "Fecha", name: "date", widget: "datetime" }
+
+  # === FESTIVALS (multiple entries) ===
+  - name: "festivals"
+    label: "Festivales"
+    label_singular: "Festival"
+    folder: "content/festivals"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    summary: "{{name}} — {{date}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Nombre", name: "name", widget: "string" }
+      - { label: "Fecha", name: "date", widget: "string", hint: "Ej: '19-21 de Julio'" }
+      - { label: "Descripción", name: "description", widget: "text" }
+      - { label: "Reservar con tiempo", name: "bookAhead", widget: "boolean", default: false }
+      - { label: "Emoji", name: "icon", widget: "string", hint: "Un emoji, ej: 🎵" }
