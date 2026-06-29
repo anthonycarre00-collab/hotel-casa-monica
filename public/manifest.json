@@ -1,0 +1,43 @@
+{
+  "name": "Hotel Casa Mónica — Mompox",
+  "short_name": "Casa Mónica",
+  "description": "Posada familiar en el corazón patrimonial de Mompox, Bolívar, Colombia (UNESCO 1995).",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDF6E8",
+  "theme_color": "#C8542A",
+  "lang": "es-CO",
+  "dir": "ltr",
+  "categories": ["travel", "hospitality", "lodging"],
+  "icons": [
+    {
+      "src": "/casa-monica-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/casa-monica-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Reservar por WhatsApp",
+      "short_name": "Reservar",
+      "description": "Enviar mensaje directo a +57 300 310 0299",
+      "url": "/?action=booking",
+      "icons": [{ "src": "/casa-monica-logo.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Cómo llegar",
+      "short_name": "Ubicación",
+      "description": "Calle 14 #2 74, Santa Cruz de Mompox",
+      "url": "/?action=location",
+      "icons": [{ "src": "/casa-monica-logo.png", "sizes": "96x96" }]
+    }
+  ]
+}

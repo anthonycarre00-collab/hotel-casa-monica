@@ -2,26 +2,30 @@
 
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
 
-export type Lang = 'es' | 'en';
+export type Lang = 'es' | 'en' | 'pt' | 'fr';
 
-type Dict = Record<string, { es: string; en: string }>;
+type Dict = Record<string, { es: string; en: string; pt?: string; fr?: string }>;
 
 export const t: Dict = {
   // Nav
-  'nav.about':     { es: 'Nosotros',           en: 'About' },
-  'nav.rooms':     { es: 'Habitaciones',       en: 'Rooms' },
-  'nav.location':  { es: 'Ubicación',          en: 'Location' },
-  'nav.mompox':    { es: 'Mompox',             en: 'Mompox' },
-  'nav.todo':      { es: 'Qué hacer',          en: 'Things to do' },
-  'nav.food':      { es: 'Sabores',            en: 'Flavours' },
-  'nav.gallery':   { es: 'Galería',            en: 'Gallery' },
-  'nav.reviews':   { es: 'Opiniones',          en: 'Reviews' },
-  'nav.contact':   { es: 'Reservas',           en: 'Book' },
+  'nav.about':      { es: 'Nosotros',           en: 'About',      pt: 'Sobre',          fr: 'À propos' },
+  'nav.rooms':      { es: 'Habitaciones',       en: 'Rooms',      pt: 'Quartos',        fr: 'Chambres' },
+  'nav.location':   { es: 'Ubicación',          en: 'Location',   pt: 'Localização',    fr: 'Emplacement' },
+  'nav.mompox':     { es: 'Mompox',             en: 'Mompox',     pt: 'Mompox',         fr: 'Mompox' },
+  'nav.todo':       { es: 'Qué hacer',          en: 'Things to do', pt: 'O que fazer',  fr: 'À faire' },
+  'nav.food':       { es: 'Sabores',            en: 'Flavours',   pt: 'Sabores',        fr: 'Saveurs' },
+  'nav.festivals':  { es: 'Fiestas',            en: 'Festivals',  pt: 'Festas',         fr: 'Festivals' },
+  'nav.gallery':    { es: 'Galería',            en: 'Gallery',    pt: 'Galeria',        fr: 'Galerie' },
+  'nav.reviews':    { es: 'Opiniones',          en: 'Reviews',    pt: 'Avaliações',     fr: 'Avis' },
+  'nav.booking':    { es: 'Reservar',           en: 'Book',       pt: 'Reservar',       fr: 'Réserver' },
+  'nav.contact':    { es: 'Contacto',           en: 'Contact',    pt: 'Contato',        fr: 'Contact' },
 
   // Hero
-  'hero.eyebrow':  { es: 'Posada familiar · Mompox, Bolívar · Patrimonio UNESCO 1995', en: 'Family-run guesthouse · Mompox, Bolívar · UNESCO 1995' },
-  'hero.title1':   { es: 'Siéntete como',       en: 'Feel at home,' },
-  'hero.title2':   { es: 'en casa',             en: 'in Mompox' },
+  'hero.eyebrow':  { es: 'Posada familiar · Mompox, Bolívar · Patrimonio UNESCO 1995', en: 'Family-run guesthouse · Mompox, Bolívar · UNESCO 1995', pt: 'Pousada familiar · Mompox, Bolívar · Patrimônio UNESCO 1995', fr: 'Maison d\'hôtes familiale · Mompox, Bolívar · Patrimoine UNESCO 1995' },
+  'hero.title1':   { es: 'Siéntete como',       en: 'Feel at home,',  pt: 'Sinta-se em',    fr: 'Sentez-vous' },
+  'hero.title2':   { es: 'en casa',             en: 'in Mompox',      pt: 'casa em Mompox', fr: 'chez vous à Mompox' },
+  'hero.cta.book':   { es: 'Reservar por WhatsApp', en: 'Book on WhatsApp', pt: 'Reservar por WhatsApp', fr: 'Réserver sur WhatsApp' },
+  'hero.cta.explore':{ es: 'Conoce la casa',       en: 'Explore the house', pt: 'Conheça a casa', fr: 'Découvrez la maison' },
   'hero.subtitle': {
     es: 'Una posada sencilla, limpia y con aire acondicionado, escondida detrás de la Iglesia de Santa Bárbara en el corazón colonial de Mompox. Aquí te recibimos Fredy, Mónica y familia — sin intermediarios, sin pretensiones, con mecedora en el portal y la magia de un pueblo donde el tiempo se detiene.',
     en: 'A simple, clean, air-conditioned guesthouse tucked behind the Church of Santa Bárbara in the colonial heart of Mompox. Fredy, Mónica and family welcome you here — no middlemen, no fuss, just a rocking chair on the porch and the magic of a town where time stands still.'
@@ -319,6 +323,53 @@ export const t: Dict = {
 
   // Rocking chair caption
   'rocking.caption':   { es: 'Una mecedora nunca está quieta.', en: 'A rocking chair is never still.' },
+
+  // === v2.1 — Booking inquiry form ===
+  'booking.title':         { es: 'Pide tu reserva',          en: 'Request your booking' },
+  'booking.subtitle':      { es: 'Completa y te abrimos WhatsApp con el mensaje listo.', en: 'Fill this in and we open WhatsApp with the message ready.' },
+  'booking.checkin':       { es: 'Llegada',                  en: 'Check-in' },
+  'booking.checkout':      { es: 'Salida',                   en: 'Check-out' },
+  'booking.guests':        { es: 'Huéspedes',                en: 'Guests' },
+  'booking.guests.one':    { es: '1 persona',                en: '1 guest' },
+  'booking.guests.two':    { es: '2 personas',               en: '2 guests' },
+  'booking.guests.three':  { es: '3 personas',               en: '3 guests' },
+  'booking.guests.four':   { es: '4 personas',               en: '4 guests' },
+  'booking.guests.five':   { es: '5+ personas',              en: '5+ guests' },
+  'booking.room':          { es: 'Habitación',               en: 'Room' },
+  'booking.room.any':      { es: 'Cualquiera',               en: 'Any' },
+  'booking.room.triple':   { es: 'Triple (cama doble + 2 individuales)', en: 'Triple (double + 2 singles)' },
+  'booking.room.twin':     { es: 'Doble (2 individuales)',   en: 'Twin (2 singles)' },
+  'booking.room.amenities':{ es: 'Doble con servicios',      en: 'Twin with amenities' },
+  'booking.name':          { es: 'Tu nombre',                en: 'Your name' },
+  'booking.namePlaceholder':{ es: 'Ej. María González',      en: 'e.g. Mary Smith' },
+  'booking.notes':         { es: 'Notas (opcional)',         en: 'Notes (optional)' },
+  'booking.notesPlaceholder':{ es: 'Aeropuerto de llegada, hora, preguntas...', en: 'Arrival airport, time, questions...' },
+  'booking.submit':        { es: 'Enviar por WhatsApp',      en: 'Send via WhatsApp' },
+  'booking.messageTemplate': {
+    es: 'Hola Casa Mónica! Soy {name}. Quisiera consultar disponibilidad para:\n\n📅 Llegada: {checkin}\n📅 Salida: {checkout}\n👥 Huéspedes: {guests}\n🛏️ Habitación: {room}\n\n{notes}',
+    en: 'Hi Casa Mónica! I\'m {name}. I\'d like to check availability for:\n\n📅 Check-in: {checkin}\n📅 Check-out: {checkout}\n👥 Guests: {guests}\n🛏️ Room: {room}\n\n{notes}'
+  },
+
+  // === v2.1 — Festival calendar ===
+  'festival.title':        { es: 'Fiestas y festivales',     en: 'Festivals & celebrations' },
+  'festival.subtitle':     { es: 'Las fechas que conviene conocer antes de planear tu viaje a Mompox.', en: 'The dates worth knowing before planning your trip to Mompox.' },
+  'festival.upcoming':     { es: 'Próximo',                  en: 'Next up' },
+  'festival.bookAhead':    { es: 'Reserva con tiempo',       en: 'Book ahead' },
+
+  // === v2.1 — Weather recommendations ===
+  'weatherRec.title':      { es: 'Plan según el clima',      en: 'Plan around the weather' },
+  'weatherRec.river':      { es: 'Perfecto para un paseo en lancha por la Ciénaga de Pijiño. Lleva sombrero y agua.', en: 'Perfect for a boat trip to Ciénaga de Pijiño. Bring hat and water.' },
+  'weatherRec.filigree':   { es: 'Demasiado calor para caminar — visita los talleres de filigrana, son frescos y cubiertos.', en: 'Too hot to walk — visit the filigree workshops, they\'re cool and covered.' },
+  'weatherRec.riverCruise':{ es: 'Un atardecer en champán por el Magdalena es la cosa perfecta.', en: 'A sunset champán ride on the Magdalena is the perfect thing.' },
+  'weatherRec.walking':    { es: 'El fresco ideal para caminar la Albarrada y las seis iglesias.', en: 'The cool is ideal for walking the Albarrada and the six churches.' },
+  'weatherRec.indoor':     { es: 'Lluvia tropical — el pueblo se vuelve fantasma una hora. Toma un café en Café 1700.', en: 'Tropical rain — the town turns ghostly for an hour. Have a coffee at Café 1700.' },
+  'weatherRec.siesta':     { es: 'Hora de siesta. Mecedora, limonada y silencio. Vuelve a salir después de las 4.', en: 'Siesta hour. Rocking chair, lemonade and quiet. Head back out after 4pm.' },
+
+  // === v2.1 — Instagram feed ===
+  'instagram.title':       { es: 'Síguenos en Instagram',    en: 'Follow us on Instagram' },
+  'instagram.subtitle':    { es: 'Vida diaria en Casa Mónica y Mompox — directo desde el celular de Mónica.', en: 'Daily life at Casa Mónica and Mompox — straight from Mónica\'s phone.' },
+  'instagram.follow':      { es: '@casamonicamompox',        en: '@casamonicamompox' },
+  'instagram.viewProfile': { es: 'Ver perfil',               en: 'View profile' },
 };
 
 type Ctx = {
@@ -336,10 +387,10 @@ export function LangProvider({ children }: { children: ReactNode }) {
     const url = new URL(window.location.href);
     const q = url.searchParams.get('lang');
     // eslint-disable-next-line react-hooks/set-state-in-effect
-    if (q === 'en' || q === 'es') setLangState(q);
+    if (q === 'en' || q === 'es' || q === 'pt' || q === 'fr') setLangState(q as Lang);
     else {
       const stored = window.localStorage.getItem('cm-lang');
-      if (stored === 'en' || stored === 'es') setLangState(stored);
+      if (stored === 'en' || stored === 'es' || stored === 'pt' || stored === 'fr') setLangState(stored as Lang);
     }
   }, []);
 
@@ -353,7 +404,11 @@ export function LangProvider({ children }: { children: ReactNode }) {
     } catch {}
   };
 
-  const translate = (key: string) => t[key]?.[lang] ?? key;
+  const translate = (key: string) => {
+    const entry = t[key];
+    if (!entry) return key;
+    return entry[lang] || entry.en || entry.es || key;
+  };
 
   return (
     <LangContext.Provider value={{ lang, setLang, t: translate }}>

@@ -10,8 +10,11 @@ import { MompoxStory } from '@/components/site/MompoxStory';
 import { ThingsToDo } from '@/components/site/ThingsToDo';
 import { Food } from '@/components/site/Food';
 import { GettingThere, Climate } from '@/components/site/GettingThere';
+import { FestivalCalendar } from '@/components/site/FestivalCalendar';
 import { Reviews } from '@/components/site/Reviews';
 import { Gallery } from '@/components/site/Gallery';
+import { InstagramFeed } from '@/components/site/InstagramFeed';
+import { BookingForm } from '@/components/site/BookingForm';
 import { Contact } from '@/components/site/Contact';
 import { Footer } from '@/components/site/Footer';
 import { WhatsAppFloat } from '@/components/site/WhatsAppFloat';
@@ -34,10 +37,16 @@ export default function Home() {
           <Food />
           <GettingThere />
           <Climate />
+          {/* v2.1: Festival calendar */}
+          <FestivalCalendar />
           {/* v2.0: Momposino dictionary */}
           <MompoxDictionary />
           <Gallery />
+          {/* v2.1: Instagram feed */}
+          <InstagramFeed />
           <Reviews />
+          {/* v2.1: Booking inquiry form */}
+          <BookingForm />
           <Contact />
         </main>
         <Footer />

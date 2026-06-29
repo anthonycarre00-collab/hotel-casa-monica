@@ -69,12 +69,13 @@ export function MompoxWeather() {
     return () => { clearInterval(w); clearInterval(c); };
   }, [lang]);
 
-  // Determine "siesta hour" / walking recommendation
+  // Determine "siesta hour" / walking recommendation + contextual activity suggestion
   function getMood(temp: number, code: number) {
-    if (code >= 51 && code < 80) return { key: 'rain', icon: '🌧️' };
-    if (temp >= 33) return { key: 'siesta', icon: '🥵' };
-    if (temp >= 28) return { key: 'hot', icon: '☀️' };
-    return { key: 'perfect', icon: '🌅' };
+    if (code >= 51 && code < 80) return { key: 'rain', icon: '🌧️', recKey: 'indoor' };
+    if (temp >= 33) return { key: 'siesta', icon: '🥵', recKey: 'filigree' };
+    if (temp >= 28) return { key: 'hot', icon: '☀️', recKey: 'river' };
+    if (temp >= 24 && code <= 2) return { key: 'perfect', icon: '🌅', recKey: 'walking' };
+    return { key: 'perfect', icon: '🌅', recKey: 'riverCruise' };
   }
 
   if (loading && !data) {
@@ -94,6 +95,7 @@ export function MompoxWeather() {
   const mood = getMood(data.temperature, data.weatherCode);
   const moodTitle = t(`weather.${mood.key}`);
   const moodDesc = t(`weather.${mood.key}Desc`);
+  const recommendation = t(`weatherRec.${mood.recKey}`);
 
   return (
     <div className="bg-white/85 backdrop-blur-md rounded-2xl p-5 shadow-lg border border-[var(--border)] hover:shadow-xl transition-shadow">
@@ -155,6 +157,17 @@ export function MompoxWeather() {
         <div>
           <div className="font-serif text-sm text-[var(--terracotta-dark)] italic">{moodTitle}</div>
           <div className="text-[11px] text-[var(--wood-soft)] leading-tight">{moodDesc}</div>
+        </div>
+      </div>
+
+      {/* Weather-based recommendation */}
+      <div className="mt-2 pt-2 border-t border-[var(--border)]/50 flex items-start gap-2">
+        <span className="text-sm leading-none">💡</span>
+        <div>
+          <div className="text-[9px] uppercase tracking-[0.2em] text-[var(--wood-soft)] mb-0.5">
+            {t('weatherRec.title')}
+          </div>
+          <div className="text-[11px] text-[var(--wood)] leading-snug">{recommendation}</div>
         </div>
       </div>
     </div>

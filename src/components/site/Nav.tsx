@@ -5,15 +5,17 @@ import { Menu, X, Globe } from 'lucide-react';
 import { MacondoMode } from './MacondoMode';
 
 const NAV_LINKS = [
-  { id: 'about',    key: 'nav.about' },
-  { id: 'rooms',    key: 'nav.rooms' },
-  { id: 'location', key: 'nav.location' },
-  { id: 'mompox',   key: 'nav.mompox' },
-  { id: 'todo',     key: 'nav.todo' },
-  { id: 'food',     key: 'nav.food' },
-  { id: 'gallery',  key: 'nav.gallery' },
-  { id: 'reviews',  key: 'nav.reviews' },
-  { id: 'contact',  key: 'nav.contact' },
+  { id: 'about',      key: 'nav.about' },
+  { id: 'rooms',      key: 'nav.rooms' },
+  { id: 'location',   key: 'nav.location' },
+  { id: 'mompox',     key: 'nav.mompox' },
+  { id: 'todo',       key: 'nav.todo' },
+  { id: 'food',       key: 'nav.food' },
+  { id: 'festivals',  key: 'nav.festivals' },
+  { id: 'gallery',    key: 'nav.gallery' },
+  { id: 'reviews',    key: 'nav.reviews' },
+  { id: 'booking',    key: 'nav.booking' },
+  { id: 'contact',    key: 'nav.contact' },
 ];
 
 export function Nav() {
@@ -87,18 +89,23 @@ export function Nav() {
             <MacondoMode />
           </div>
           <button
-            onClick={() => setLang(lang === 'es' ? 'en' : 'es')}
+            onClick={() => {
+              const order: Array<'es' | 'en' | 'pt' | 'fr'> = ['es', 'en', 'pt', 'fr'];
+              const next = order[(order.indexOf(lang) + 1) % order.length];
+              setLang(next);
+            }}
             className="flex items-center gap-1.5 px-3 py-2 rounded-full border border-[var(--border)] hover:border-[var(--terracotta)] text-sm font-medium text-[var(--wood)] hover:text-[var(--terracotta)] transition-colors"
             aria-label="Switch language"
+            title="ES / EN / PT / FR"
           >
             <Globe className="w-4 h-4" />
-            <span className="uppercase tracking-wider text-xs">{lang === 'es' ? 'ES' : 'EN'}</span>
+            <span className="uppercase tracking-wider text-xs">{lang}</span>
           </button>
           <button
-            onClick={() => scrollTo('contact')}
+            onClick={() => scrollTo('booking')}
             className="hidden sm:inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[var(--terracotta)] hover:bg-[var(--terracotta-dark)] text-white text-sm font-medium shadow-md hover:shadow-lg transition-all"
           >
-            {t('nav.contact')}
+            {t('nav.booking')}
           </button>
           <button
             onClick={() => setOpen(!open)}
