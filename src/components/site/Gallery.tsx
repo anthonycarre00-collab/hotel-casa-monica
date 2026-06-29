@@ -11,15 +11,18 @@ type Img = { src: string; captionEs: string; captionEn: string; real?: boolean }
 // AI images kept for variety where no real equivalent exists (filigree, food, cienaga).
 const GALLERY: Img[] = [
   // --- Real photos first (the authentic Mompox) ---
-  { src: '/owners-couple.jpg',           captionEs: 'Fredy & Mónica en la puerta de Casa Mónica',  captionEn: 'Fredy & Mónica at the door of Casa Mónica',     real: true },
-  { src: '/mompox-drone-1.jpg',          captionEs: 'Mompox desde el aire — vista de dron',         captionEn: 'Mompox from above — drone view',              real: true },
-  { src: '/mompox-river-colonial.jpg',   captionEs: 'Edificio colonial junto al río Magdalena',     captionEn: 'Colonial building by the Magdalena River',    real: true },
-  { src: '/hotel-patio-evening.jpg',     captionEs: 'Atardecer en el patio — luces y mesas',        captionEn: 'Evening on the patio — lights and tables',    real: true },
+  { src: '/mompox-river-sunset-real.jpg',  captionEs: 'Atardecer sobre el río Magdalena con barca',  captionEn: 'Sunset over the Magdalena River with a boat',     real: true },
+  { src: '/mompox-patio-sunset-real.jpg',  captionEs: 'Atardecer desde el patio — arco de flores',  captionEn: 'Sunset from the patio — floral arch',             real: true },
+  { src: '/owners-couple.jpg',             captionEs: 'Fredy & Mónica en la puerta de Casa Mónica',  captionEn: 'Fredy & Mónica at the door of Casa Mónica',     real: true },
+  { src: '/mompox-plaza-real.jpg',         captionEs: 'Plaza colonial de Mompox',                     captionEn: 'Colonial plaza in Mompox',                      real: true },
+  { src: '/mompox-drone-1.jpg',            captionEs: 'Mompox desde el aire — vista de dron',         captionEn: 'Mompox from above — drone view',              real: true },
+  { src: '/mompox-river-colonial.jpg',     captionEs: 'Edificio colonial junto al río Magdalena',     captionEn: 'Colonial building by the Magdalena River',    real: true },
+  { src: '/hotel-patio-evening.jpg',       captionEs: 'Atardecer en el patio — luces y mesas',        captionEn: 'Evening on the patio — lights and tables',    real: true },
   { src: '/mompox-santa-barbara-night.jpg', captionEs: 'Iglesia de Santa Bárbara iluminada de noche', captionEn: 'Church of Santa Bárbara lit up at night',   real: true },
-  { src: '/mompox-church-red.jpg',       captionEs: 'Iglesia colonial roja en la plaza',            captionEn: 'Red colonial church in the plaza',            real: true },
-  { src: '/mompox-street-colonial.jpg',  captionEs: 'Calle colonial de Mompox',                     captionEn: 'Colonial street in Mompox',                   real: true },
-  { src: '/mompox-drone-2.jpg',          captionEs: 'Otra vista aérea del centro histórico',        captionEn: 'Another aerial view of the historic centre',  real: true },
-  { src: '/owners-arch.jpg',             captionEs: 'Bajo el arco de flores de Casa Mónica',        captionEn: 'Under the floral arch at Casa Mónica',        real: true },
+  { src: '/mompox-church-red.jpg',         captionEs: 'Iglesia colonial roja en la plaza',            captionEn: 'Red colonial church in the plaza',            real: true },
+  { src: '/mompox-street-colonial.jpg',    captionEs: 'Calle colonial de Mompox',                     captionEn: 'Colonial street in Mompox',                   real: true },
+  { src: '/mompox-drone-2.jpg',            captionEs: 'Otra vista aérea del centro histórico',        captionEn: 'Another aerial view of the historic centre',  real: true },
+  { src: '/owners-arch.jpg',               captionEs: 'Bajo el arco de flores de Casa Mónica',        captionEn: 'Under the floral arch at Casa Mónica',        real: true },
   // --- AI-generated atmospheric images (kept for variety) ---
   { src: '/filigree-artisan.png',        captionEs: 'Manos tejiendo filigrana momposina',           captionEn: 'Hands weaving momposino filigree' },
   { src: '/momposina-food.png',          captionEs: 'Mesa de sabores momposinos',                   captionEn: 'Table of momposino flavours' },

@@ -18,12 +18,14 @@ export function Hero() {
       {/* Background image with Ken Burns + window-zoom on first paint */}
       <div className="absolute inset-0 z-0 overflow-hidden">
         <img
-          src="/magdalena-sunset.png"
-          alt="Atardecer sobre el río Magdalena en Mompox"
+          src="/mompox-river-sunset-real.jpg"
+          alt={lang === 'es'
+            ? 'Atardecer sobre el río Magdalena en Mompox con una barca amarrada'
+            : 'Sunset over the Magdalena River in Mompox with a moored boat'}
           className="w-full h-full object-cover animate-window-zoom animate-ken-burns"
           onError={(e) => {
-            // Fallback to hotel-exterior-day if magdalena-sunset hasn't generated yet
-            (e.target as HTMLImageElement).src = '/hotel-exterior-day.png';
+            // Fallback to AI-generated sunset if real one fails to load
+            (e.target as HTMLImageElement).src = '/magdalena-sunset.png';
           }}
         />
         {/* Layered gradient — warm dusk wash + readability */}
