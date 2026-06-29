@@ -23,8 +23,8 @@ export const t: Dict = {
   'hero.title1':   { es: 'Siéntete como',       en: 'Feel at home,' },
   'hero.title2':   { es: 'en casa',             en: 'in Mompox' },
   'hero.subtitle': {
-    es: 'Una posada sencilla, limpia y climatizada detrás de la Iglesia de Santa Bárbara, en el corazón colonial de Mompox. Te recibimos como familia — sin intermediarios, sin lujos innecesarios, solo calor humano y la magia de un pueblo donde el tiempo se detiene.',
-    en: 'A simple, clean, air-conditioned guesthouse behind the Church of Santa Bárbara, in the colonial heart of Mompox. We welcome you as family — no middlemen, no unnecessary luxury, just human warmth and the magic of a town where time stands still.'
+    es: 'Una posada sencilla, limpia y con aire acondicionado, escondida detrás de la Iglesia de Santa Bárbara en el corazón colonial de Mompox. Aquí te recibimos Fredy, Mónica y familia — sin intermediarios, sin pretensiones, con mecedora en el portal y la magia de un pueblo donde el tiempo se detiene.',
+    en: 'A simple, clean, air-conditioned guesthouse tucked behind the Church of Santa Bárbara in the colonial heart of Mompox. Fredy, Mónica and family welcome you here — no middlemen, no fuss, just a rocking chair on the porch and the magic of a town where time stands still.'
   },
   'hero.cta.book':   { es: 'Reservar por WhatsApp', en: 'Book on WhatsApp' },
   'hero.cta.explore':{ es: 'Conoce la casa',       en: 'Explore the house' },
@@ -33,23 +33,49 @@ export const t: Dict = {
   'about.eyebrow':  { es: 'Nuestro hogar',     en: 'Our home' },
   'about.title':    { es: 'Una casa de familia, abierta a quienes llegan a Mompox', en: 'A family home, open to those who arrive in Mompox' },
   'about.p1': {
-    es: 'Casa Mónica nació del sueño de compartir Mompox con quienes llegan buscando algo que los grandes hoteles no ofrecen: el trato cercano de quienes reciben en su propia casa. Aquí no hay recepción con mostrador ni uniformes; hay una puerta que se abre, una mecedora que te espera y una conversación sobre qué ver hoy en el pueblo.',
-    en: 'Casa Mónica was born from the dream of sharing Mompox with those who arrive looking for something the big hotels cannot offer: the warmth of people who welcome you into their own home. There is no reception desk here, no uniforms; just an opening door, a rocking chair waiting for you, and a conversation about what to see today in town.'
+    es: 'Casa Mónica nació un día, como nacen las cosas buenas en Mompox, casi sin planearlo. Fredy y Mónica vivían aquí, en la casita de la Calle 14 detrás de Santa Bárbara, y un día decidieron abrir la puerta a los viajeros que llegaban buscando algo que los grandes hoteles no saben dar: el trato de quienes reciben en su propia casa. No hay recepción con mostrador aquí, ni uniformes — hay una puerta que se abre, una mecedora que te espera, y una conversación sobre qué visitar hoy en el pueblo.',
+    en: 'Casa Mónica began one day, the way good things begin in Mompox — almost without planning it. Fredy and Mónica lived here, in the little house on Calle 14 behind Santa Bárbara, and one day they decided to open the door to the travellers who arrived looking for something the big hotels don\'t know how to give: the welcome of people who host you in their own home. There is no reception desk here, no uniforms — just an opening door, a rocking chair waiting for you, and a chat about what to see today in town.'
   },
   'about.p2': {
-    es: 'Gestionada directamente por sus dueños, la casa ofrece habitaciones climatizadas, limpias y sencillas, pensadas para descansar después de un día de sol, río y calle empedrada. Diferentes formas — nos gusta decir — pero todas pensadas para brindarte la mayor comodidad.',
-    en: 'Run directly by its owners, the house offers air-conditioned, clean and simple rooms, designed to rest after a day of sun, river and cobblestone. Different layouts — we like to say — but all designed for your greatest comfort.'
+    es: 'La casa la llevamos nosotros, en persona. Las habitaciones son climatizadas, limpias y sencillas — pensadas para descansar de verdad después de un día de sol, río y calle empedrada. "Diferentes formas", nos gusta decir, pero todas pensadas para que te acuestes sin calor y despiertes sin prisa.',
+    en: 'We run the house ourselves, in person. The rooms are air-conditioned, clean and simple — made for resting properly after a day of sun, river and cobblestones. "Different layouts", we like to say, but all of them made so you sleep cool and wake up unhurried.'
   },
   'about.p3': {
-    es: 'Estamos en el barrio de Santa Bárbara, entre la Calle del Medio y la Calle de Atrás, a pasos de la Albarrada. Aquí, donde el tiempo no pasa, te ayudamos a organizar paseos en lancha por la Ciénaga de Pijiño, a conseguir entradas para los ferrys, y a conocer Mompox como lo hacemos nosotros: despacio, conversando, sin apuros.',
-    en: 'We are in the Santa Bárbara quarter, between Calle del Medio and Calle de Atrás, steps from the Albarrada. Here, where time does not pass, we help you arrange boat trips to the Ciénaga de Pijiño, get tickets for the ferries, and discover Mompox the way we do: slowly, in conversation, without rushing.'
+    es: 'Estamos en el barrio de Santa Bárbara, entre la Calle del Medio y la Calle de Atrás, a pasos de la Albarrada. Aquí, donde el tiempo no pasa, te ayudamos con todo lo que necesites: organizar un paseo en lancha por la Ciénaga de Pijiño, conseguir las entradas del ferry, recomendar dónde comer, o acompañarte a conocer Mompox como lo hacemos nosotros — despacio, conversando, sin apuros.',
+    en: 'We are in the Santa Bárbara quarter, between Calle del Medio and Calle de Atrás, steps from the Albarrada. Here, where time doesn\'t pass, we help you with whatever you need: arranging a boat trip to the Ciénaga de Pijiño, getting the ferry tickets, recommending where to eat, or showing you Mompox the way we know it — slowly, in conversation, no rush.'
   },
-  'about.owner.title': { es: 'La bienvenida de la casa', en: 'A welcome from the house' },
+  'about.owner.title': { es: 'Quienes te reciben', en: 'Who welcomes you' },
   'about.owner.quote': {
     es: '"Tuvimos el placer de recibir en nuestro hogar a este gran artista musical. Bendiciones y grandes éxitos — son los deseos de Casa Mónica." Así recibimos a cada viajero: como a alguien que llega a casa.',
     en: '"We had the pleasure of welcoming this great musical artist into our home. Blessings and great success — the wishes of Casa Mónica." This is how we welcome every traveller: as someone arriving home.'
   },
-  'about.owner.name': { es: 'Los dueños de Casa Mónica', en: 'The owners of Casa Mónica' },
+  'about.owner.name': { es: 'Fredy & Mónica — los dueños de Casa Mónica', en: 'Fredy & Mónica — the owners of Casa Mónica' },
+
+  // Owner cards — Fredy & Mónica
+  'about.fredy.name':      { es: 'Sr Fredy',  en: 'Sr Fredy' },
+  'about.fredy.role':      { es: 'El anfitrión', en: 'The host' },
+  'about.fredy.tagline':   {
+    es: 'Lo que Fredy no sabe de Mompox, no vale la pena saberlo.',
+    en: 'What Fredy doesn\'t know about Mompox isn\'t worth knowing.'
+  },
+  'about.fredy.bio':       {
+    es: 'Mompoxero de toda la vida. Conoce cada callejón, cada iglesia, cada historia — y sobre todo, cada persona que vale la pena conocer en el pueblo. Si le preguntas por un paseo, te lo consigue; si le preguntas por la historia, te la cuenta; y si le preguntas dónde comer bien, te acompaña.',
+    en: 'A momposino through and through. He knows every alley, every church, every story — and above all, every person worth knowing in town. Ask him about a tour and he\'ll arrange it; ask him about history and he\'ll tell it; ask him where to eat well and he\'ll walk you there.'
+  },
+  'about.monica.name':     { es: 'Sra Mónica', en: 'Sra Mónica' },
+  'about.monica.role':     { es: 'La jefa de la casa', en: 'The boss of the house' },
+  'about.monica.tagline':  {
+    es: 'La verdadera jefa de la casa. Te va a matar de gusto — o de calorías.',
+    en: 'The real boss of the casa. She\'ll kill you with kindness — or with calories.'
+  },
+  'about.monica.bio':      {
+    es: 'Si Casa Mónica se llama así, es por ella. Mónica lleva la casa con la calma y la firmeza de las mamás caribeñas: la habitación impecable, el café a la hora justa, la conversación que te hace sentir en familia. No te extrañes si un día te llega un casabito o un vaso de jugo de corozo "por si tenías ganas de algo dulce".',
+    en: 'If Casa Mónica is named after her, it\'s for a reason. Mónica runs the house with the calm and the firmness of a Caribbean mum: the spotless room, the coffee at just the right moment, the conversation that makes you feel like family. Don\'t be surprised if one day a casabito or a glass of corozo juice appears "in case you fancied something sweet".'
+  },
+  'about.owners.note': {
+    es: '(Pronto: fotos en persona de Fredy y Mónica — por mientras, va el retrato del alma.)',
+    en: '(Coming soon: real photos of Fredy & Mónica — for now, a portrait of their spirit.)'
+  },
   'about.stats.rating': { es: '9.2 / 10 valoración', en: '9.2 / 10 rating' },
   'about.stats.reviews': { es: '55 reseñas', en: '55 reviews' },
   'about.stats.location': { es: 'A pasos de la Albarrada', en: 'Steps from the Albarrada' },
@@ -59,23 +85,23 @@ export const t: Dict = {
   'rooms.eyebrow': { es: 'Habitaciones', en: 'Rooms' },
   'rooms.title':   { es: 'Diferentes formas, todas para tu comodidad', en: 'Different layouts, all for your comfort' },
   'rooms.subtitle':{
-    es: 'Habitaciones climatizadas, limpias y funcionales. Sin lujos innecesarios — pero con todo lo que necesitas para descansar del calor del Caribe y salir temprano a caminar Mompox.',
-    en: 'Air-conditioned, clean and functional rooms. No unnecessary luxuries — but everything you need to rest from the Caribbean heat and head out early to walk Mompox.'
+    es: 'Habitaciones climatizadas, limpias y sin pretensiones. Nada de lujos que no vas a usar — pero todo lo que sí necesitas: cama tendida, baño limpio, aire que enfriá de verdad, y silencio para dormir. Para salir temprano a caminar Mompox con el fresco de la mañana.',
+    en: 'Air-conditioned, clean, unpretentious rooms. None of the luxuries you won\'t use — but everything you do need: a made bed, a clean bathroom, air con that actually cools, and quiet for sleeping. So you can head out early to walk Mompox in the morning cool.'
   },
   'rooms.room1.title': { es: 'Habitación triple', en: 'Triple room' },
   'rooms.room1.desc':  {
-    es: 'Una cama doble y dos individuales. Ideal para familias pequeñas o grupos de tres amigos. Aire acondicionado, ventilador de techo y ventana con postigos de madera.',
-    en: 'One double bed and two singles. Ideal for small families or groups of three friends. Air conditioning, ceiling fan and window with wooden shutters.'
+    es: 'Una cama doble y dos individuales. Ideal para familias pequeñas o grupos de tres amigos que viajan juntos. Aire acondicionado, ventilador de techo y ventana con postigos de madera para regular el fresco.',
+    en: 'One double bed and two singles. Perfect for small families or three friends travelling together. Air con, ceiling fan and wooden-shutter window to dial in the breeze.'
   },
   'rooms.room2.title': { es: 'Habitación doble', en: 'Twin room' },
   'rooms.room2.desc':  {
-    es: 'Dos camas individuales, televisor, ventilador de techo y ventana con vista a la verde vegetación. Sencilla, fresca y muy limpia.',
-    en: 'Two single beds, TV, ceiling fan and window overlooking greenery. Simple, cool and very clean.'
+    es: 'Dos camas individuales, televisor, ventilador de techo y ventana con vista a la vegetación. Sencilla, fresca y muy limpia — como nos gusta a nosotros.',
+    en: 'Two single beds, TV, ceiling fan and a window looking out onto the greenery. Simple, cool and very clean — the way we like it.'
   },
   'rooms.room3.title': { es: 'Habitación con servicios', en: 'Room with amenities' },
   'rooms.room3.desc':  {
-    es: 'Dos camas, toallas dobladas, amenities de cortesía y aire acondicionado. El detalle que hace que todo se sienta cuidado.',
-    en: 'Two beds, folded towels, courtesy amenities and air conditioning. The detail that makes everything feel cared for.'
+    es: 'Dos camas, toallas dobladas con cuidado, amenities de cortesía y aire acondicionado. Esos pequeños detalles que hacen que todo se sienta atendido — como en casa de la abuela.',
+    en: 'Two beds, towels folded with care, courtesy amenities and air con. Those little touches that make everything feel looked after — like at grandma\'s house.'
   },
   'rooms.features.title': { es: 'Lo que incluyen todas las habitaciones', en: 'What every room includes' },
   'rooms.features.f1': { es: 'Aire acondicionado', en: 'Air conditioning' },
@@ -83,7 +109,7 @@ export const t: Dict = {
   'rooms.features.f3': { es: 'Toallas y ropa de cama', en: 'Towels and linens' },
   'rooms.features.f4': { es: 'Baño privado', en: 'Private bathroom' },
   'rooms.features.f5': { es: 'Ventilador de techo', en: 'Ceiling fan' },
-  'rooms.features.f6': { es: 'Atención de la familia', en: 'Family attention' },
+  'rooms.features.f6': { es: 'Fredy y Mónica en persona', en: 'Fredy & Mónica in person' },
 
   // Location
   'location.eyebrow': { es: 'Ubicación', en: 'Location' },
@@ -242,8 +268,8 @@ export const t: Dict = {
   'contact.eyebrow': { es: 'Reservas', en: 'Bookings' },
   'contact.title':   { es: 'Hablemos. Reserva directa, sin intermediarios.', en: 'Let\'s talk. Direct booking, no middlemen.' },
   'contact.subtitle':{
-    es: 'No estamos en Booking ni en Expedia. Escribimos a mano cada confirmación, porque cada viajero es diferente. Escríbenos por WhatsApp y te respondemos en persona.',
-    en: 'We are not on Booking or Expedia. We write each confirmation by hand, because every traveller is different. Message us on WhatsApp and we answer in person.'
+    es: 'No estamos en Booking ni en Expedia, y no queremos estarlo. Cada viajero es distinto, así que cada reserva la conversamos — y la confirmamos a mano. Escríbenos por WhatsApp: del otro lado estás tú, y de este lado, Fredy o Mónica en persona.',
+    en: 'We\'re not on Booking or Expedia, and we don\'t want to be. Every traveller is different, so we talk through every reservation — and confirm it by hand. Message us on WhatsApp: on your side is you, on our side, Fredy or Mónica in person.'
   },
   'contact.whatsapp': { es: 'WhatsApp: +57 300 310 0299', en: 'WhatsApp: +57 300 310 0299' },
   'contact.instagram': { es: 'Instagram: @casamonicamompox', en: 'Instagram: @casamonicamompox' },
@@ -252,7 +278,7 @@ export const t: Dict = {
   'contact.directory': { es: 'También en hotelesbeijing.com.co', en: 'Also on hotelesbeijing.com.co' },
 
   // Footer
-  'footer.tagline': { es: 'Siéntete como en casa, en el corazón patrimonial de Mompox.', en: 'Feel at home, in the heritage heart of Mompox.' },
+  'footer.tagline': { es: 'Siéntete como en casa, en el corazón patrimonial de Mompox. Fredy, Mónica y familia te esperan.', en: 'Feel at home, in the heritage heart of Mompox. Fredy, Mónica and family are waiting for you.' },
   'footer.unesco':  { es: 'Patrimonio de la Humanidad UNESCO 1995', en: 'UNESCO World Heritage 1995' },
   'footer.valerosa':{ es: 'Ciudad Valerosa · Pueblo Patrimonio', en: 'Courageous City · Heritage Town' },
   'footer.rights':  { es: 'Hotel Casa Mónica · Mompox, Bolívar, Colombia', en: 'Hotel Casa Mónica · Mompox, Bolívar, Colombia' },

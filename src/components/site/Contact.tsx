@@ -8,11 +8,11 @@ export function Contact() {
 
   return (
     <section id="contact" className="relative py-20 sm:py-28 overflow-hidden">
-      <div className="absolute inset-0 z-0">
+      <div className="absolute inset-0 z-0 overflow-hidden">
         <img
           src="/mompox-night.png"
           alt="Calle colonial de Mompox de noche"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover animate-boat-drift"
           onError={(e) => ((e.target as HTMLImageElement).style.display = 'none')}
         />
         <div className="absolute inset-0 bg-[var(--wood)]/92" />

@@ -15,12 +15,12 @@ export function MompoxStory() {
 
   return (
     <section id="mompox" className="relative py-20 sm:py-28 overflow-hidden">
-      {/* Background image with overlay */}
-      <div className="absolute inset-0 z-0">
+      {/* Background image with overlay — gentle boat-drift parallax */}
+      <div className="absolute inset-0 z-0 overflow-hidden">
         <img
           src="/mompox-street.png"
           alt="Calle colonial de Mompox al amanecer"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover animate-boat-drift"
           onError={(e) => ((e.target as HTMLImageElement).style.display = 'none')}
         />
         <div className="absolute inset-0 bg-[var(--wood)]/88" />

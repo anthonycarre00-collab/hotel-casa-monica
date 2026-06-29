@@ -15,12 +15,12 @@ export function Hero() {
 
   return (
     <section className="relative min-h-[100svh] flex items-end overflow-hidden">
-      {/* Background image with Ken Burns */}
-      <div className="absolute inset-0 z-0">
+      {/* Background image with Ken Burns + window-zoom on first paint */}
+      <div className="absolute inset-0 z-0 overflow-hidden">
         <img
           src="/magdalena-sunset.png"
           alt="Atardecer sobre el río Magdalena en Mompox"
-          className="w-full h-full object-cover animate-ken-burns"
+          className="w-full h-full object-cover animate-window-zoom animate-ken-burns"
           onError={(e) => {
             // Fallback to hotel-exterior-day if magdalena-sunset hasn't generated yet
             (e.target as HTMLImageElement).src = '/hotel-exterior-day.png';
