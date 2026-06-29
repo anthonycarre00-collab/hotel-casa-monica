@@ -2,6 +2,7 @@
 import { useLang } from '@/lib/i18n';
 import { Reveal, FiligreeDivider, Eyebrow } from './Reveal';
 import { MapPin, Car, Star, Quote, Heart } from 'lucide-react';
+import { RockingChair } from './RockingChair';
 
 export function About() {
   const { t, lang } = useLang();
@@ -90,6 +91,11 @@ export function About() {
               <p>{t('about.p1')}</p>
               <p>{t('about.p2')}</p>
               <p>{t('about.p3')}</p>
+            </div>
+
+            {/* Animated rocking chair — v2.0 easter egg */}
+            <div className="mt-8 flex justify-center">
+              <RockingChair />
             </div>
 
             {/* Stats */}

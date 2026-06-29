@@ -82,3 +82,4 @@ scripts/image-pool-report.*
 /scripts/detailed-inspect-results.txt
 /scripts/video-analysis.json
 /scripts/best-frames/
+tool-results/

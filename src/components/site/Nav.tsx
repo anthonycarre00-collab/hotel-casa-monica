@@ -2,6 +2,7 @@
 import { useEffect, useState } from 'react';
 import { useLang } from '@/lib/i18n';
 import { Menu, X, Globe } from 'lucide-react';
+import { MacondoMode } from './MacondoMode';
 
 const NAV_LINKS = [
   { id: 'about',    key: 'nav.about' },
@@ -80,8 +81,11 @@ export function Nav() {
           ))}
         </nav>
 
-        {/* Right: language toggle + WhatsApp */}
+        {/* Right: Macondo mode + language toggle + WhatsApp */}
         <div className="flex items-center gap-2">
+          <div className="hidden sm:block">
+            <MacondoMode />
+          </div>
           <button
             onClick={() => setLang(lang === 'es' ? 'en' : 'es')}
             className="flex items-center gap-1.5 px-3 py-2 rounded-full border border-[var(--border)] hover:border-[var(--terracotta)] text-sm font-medium text-[var(--wood)] hover:text-[var(--terracotta)] transition-colors"
@@ -120,6 +124,9 @@ export function Nav() {
               </button>
             ))}
           </nav>
+          <div className="px-4 pb-4 pt-2 border-t border-[var(--border)]">
+            <MacondoMode />
+          </div>
         </div>
       )}
     </header>

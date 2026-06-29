@@ -1,6 +1,7 @@
 'use client';
 import { useLang, whatsappLink } from '@/lib/i18n';
 import { MessageCircle, ChevronDown } from 'lucide-react';
+import { BoatDrift } from './BoatDrift';
 
 export function Hero() {
   const { t, lang } = useLang();
@@ -32,6 +33,9 @@ export function Hero() {
         <div className="absolute inset-0 bg-gradient-to-t from-[#2A1F12]/95 via-[#2A1F12]/50 to-[#2A1F12]/20" />
         <div className="absolute inset-0 bg-gradient-to-r from-[#2A1F12]/70 via-transparent to-transparent" />
       </div>
+
+      {/* Drifting champán boat — subtle v2.0 easter egg */}
+      <BoatDrift />
 
       {/* Content */}
       <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 pb-16 sm:pb-24 pt-32">

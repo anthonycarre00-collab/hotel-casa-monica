@@ -44,41 +44,97 @@ export function Reveal({
   );
 }
 
-// Decorative SVG filigree divider — inspired by momposina filigrana spiral motifs
+// Decorative SVG filigree divider — inspired by momposina filigrana spiral motifs.
+// v2.0: Self-drawing path animation when scrolled into view.
 export function FiligreeDivider({ className = '' }: { className?: string }) {
   return (
     <div className={`flex items-center justify-center gap-4 my-8 ${className}`}>
       <span className="h-px flex-1 max-w-[140px] bg-gradient-to-r from-transparent via-[var(--gold)] to-transparent" />
-      <svg
-        width="48"
-        height="48"
-        viewBox="0 0 48 48"
-        fill="none"
-        className="text-[var(--gold)]"
-        aria-hidden
-      >
-        <path
-          d="M24 6c-3 4-7 7-7 12 0 4 3 7 7 7s7-3 7-7c0-5-4-8-7-12z"
-          stroke="currentColor"
-          strokeWidth="1.2"
-          fill="none"
-        />
-        <circle cx="24" cy="20" r="2.2" fill="currentColor" />
-        <path
-          d="M14 26c2 5 5 8 10 8s8-3 10-8"
-          stroke="currentColor"
-          strokeWidth="1.2"
-          fill="none"
-        />
-        <path
-          d="M24 34c-2 3-4 5-4 8h8c0-3-2-5-4-8z"
-          stroke="currentColor"
-          strokeWidth="1.2"
-          fill="none"
-        />
-      </svg>
+      <FiligreeOrnament />
       <span className="h-px flex-1 max-w-[140px] bg-gradient-to-r from-transparent via-[var(--gold)] to-transparent" />
     </div>
+  );
+}
+
+// Self-drawing filigree ornament using stroke-dasharray animation.
+// Triggered on scroll-into-view via IntersectionObserver.
+function FiligreeOrnament() {
+  const ref = useRef<SVGSVGElement | null>(null);
+  const [drawn, setDrawn] = useState(false);
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) {
+            setDrawn(true);
+            observer.unobserve(e.target);
+          }
+        });
+      },
+      { threshold: 0.4 }
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, []);
+
+  return (
+    <svg
+      ref={ref}
+      width="56"
+      height="56"
+      viewBox="0 0 56 56"
+      fill="none"
+      className="text-[var(--gold)]"
+      aria-hidden
+    >
+      {/* Six-petal central rosette */}
+      <g
+        stroke="currentColor"
+        strokeWidth="1.2"
+        fill="none"
+        strokeLinecap="round"
+        style={{
+          strokeDasharray: 200,
+          strokeDashoffset: drawn ? 0 : 200,
+          transition: 'stroke-dashoffset 1.4s ease-out',
+        }}
+      >
+        {/* Center spiral */}
+        <path d="M 28 28 m -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0" />
+        {/* Six petals */}
+        <path d="M 28 28 L 28 14" />
+        <path d="M 28 28 L 40 21" />
+        <path d="M 28 28 L 40 35" />
+        <path d="M 28 28 L 28 42" />
+        <path d="M 28 28 L 16 35" />
+        <path d="M 28 28 L 16 21" />
+        {/* Outer scrollwork */}
+        <path d="M 28 14 Q 22 8 16 14 Q 12 20 18 24" />
+        <path d="M 40 21 Q 46 16 44 8" />
+        <path d="M 40 35 Q 48 38 50 32" />
+        <path d="M 28 42 Q 24 50 18 48" />
+        <path d="M 16 35 Q 8 38 6 32" />
+        <path d="M 16 21 Q 10 16 12 8" />
+      </g>
+      {/* Granulation dots */}
+      <g
+        fill="currentColor"
+        style={{
+          opacity: drawn ? 1 : 0,
+          transition: 'opacity 0.8s ease-out 1.2s',
+        }}
+      >
+        <circle cx="28" cy="6" r="1.2" />
+        <circle cx="48" cy="14" r="1.2" />
+        <circle cx="50" cy="38" r="1.2" />
+        <circle cx="28" cy="50" r="1.2" />
+        <circle cx="6" cy="38" r="1.2" />
+        <circle cx="8" cy="14" r="1.2" />
+      </g>
+    </svg>
   );
 }
 

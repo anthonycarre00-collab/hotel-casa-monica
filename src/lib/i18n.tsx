@@ -283,6 +283,42 @@ export const t: Dict = {
   'footer.valerosa':{ es: 'Ciudad Valerosa · Pueblo Patrimonio', en: 'Courageous City · Heritage Town' },
   'footer.rights':  { es: 'Hotel Casa Mónica · Mompox, Bolívar, Colombia', en: 'Hotel Casa Mónica · Mompox, Bolívar, Colombia' },
   'footer.built':   { es: 'Hecho con cariño desde Mompox', en: 'Made with care from Mompox' },
+
+  // === v2.0 features ===
+
+  // Weather widget
+  'weather.title':     { es: 'Mompox ahora',         en: 'Mompox right now' },
+  'weather.feels':     { es: 'Sensación',            en: 'Feels like' },
+  'weather.humidity':  { es: 'Humedad',              en: 'Humidity' },
+  'weather.siesta':    { es: 'Hora de siesta',       en: 'Siesta hour' },
+  'weather.siestaDesc':{ es: 'El calor pide una mecedora y un limonada.', en: 'The heat calls for a rocking chair and a lemonade.' },
+  'weather.perfect':   { es: 'Perfecto para caminar', en: 'Perfect for walking' },
+  'weather.perfectDesc':{ es: 'Aprovecha el fresco para recorrer el centro.', en: 'Enjoy the cool to explore the centre.' },
+  'weather.hot':       { es: 'Calor caribeño',       en: 'Caribbean heat' },
+  'weather.hotDesc':   { es: 'Lleva agua, sombrero y paciencia.', en: 'Bring water, hat and patience.' },
+  'weather.rain':      { es: 'Lluvia tropical',      en: 'Tropical rain' },
+  'weather.rainDesc':  { es: 'El pueblo se vuelve fantasma una hora.', en: 'The town turns ghostly for an hour.' },
+
+  // Ambient sound player
+  'sound.title':       { es: 'Sonidos de Mompox',    en: 'Sounds of Mompox' },
+  'sound.river':       { es: 'Río Magdalena',        en: 'Magdalena River' },
+  'sound.fan':         { es: 'Ventilador',           en: 'Ceiling fan' },
+  'sound.bells':       { es: 'Campanas',             en: 'Church bells' },
+  'sound.off':         { es: 'Silencio',             en: 'Silence' },
+
+  // Macondo quotes (toast notifications)
+  'macondo.title':     { es: 'Una palabra de Mompox', en: 'A word from Mompox' },
+
+  // Mompox dictionary
+  'dict.title':        { es: 'Palabras momposinas',  en: 'Momposino words' },
+  'dict.subtitle':     { es: 'Un mini-diccionario para que hables como local', en: 'A mini-dictionary so you can speak like a local' },
+
+  // Macondo mode
+  'macondoMode.toggle':{ es: 'Modo Macondo',         en: 'Macondo Mode' },
+  'macondoMode.on':    { es: 'Realismo mágico activado — mira las mariposas', en: 'Magical realism on — watch the butterflies' },
+
+  // Rocking chair caption
+  'rocking.caption':   { es: 'Una mecedora momposina nunca está quieta.', en: 'A momposino rocking chair is never still.' },
 };
 
 type Ctx = {
