@@ -318,7 +318,7 @@ export const t: Dict = {
   'macondoMode.on':    { es: 'Realismo mágico activado — mira las mariposas', en: 'Magical realism on — watch the butterflies' },
 
   // Rocking chair caption
-  'rocking.caption':   { es: 'Una mecedora momposina nunca está quieta.', en: 'A momposino rocking chair is never still.' },
+  'rocking.caption':   { es: 'Una mecedora momposina nunca está quieta. Ven, siéntate, conversa.', en: 'A momposino rocking chair is never still. Come, sit, chat with us.' },
 };
 
 type Ctx = {

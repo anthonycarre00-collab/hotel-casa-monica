@@ -15,10 +15,9 @@ import { Gallery } from '@/components/site/Gallery';
 import { Contact } from '@/components/site/Contact';
 import { Footer } from '@/components/site/Footer';
 import { WhatsAppFloat } from '@/components/site/WhatsAppFloat';
-import { MompoxWeather } from '@/components/site/MompoxWeather';
-import { AmbientSound } from '@/components/site/AmbientSound';
 import { MacondoQuotes } from '@/components/site/MacondoQuotes';
 import { MompoxDictionary } from '@/components/site/MompoxDictionary';
+import { AtmospherePanel } from '@/components/site/AtmospherePanel';
 
 export default function Home() {
   return (
@@ -43,11 +42,8 @@ export default function Home() {
         </main>
         <Footer />
         <WhatsAppFloat />
-        {/* v2.0: Floating atmospheric features */}
-        <div className="hidden lg:flex flex-col gap-3 fixed right-4 top-24 z-30 w-64">
-          <MompoxWeather />
-          <AmbientSound />
-        </div>
+        {/* v2.0: Collapsible atmosphere panel (weather + sound) — bottom-left */}
+        <AtmospherePanel />
         {/* v2.0: Magical realism quotes toast */}
         <MacondoQuotes />
       </div>
