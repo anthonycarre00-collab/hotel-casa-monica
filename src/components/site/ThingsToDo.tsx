@@ -7,12 +7,12 @@ export function ThingsToDo() {
   const { t, lang } = useLang();
 
   const items = [
-    { icon: Waves,    img: '/cienaga-pijino.png',    title: t('todo.item1.title'), desc: t('todo.item1.desc') },
-    { icon: Ship,     img: '/champan-boat.png',      title: t('todo.item2.title'), desc: t('todo.item2.desc') },
-    { icon: Gem,      img: '/filigree-artisan.png',  title: t('todo.item3.title'), desc: t('todo.item3.desc') },
-    { icon: Church,   img: '/santa-barbara-tower.png', title: t('todo.item4.title'), desc: t('todo.item4.desc') },
-    { icon: Footprints, img: '/mompox-street.png',   title: t('todo.item5.title'), desc: t('todo.item5.desc') },
-    { icon: Anchor,   img: '/magdalena-sunset.png',  title: t('todo.item6.title'), desc: t('todo.item6.desc') },
+    { icon: Waves,    img: '/cienaga-pijino.png',           title: t('todo.item1.title'), desc: t('todo.item1.desc') },
+    { icon: Ship,     img: '/mompox-river-colonial.jpg',    title: t('todo.item2.title'), desc: t('todo.item2.desc') },
+    { icon: Gem,      img: '/filigree-artisan.png',         title: t('todo.item3.title'), desc: t('todo.item3.desc') },
+    { icon: Church,   img: '/mompox-santa-barbara-night.jpg', title: t('todo.item4.title'), desc: t('todo.item4.desc') },
+    { icon: Footprints, img: '/mompox-street-colonial.jpg', title: t('todo.item5.title'), desc: t('todo.item5.desc') },
+    { icon: Anchor,   img: '/mompox-drone-1.jpg',           title: t('todo.item6.title'), desc: t('todo.item6.desc') },
   ];
 
   return (

@@ -2,23 +2,28 @@
 import { useState } from 'react';
 import { useLang } from '@/lib/i18n';
 import { Reveal, FiligreeDivider, Eyebrow } from './Reveal';
-import { X, ChevronLeft, ChevronRight } from 'lucide-react';
+import { X, ChevronLeft, ChevronRight, Camera } from 'lucide-react';
 
-type Img = { src: string; captionEs: string; captionEn: string };
+type Img = { src: string; captionEs: string; captionEn: string; real?: boolean };
 
+// Gallery now prioritizes REAL uploaded images (marked real:true) over AI-generated ones.
+// Real images are: drone views, river, churches, streets, evening patio, couple shots.
+// AI images kept for variety where no real equivalent exists (filigree, food, cienaga).
 const GALLERY: Img[] = [
-  { src: '/magdalena-sunset.png',     captionEs: 'Atardecer sobre el río Magdalena',         captionEn: 'Sunset over the Magdalena River' },
-  { src: '/mompox-street.png',         captionEs: 'Calle colonial al amanecer',               captionEn: 'Colonial street at dawn' },
-  { src: '/santa-barbara-tower.png',   captionEs: 'Torre barroca de Santa Bárbara',           captionEn: 'Baroque tower of Santa Bárbara' },
-  { src: '/ceiba-tree.png',            captionEs: 'Ceiba centenaria en la plaza',             captionEn: 'Centennial ceiba in the plaza' },
-  { src: '/filigree-artisan.png',      captionEs: 'Manos tejiendo filigrana',                 captionEn: 'Hands weaving filigree' },
-  { src: '/momposina-food.png',        captionEs: 'Mesa de sabores momposinos',               captionEn: 'Table of momposino flavours' },
-  { src: '/cienaga-pijino.png',        captionEs: 'Ciénaga de Pijiño al amanecer',            captionEn: 'Ciénaga de Pijiño at dawn' },
-  { src: '/champan-boat.png',          captionEs: 'Champán en el Magdalena',                  captionEn: 'Champán on the Magdalena' },
-  { src: '/corozo-fruit.png',          captionEs: 'Corozo, fruto del Caribe',                 captionEn: 'Corozo, fruit of the Caribbean' },
-  { src: '/rocking-chair-porch.png',   captionEs: 'Mecedoras momposinas',                     captionEn: 'Momposino rocking chairs' },
-  { src: '/mompox-night.png',          captionEs: 'Mompox de noche',                          captionEn: 'Mompox at night' },
-  { src: '/mompox-church.png',         captionEs: 'Iglesia colonial amarilla',                captionEn: 'Yellow colonial church' },
+  // --- Real photos first (the authentic Mompox) ---
+  { src: '/owners-couple.jpg',           captionEs: 'Fredy & Mónica en la puerta de Casa Mónica',  captionEn: 'Fredy & Mónica at the door of Casa Mónica',     real: true },
+  { src: '/mompox-drone-1.jpg',          captionEs: 'Mompox desde el aire — vista de dron',         captionEn: 'Mompox from above — drone view',              real: true },
+  { src: '/mompox-river-colonial.jpg',   captionEs: 'Edificio colonial junto al río Magdalena',     captionEn: 'Colonial building by the Magdalena River',    real: true },
+  { src: '/hotel-patio-evening.jpg',     captionEs: 'Atardecer en el patio — luces y mesas',        captionEn: 'Evening on the patio — lights and tables',    real: true },
+  { src: '/mompox-santa-barbara-night.jpg', captionEs: 'Iglesia de Santa Bárbara iluminada de noche', captionEn: 'Church of Santa Bárbara lit up at night',   real: true },
+  { src: '/mompox-church-red.jpg',       captionEs: 'Iglesia colonial roja en la plaza',            captionEn: 'Red colonial church in the plaza',            real: true },
+  { src: '/mompox-street-colonial.jpg',  captionEs: 'Calle colonial de Mompox',                     captionEn: 'Colonial street in Mompox',                   real: true },
+  { src: '/mompox-drone-2.jpg',          captionEs: 'Otra vista aérea del centro histórico',        captionEn: 'Another aerial view of the historic centre',  real: true },
+  { src: '/owners-arch.jpg',             captionEs: 'Bajo el arco de flores de Casa Mónica',        captionEn: 'Under the floral arch at Casa Mónica',        real: true },
+  // --- AI-generated atmospheric images (kept for variety) ---
+  { src: '/filigree-artisan.png',        captionEs: 'Manos tejiendo filigrana momposina',           captionEn: 'Hands weaving momposino filigree' },
+  { src: '/momposina-food.png',          captionEs: 'Mesa de sabores momposinos',                   captionEn: 'Table of momposino flavours' },
+  { src: '/cienaga-pijino.png',          captionEs: 'Ciénaga de Pijiño al amanecer',                captionEn: 'Ciénaga de Pijiño at dawn' },
 ];
 
 export function Gallery() {
@@ -38,6 +43,12 @@ export function Gallery() {
           <h2 className="font-serif text-4xl sm:text-5xl text-[var(--wood)] leading-tight">
             {t('gallery.title')}
           </h2>
+          <p className="mt-3 text-sm text-[var(--wood-soft)] flex items-center justify-center gap-2">
+            <Camera className="w-4 h-4" />
+            {lang === 'es'
+              ? 'Fotos reales de Mompox y Casa Mónica'
+              : 'Real photos of Mompox and Casa Mónica'}
+          </p>
           <FiligreeDivider />
         </Reveal>
 
@@ -58,8 +69,13 @@ export function Gallery() {
                   alt={lang === 'es' ? img.captionEs : img.captionEn}
                   className="w-full h-auto object-cover group-hover:scale-105 transition-transform duration-500"
                   loading="lazy"
-                  onError={(e) => ((e.target as HTMLImageElement).style.opacity = '0.3')}
                 />
+                {/* "Real" badge for authentic photos */}
+                {img.real && (
+                  <div className="absolute top-2 left-2 px-2 py-0.5 rounded-full bg-[var(--terracotta)] text-white text-[9px] tracking-wider uppercase font-medium shadow">
+                    {lang === 'es' ? 'Real' : 'Real'}
+                  </div>
+                )}
                 <div className="absolute inset-0 bg-gradient-to-t from-[var(--wood)]/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end p-3">
                   <p className="text-white text-xs font-medium leading-tight">
                     {lang === 'es' ? img.captionEs : img.captionEn}

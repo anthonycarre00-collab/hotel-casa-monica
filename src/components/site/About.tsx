@@ -1,7 +1,7 @@
 'use client';
 import { useLang } from '@/lib/i18n';
 import { Reveal, FiligreeDivider, Eyebrow } from './Reveal';
-import { MapPin, Car, Star, Quote } from 'lucide-react';
+import { MapPin, Car, Star, Quote, Heart } from 'lucide-react';
 
 export function About() {
   const { t, lang } = useLang();
@@ -15,22 +15,32 @@ export function About() {
 
   const owners = [
     {
-      img: '/owner-fredy.png',
+      // Real photo of Fredy — man by statue at a local landmark
+      img: '/owner-fredy-real.jpg',
+      imgAlt: lang === 'es'
+        ? 'Sr Fredy, anfitrión de Casa Mónica, junto a una estatua en Mompox'
+        : 'Sr Fredy, host of Casa Mónica, beside a statue in Mompox',
       name: t('about.fredy.name'),
       role: t('about.fredy.role'),
       tagline: t('about.fredy.tagline'),
       bio: t('about.fredy.bio'),
       monogram: 'F',
       accent: 'terracotta',
+      isReal: true,
     },
     {
+      // Mónica — placeholder until a solo portrait is uploaded
       img: '/owner-monica.png',
+      imgAlt: lang === 'es'
+        ? 'Sra Mónica, la jefa de Casa Mónica — retrato ilustrado'
+        : 'Sra Mónica, the boss of Casa Mónica — illustrated portrait',
       name: t('about.monica.name'),
       role: t('about.monica.role'),
       tagline: t('about.monica.tagline'),
       bio: t('about.monica.bio'),
       monogram: 'M',
       accent: 'brick',
+      isReal: false,
     },
   ];
 
@@ -52,14 +62,18 @@ export function About() {
               <div className="mt-8">
                 <img
                   src="/hotel-exterior-day.png"
-                  alt="Fachada de Hotel Casa Mónica con un músico tocando acordeón"
+                  alt={lang === 'es'
+                    ? 'Fachada de Hotel Casa Mónica con un músico tocando acordeón'
+                    : 'Facade of Hotel Casa Mónica with a musician playing accordion'}
                   className="rounded-2xl shadow-xl w-full aspect-[4/5] object-cover img-lift"
                 />
               </div>
               <div>
                 <img
                   src="/hotel-exterior-night.png"
-                  alt="Fachada de Hotel Casa Mónica iluminada en la noche"
+                  alt={lang === 'es'
+                    ? 'Fachada de Hotel Casa Mónica iluminada en la noche'
+                    : 'Facade of Hotel Casa Mónica lit up at night'}
                   className="rounded-2xl shadow-xl w-full aspect-[4/5] object-cover img-lift"
                 />
               </div>
@@ -91,26 +105,52 @@ export function About() {
           </Reveal>
         </div>
 
-        {/* Owner cards — Fredy & Mónica */}
+        {/* Owners subsection — couple feature photo + individual cards */}
         <Reveal className="mt-20 text-center">
           <Eyebrow>{t('about.owner.title')}</Eyebrow>
           <h3 className="font-script text-4xl sm:text-5xl text-[var(--terracotta-dark)] mb-2">
             Fredy <span className="text-[var(--gold)] mx-1">&</span> Mónica
           </h3>
-          <p className="text-sm text-[var(--wood-soft)] italic max-w-xl mx-auto">
-            {t('about.owners.note')}
-          </p>
         </Reveal>
 
+        {/* Couple feature photo — the real "them in front of their house" shot */}
+        <Reveal className="mt-8 max-w-2xl mx-auto">
+          <figure className="relative rounded-2xl overflow-hidden shadow-2xl group">
+            <img
+              src="/owners-couple.jpg"
+              alt={lang === 'es'
+                ? 'Fredy y Mónica, los dueños de Casa Mónica, en la puerta de su hotel en Mompox'
+                : 'Fredy and Mónica, the owners of Casa Mónica, at the door of their hotel in Mompox'}
+              className="w-full aspect-[4/5] object-cover group-hover:scale-105 transition-transform duration-1000"
+            />
+            {/* Warm gradient overlay at bottom for caption */}
+            <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-[var(--wood)]/80 to-transparent" />
+            <figcaption className="absolute bottom-0 left-0 right-0 p-5 sm:p-6 text-white">
+              <div className="flex items-center gap-2 mb-1">
+                <Heart className="w-4 h-4 text-[var(--gold-soft)] fill-current" />
+                <span className="text-xs uppercase tracking-[0.25em] text-[var(--gold-soft)]">
+                  {lang === 'es' ? 'En la puerta de su casa' : 'At the door of their home'}
+                </span>
+              </div>
+              <p className="font-serif italic text-lg sm:text-xl leading-snug">
+                {lang === 'es'
+                  ? '"Si a Caracas debo la vida, a Mompox debo la gloria." Y a Mompox, su gente.'
+                  : '"If to Caracas I owe my life, to Mompox I owe the glory." And to Mompox, its people.'}
+              </p>
+            </figcaption>
+          </figure>
+        </Reveal>
+
+        {/* Individual owner cards */}
         <div className="grid md:grid-cols-2 gap-6 lg:gap-10 mt-10 max-w-5xl mx-auto">
           {owners.map((owner, i) => (
             <Reveal key={i} delay={i * 150}>
               <article className="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 hover:-translate-y-1 h-full flex flex-col">
-                {/* Portrait with monogram fallback */}
+                {/* Portrait */}
                 <div className="relative aspect-[4/5] overflow-hidden bg-[var(--cream-100)]">
                   <img
                     src={owner.img}
-                    alt={owner.name}
+                    alt={owner.imgAlt}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   />
                   {/* Warm vignette overlay */}
@@ -119,6 +159,12 @@ export function About() {
                   <div className={`absolute top-4 right-4 w-14 h-14 rounded-full flex items-center justify-center font-script text-3xl text-white shadow-lg ${owner.accent === 'terracotta' ? 'bg-[var(--terracotta)]' : 'bg-[var(--brick)]'}`}>
                     {owner.monogram}
                   </div>
+                  {/* "Real photo" vs "placeholder" badge */}
+                  {!owner.isReal && (
+                    <div className="absolute bottom-3 left-3 px-2.5 py-1 rounded-full bg-[var(--wood)]/70 backdrop-blur-sm text-white text-[10px] tracking-wider uppercase">
+                      {lang === 'es' ? 'Foto ilustrada' : 'Illustrated'}
+                    </div>
+                  )}
                 </div>
 
                 {/* Body */}
@@ -137,7 +183,14 @@ export function About() {
           ))}
         </div>
 
-        {/* Original owner quote — kept, but warmer placement */}
+        {/* Note about Mónica's portrait */}
+        <Reveal className="mt-6 text-center">
+          <p className="text-sm text-[var(--wood-soft)] italic max-w-xl mx-auto">
+            {t('about.owners.note')}
+          </p>
+        </Reveal>
+
+        {/* Original owner quote — kept as a closing note */}
         <Reveal className="mt-12 max-w-3xl mx-auto">
           <div className="relative p-6 sm:p-8 rounded-2xl bg-white/70 backdrop-blur-sm border-l-4 border-[var(--gold)] shadow-md">
             <Quote className="w-8 h-8 text-[var(--gold)] mb-2" />
