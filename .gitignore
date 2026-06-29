@@ -51,4 +51,24 @@ prompt
 
 server.log
 # Skills directory
+research/
+scripts/image-pool-report.*
+.zscripts/
+
+# Skills directory (AI agent skills, not part of the site)
 /skills/
+
+# User uploads (raw photos — processed versions go in /public)
+/upload/
+
+# Research working files
+/research/
+
+# Image pool analysis reports (regenerated on demand)
+/scripts/image-pool-report.*
+
+# AI agent skills (not part of the site)
+/skills/
+
+# Vercel
+.vercel/

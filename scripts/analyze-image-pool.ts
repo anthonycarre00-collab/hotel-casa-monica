@@ -22,7 +22,7 @@ import path from 'path';
 
 const UPLOAD_DIR   = '/home/z/my-project/upload';
 const PUBLIC_DIR   = '/home/z/my-project/public';
-const DROP_DIRS    = [UPLOAD_DIR, '/home/z/my-project/drop', '/home/z/my-project/new-images'];
+const DROP_DIRS    = [UPLOAD_DIR, '/home/z/my-project/upload/batch2', '/home/z/my-project/drop', '/home/z/my-project/new-images'];
 const REPORT_JSON  = '/home/z/my-project/scripts/image-pool-report.json';
 const REPORT_MD    = '/home/z/my-project/scripts/image-pool-report.md';
 
@@ -207,24 +207,41 @@ Only output the JSON. No prose.`;
 async function main() {
   console.log('Scanning for images...');
   const files = findImageFiles();
-  console.log(`Found ${files.length} image(s):`);
-  files.forEach(f => console.log('  -', f));
+  console.log(`Found ${files.length} image(s) total.`);
 
-  if (files.length === 0) {
-    console.log('\nNo images found. Drop files into /home/z/my-project/upload/ and re-run.');
+  // Load existing report to skip already-classified files
+  let existing: Classification[] = [];
+  if (fs.existsSync(REPORT_JSON)) {
+    try {
+      existing = JSON.parse(fs.readFileSync(REPORT_JSON, 'utf8'));
+      console.log(`Loaded ${existing.length} previously classified entries — will skip those.`);
+    } catch {
+      console.log('Could not parse existing report, starting fresh.');
+    }
+  }
+  const alreadyDone = new Set(existing.map(e => e.file));
+  const newFiles = files.filter(f => !alreadyDone.has(f));
+  console.log(`New images to classify: ${newFiles.length}`);
+  newFiles.forEach(f => console.log('  +', f));
+
+  if (newFiles.length === 0) {
+    console.log('\nNo new images to classify.');
+    writeReport(existing);
     return;
   }
 
   const zai = await ZAI.create();
-  const classifications: Classification[] = [];
+  const classifications = [...existing];
 
   // Classify sequentially to avoid rate limits
-  for (const f of files) {
+  for (const f of newFiles) {
     process.stdout.write(`Classifying ${path.basename(f)} ... `);
     try {
       const c = await classifyImage(zai, f);
       classifications.push(c);
       console.log(`${c.category} → ${c.recommendedSlot}`);
+      // Save progress after each image (so timeouts don't lose work)
+      fs.writeFileSync(REPORT_JSON, JSON.stringify(classifications, null, 2));
     } catch (e: any) {
       console.log(`ERROR: ${e.message}`);
       classifications.push({
@@ -245,11 +262,13 @@ async function main() {
     }
   }
 
-  // Write JSON report
+  writeReport(classifications);
+}
+
+function writeReport(classifications: Classification[]) {
   fs.writeFileSync(REPORT_JSON, JSON.stringify(classifications, null, 2));
   console.log(`\nJSON report: ${REPORT_JSON}`);
 
-  // Write human-readable markdown report
   const lines: string[] = [
     '# Casa Mónica — Image Pool Analysis Report',
     '',
@@ -263,6 +282,8 @@ async function main() {
     `- ${classifications.filter(c => c.category === 'scenery-town').length} town scenery`,
     `- ${classifications.filter(c => c.category === 'scenery-river').length} river scenery`,
     `- ${classifications.filter(c => c.category === 'food').length} food photo(s)`,
+    `- ${classifications.filter(c => c.category === 'event').length} event photo(s)`,
+    `- ${classifications.filter(c => c.category === 'people-guests').length} guest photo(s)`,
     '',
     '## Recommendations',
     '',
@@ -284,21 +305,6 @@ async function main() {
     lines.push(`- **Notes:** ${c.notes}`);
     lines.push('');
   }
-
-  // Suggested copy commands
-  lines.push('## Suggested copy commands');
-  lines.push('');
-  lines.push('```bash');
-  for (const c of classifications) {
-    if (c.recommendedSlot && !c.recommendedSlot.startsWith('(') && !c.recommendedSlot.includes('extra-')) {
-      lines.push(`cp "${c.file}" /home/z/my-project/public/${c.recommendedSlot}`);
-    } else if (c.recommendedSlot.includes('extra-')) {
-      lines.push(`# Manual review needed: ${path.basename(c.file)} → ${c.recommendedSlot}`);
-    }
-  }
-  lines.push('```');
-  lines.push('');
-  lines.push('After copying, restart the dev server (or it will hot-reload automatically).');
 
   fs.writeFileSync(REPORT_MD, lines.join('\n'));
   console.log(`Markdown report: ${REPORT_MD}`);
