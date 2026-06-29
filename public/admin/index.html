@@ -7,7 +7,6 @@
   <title>Editor · Hotel Casa Mónica</title>
   <link rel="icon" href="/casa-monica-logo.png" />
   <style>
-    /* Loading screen while Decap CMS loads */
     body {
       margin: 0;
       background: #FDF6E8;
@@ -48,8 +47,127 @@
     <h1>Cargando editor…</h1>
     <p>Hotel Casa Mónica · Mompox</p>
   </div>
+
+  <!-- Decap CMS configuration — embedded inline to avoid routing issues -->
+  <script>
+    window.CMS_CONFIG = {
+      backend: {
+        name: 'git-gateway',
+        branch: 'main'
+      },
+      media_folder: 'public',
+      public_folder: '',
+      publish_mode: 'editorial_workflow',
+      show_preview_links: false,
+      collections: [
+        {
+          name: 'site_content',
+          label: 'Contenido del sitio',
+          description: 'Textos principales del sitio — portada, nosotros, contacto',
+          delete: false,
+          editor: { preview: false },
+          files: [
+            {
+              file: 'content/hero.json',
+              name: 'hero',
+              label: 'Portada (Hero)',
+              fields: [
+                { label: 'Título (parte 1)', name: 'title1', widget: 'string', hint: 'Ej: "Siéntete como"' },
+                { label: 'Título (parte 2, script)', name: 'title2', widget: 'string', hint: 'Ej: "en casa"' },
+                { label: 'Subtítulo', name: 'subtitle', widget: 'text' },
+                { label: 'Botón de reserva', name: 'cta_book', widget: 'string' },
+                { label: 'Botón explorar', name: 'cta_explore', widget: 'string' }
+              ]
+            },
+            {
+              file: 'content/about.json',
+              name: 'about',
+              label: 'Nosotros',
+              fields: [
+                { label: 'Título', name: 'title', widget: 'string' },
+                { label: 'Párrafo 1', name: 'p1', widget: 'text' },
+                { label: 'Párrafo 2', name: 'p2', widget: 'text' },
+                { label: 'Párrafo 3', name: 'p3', widget: 'text' }
+              ]
+            },
+            {
+              file: 'content/fredy.json',
+              name: 'fredy',
+              label: 'Sr Fredy',
+              fields: [
+                { label: 'Nombre', name: 'name', widget: 'string' },
+                { label: 'Rol', name: 'role', widget: 'string' },
+                { label: 'Frase', name: 'tagline', widget: 'string' },
+                { label: 'Biografía', name: 'bio', widget: 'text' },
+                { label: 'Foto', name: 'photo', widget: 'image' }
+              ]
+            },
+            {
+              file: 'content/monica.json',
+              name: 'monica',
+              label: 'Sra Mónica',
+              fields: [
+                { label: 'Nombre', name: 'name', widget: 'string' },
+                { label: 'Rol', name: 'role', widget: 'string' },
+                { label: 'Frase', name: 'tagline', widget: 'string' },
+                { label: 'Biografía', name: 'bio', widget: 'text' },
+                { label: 'Foto', name: 'photo', widget: 'image' }
+              ]
+            },
+            {
+              file: 'content/contact.json',
+              name: 'contact',
+              label: 'Contacto',
+              fields: [
+                { label: 'WhatsApp', name: 'whatsapp', widget: 'string', hint: 'Ej: +57 300 310 0299' },
+                { label: 'Instagram', name: 'instagram', widget: 'string' },
+                { label: 'Dirección', name: 'address', widget: 'string' }
+              ]
+            }
+          ]
+        },
+        {
+          name: 'reviews',
+          label: 'Opiniones',
+          label_singular: 'Opinión',
+          folder: 'content/reviews',
+          create: true,
+          delete: true,
+          slug: '{{slug}}-{{year}}{{month}}{{day}}',
+          summary: '{{author}} — {{rating}}★',
+          editor: { preview: false },
+          fields: [
+            { label: 'Texto', name: 'text', widget: 'text' },
+            { label: 'Autor', name: 'author', widget: 'string' },
+            { label: 'Calificación', name: 'rating', widget: 'number', min: 1, max: 5, default: 5 },
+            { label: 'Fecha', name: 'date', widget: 'datetime' }
+          ]
+        },
+        {
+          name: 'festivals',
+          label: 'Festivales',
+          label_singular: 'Festival',
+          folder: 'content/festivals',
+          create: true,
+          delete: true,
+          slug: '{{slug}}',
+          summary: '{{name}} — {{date}}',
+          editor: { preview: false },
+          fields: [
+            { label: 'Nombre', name: 'name', widget: 'string' },
+            { label: 'Fecha', name: 'date', widget: 'string', hint: 'Ej: "19-21 de Julio"' },
+            { label: 'Descripción', name: 'description', widget: 'text' },
+            { label: 'Reservar con tiempo', name: 'bookAhead', widget: 'boolean', default: false },
+            { label: 'Emoji', name: 'icon', widget: 'string', hint: 'Un emoji, ej: 🎵' }
+          ]
+        }
+      ]
+    };
+  </script>
+
   <!-- Netlify Identity widget — required for git-gateway auth -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <!-- Decap CMS -->
   <script src="https://unpkg.com/decap-cms@3.4.0/dist/decap-cms.js"></script>
   <script>
     // Redirect to /admin after login

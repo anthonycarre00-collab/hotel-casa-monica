@@ -1,6 +1,6 @@
-// Serve Decap CMS admin page
-// This route serves the static HTML from /public/admin/index.html
-// Decap CMS needs a plain HTML page, not a React component
+// Serve the Decap CMS admin page at /admin
+// This route ONLY handles the exact /admin path.
+// Static files like /admin/config.yml are served from public/admin/ by Next.js.
 
 import { readFileSync } from 'fs';
 import { join } from 'path';
