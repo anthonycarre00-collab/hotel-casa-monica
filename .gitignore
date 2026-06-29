@@ -72,3 +72,13 @@ scripts/image-pool-report.*
 
 # Vercel
 .vercel/
+
+# Temp video/image analysis working files
+/scripts/video-frames/
+/scripts/video-frames-detailed/
+/scripts/monica-candidates/
+/scripts/monica-candidates-analysis.json
+/scripts/monica-photos-analysis.json
+/scripts/detailed-inspect-results.txt
+/scripts/video-analysis.json
+/scripts/best-frames/

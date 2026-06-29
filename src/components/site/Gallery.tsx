@@ -23,6 +23,7 @@ const GALLERY: Img[] = [
   { src: '/mompox-street-colonial.jpg',    captionEs: 'Calle colonial de Mompox',                     captionEn: 'Colonial street in Mompox',                   real: true },
   { src: '/mompox-drone-2.jpg',            captionEs: 'Otra vista aérea del centro histórico',        captionEn: 'Another aerial view of the historic centre',  real: true },
   { src: '/owners-arch.jpg',               captionEs: 'Bajo el arco de flores de Casa Mónica',        captionEn: 'Under the floral arch at Casa Mónica',        real: true },
+  { src: '/mompox-street-banners.jpg',       captionEs: 'Calle de Mompox con banderines de colores',  captionEn: 'Mompox street with colorful pennant banners',  real: true },
   // --- AI-generated atmospheric images (kept for variety) ---
   { src: '/filigree-artisan.png',        captionEs: 'Manos tejiendo filigrana momposina',           captionEn: 'Hands weaving momposino filigree' },
   { src: '/momposina-food.png',          captionEs: 'Mesa de sabores momposinos',                   captionEn: 'Table of momposino flavours' },

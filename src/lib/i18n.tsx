@@ -73,8 +73,8 @@ export const t: Dict = {
     en: 'If Casa Mónica is named after her, it\'s for a reason. Mónica runs the house with the calm and the firmness of a Caribbean mum: the spotless room, the coffee at just the right moment, the conversation that makes you feel like family. Don\'t be surprised if one day a casabito or a glass of corozo juice appears "in case you fancied something sweet".'
   },
   'about.owners.note': {
-    es: '(La foto de Fredy es en persona. La de Mónica va ilustrada por mientras — sube una foto individual y la cambiamos al instante.)',
-    en: '(Fredy\'s photo is the real him. Mónica\'s is illustrated for now — upload a solo shot of her and we\'ll swap it instantly.)'
+    es: '(Fredy y Mónica, en persona — los dueños de Casa Mónica. ¡Los ves, los sientes, te reciben en la puerta!)',
+    en: '(Fredy and Mónica, in person — the owners of Casa Mónica. You see them, you feel them, they welcome you at the door!)'
   },
   'about.stats.rating': { es: '9.2 / 10 valoración', en: '9.2 / 10 rating' },
   'about.stats.reviews': { es: '55 reseñas', en: '55 reviews' },

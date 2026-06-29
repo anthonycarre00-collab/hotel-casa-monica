@@ -29,18 +29,18 @@ export function About() {
       isReal: true,
     },
     {
-      // Mónica — placeholder until a solo portrait is uploaded
-      img: '/owner-monica.png',
+      // Mónica — REAL photo! She's holding a child, warm maternal energy
+      img: '/owner-monica-real.jpg',
       imgAlt: lang === 'es'
-        ? 'Sra Mónica, la jefa de Casa Mónica — retrato ilustrado'
-        : 'Sra Mónica, the boss of Casa Mónica — illustrated portrait',
+        ? 'Sra Mónica, la jefa de Casa Mónica — en casa, con calor de familia'
+        : 'Sra Mónica, the boss of Casa Mónica — at home, with family warmth',
       name: t('about.monica.name'),
       role: t('about.monica.role'),
       tagline: t('about.monica.tagline'),
       bio: t('about.monica.bio'),
       monogram: 'M',
       accent: 'brick',
-      isReal: false,
+      isReal: true,
     },
   ];
 

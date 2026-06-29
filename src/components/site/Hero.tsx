@@ -36,21 +36,34 @@ export function Hero() {
       {/* Content */}
       <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 pb-16 sm:pb-24 pt-32">
         <div className="max-w-3xl">
-          <div className="flex items-center gap-3 mb-5">
+          <div className="flex items-center gap-3 mb-6">
             <span className="h-px w-12 bg-[var(--gold)]" />
-            <span className="text-[var(--gold-soft)] text-xs sm:text-sm tracking-[0.25em] uppercase font-medium">
+            <span className="text-[var(--gold-soft)] text-[11px] sm:text-xs tracking-[0.3em] uppercase font-medium">
               {t('hero.eyebrow')}
             </span>
           </div>
 
-          <h1 className="font-serif text-white text-5xl sm:text-6xl lg:text-7xl leading-[0.95] font-semibold mb-2">
-            {t('hero.title1')}{' '}
-            <span className="font-script text-[var(--gold-soft)] font-normal text-6xl sm:text-7xl lg:text-8xl block sm:inline">
+          {/* Title — refined typography with proper hierarchy */}
+          <h1 className="text-white font-serif leading-[1.05] mb-2 drop-shadow-[0_2px_12px_rgba(0,0,0,0.4)]">
+            <span className="block text-4xl sm:text-5xl lg:text-6xl font-light italic tracking-tight">
+              {t('hero.title1')}
+            </span>
+            <span
+              className="block font-script text-[var(--gold-soft)] font-bold text-6xl sm:text-7xl lg:text-8xl leading-[1.1] mt-1"
+              style={{ textShadow: '0 2px 20px rgba(201, 169, 97, 0.3)' }}
+            >
               {t('hero.title2')}
             </span>
           </h1>
 
-          <p className="text-[var(--cream-100)]/90 text-base sm:text-lg leading-relaxed mt-6 max-w-2xl">
+          {/* Decorative underline */}
+          <div className="flex items-center gap-2 mt-4 mb-2">
+            <span className="h-px w-8 bg-[var(--gold)]/60" />
+            <span className="text-[var(--gold-soft)] text-xs">★</span>
+            <span className="h-px w-8 bg-[var(--gold)]/60" />
+          </div>
+
+          <p className="text-[var(--cream-100)]/90 text-base sm:text-lg leading-relaxed mt-5 max-w-2xl">
             {t('hero.subtitle')}
           </p>
 
