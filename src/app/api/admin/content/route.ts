@@ -37,9 +37,28 @@ function verifyPassword(provided: string): boolean {
   return crypto.timingSafeEqual(a, b);
 }
 
-// GET /api/admin/content?file=hero — read a content file
+// GET /api/admin/content?file=hero — read a content file (password-protected)
 // POST /api/admin/content — write a content file { file, content, password }
 export async function GET(req: NextRequest) {
+  // Rate limit
+  const ip = req.headers.get('x-forwarded-for') || req.headers.get('x-real-ip') || 'unknown';
+  const rateLimit = checkRateLimit(ip);
+  if (!rateLimit.allowed) {
+    return NextResponse.json(
+      { error: 'Too many attempts. Try again in 15 minutes.' },
+      { status: 429 }
+    );
+  }
+
+  // Verify password from X-Admin-Password header
+  const providedPassword = req.headers.get('x-admin-password') || '';
+  if (!verifyPassword(providedPassword)) {
+    return NextResponse.json(
+      { error: `Unauthorized. ${rateLimit.remaining} attempts remaining.` },
+      { status: 401 }
+    );
+  }
+
   const file = req.nextUrl.searchParams.get('file');
   if (!file) {
     return NextResponse.json({ error: 'Missing file parameter' }, { status: 400 });

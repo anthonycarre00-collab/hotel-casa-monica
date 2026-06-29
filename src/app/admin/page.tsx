@@ -111,8 +111,18 @@ export default function AdminPage() {
   function loadFile(file: ContentFile) {
     setLoading(true);
     setError('');
-    fetch(`/api/admin/content?file=${file.name}`)
-      .then(res => res.json())
+    const pw = sessionStorage.getItem('cm-admin-password') || '';
+    fetch(`/api/admin/content?file=${file.name}`, {
+      headers: { 'X-Admin-Password': pw },
+    })
+      .then(res => {
+        if (res.status === 401) {
+          // Password no longer valid — log out
+          logout();
+          throw new Error('Session expired. Please log in again.');
+        }
+        return res.json();
+      })
       .then(data => {
         if (data.error) throw new Error(data.error);
         setContent(data.content);
