@@ -2,7 +2,6 @@
 import { useLang, whatsappLink } from '@/lib/i18n';
 import { Reveal, FiligreeDivider, Eyebrow } from './Reveal';
 import { MessageCircle, Instagram, MapPin, ExternalLink, Phone } from 'lucide-react';
-import { RockingChair } from './RockingChair';
 
 export function Contact() {
   const { t, lang } = useLang();
@@ -98,11 +97,6 @@ export function Contact() {
             <Phone className="w-4 h-4" />
             <span className="font-serif text-lg">+57 300 310 0299</span>
           </a>
-        </Reveal>
-
-        {/* Rocking chair — "come sit with us" invitation */}
-        <Reveal className="mt-8 flex justify-center">
-          <RockingChair />
         </Reveal>
       </div>
     </section>

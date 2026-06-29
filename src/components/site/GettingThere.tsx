@@ -2,6 +2,7 @@
 import { useLang } from '@/lib/i18n';
 import { Reveal, FiligreeDivider, Eyebrow } from './Reveal';
 import { Plane, Bus, Ship, Footprints, Calendar, Thermometer, CloudRain, Music } from 'lucide-react';
+import { TukTuk } from './TukTuk';
 
 export function GettingThere() {
   const { t, lang } = useLang();
@@ -40,6 +41,11 @@ export function GettingThere() {
             </Reveal>
           ))}
         </div>
+
+        {/* Animated tuk-tuk — fun easter egg for getting around Mompox */}
+        <Reveal className="mt-8">
+          <TukTuk />
+        </Reveal>
       </div>
     </section>
   );

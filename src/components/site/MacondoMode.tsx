@@ -94,25 +94,52 @@ type Creature = {
 };
 
 function MacondoFauna() {
-  // Mix of creatures — butterflies most common, hummingbirds and dragonflies less so
+  // Larger, more numerous, more visible creatures.
+  // Butterflies are the stars (García Márquez homage); hummingbirds and dragonflies
+  // add variety. Fireflies appear at random for magical realism flair.
   const creatures: Creature[] = [
-    { id: 0,  type: 'butterfly',   delay: 0,   duration: 22, top: 15, size: 28, path: 0 },
-    { id: 1,  type: 'butterfly',   delay: 5,   duration: 28, top: 45, size: 22, path: 1 },
-    { id: 2,  type: 'butterfly',   delay: 12,  duration: 25, top: 70, size: 32, path: 2 },
-    { id: 3,  type: 'butterfly',   delay: 18,  duration: 30, top: 30, size: 24, path: 0 },
-    { id: 4,  type: 'butterfly',   delay: 25,  duration: 24, top: 60, size: 26, path: 1 },
-    { id: 5,  type: 'hummingbird', delay: 8,   duration: 12, top: 25, size: 20, path: 0 },
-    { id: 6,  type: 'hummingbird', delay: 20,  duration: 14, top: 55, size: 18, path: 1 },
-    { id: 7,  type: 'dragonfly',   delay: 15,  duration: 10, top: 40, size: 30, path: 0 },
-    { id: 8,  type: 'dragonfly',   delay: 30,  duration: 8,  top: 75, size: 26, path: 1 },
+    // Butterflies — 7 of them, larger sizes, spread across the screen
+    { id: 0,  type: 'butterfly',   delay: 0,   duration: 24, top: 12, size: 44, path: 0 },
+    { id: 1,  type: 'butterfly',   delay: 6,   duration: 28, top: 35, size: 38, path: 1 },
+    { id: 2,  type: 'butterfly',   delay: 14,  duration: 22, top: 65, size: 48, path: 2 },
+    { id: 3,  type: 'butterfly',   delay: 20,  duration: 30, top: 22, size: 36, path: 0 },
+    { id: 4,  type: 'butterfly',   delay: 28,  duration: 26, top: 55, size: 42, path: 1 },
+    { id: 5,  type: 'butterfly',   delay: 35,  duration: 24, top: 78, size: 40, path: 2 },
+    { id: 6,  type: 'butterfly',   delay: 42,  duration: 28, top: 45, size: 46, path: 0 },
+    // Hummingbirds — 3, fast and eye-catching
+    { id: 7,  type: 'hummingbird', delay: 8,   duration: 14, top: 18, size: 36, path: 0 },
+    { id: 8,  type: 'hummingbird', delay: 22,  duration: 16, top: 50, size: 32, path: 1 },
+    { id: 9,  type: 'hummingbird', delay: 38,  duration: 13, top: 70, size: 34, path: 0 },
+    // Dragonflies — 3, with sudden darting motion
+    { id: 10, type: 'dragonfly',   delay: 12,  duration: 11, top: 28, size: 48, path: 0 },
+    { id: 11, type: 'dragonfly',   delay: 26,  duration: 9,  top: 60, size: 44, path: 1 },
+    { id: 12, type: 'dragonfly',   delay: 44,  duration: 10, top: 40, size: 46, path: 0 },
   ];
 
   return (
-    <div className="fixed inset-0 z-[60] pointer-events-none" aria-hidden="true">
-      {creatures.map(c => (
-        <CreatureElement key={c.id} creature={c} />
-      ))}
-    </div>
+    <>
+      {/* Subtle golden ambient glow — signals "magic is on" */}
+      <div
+        className="fixed inset-0 z-[55] pointer-events-none"
+        aria-hidden="true"
+        style={{
+          background: 'radial-gradient(ellipse at 50% 0%, rgba(232, 197, 71, 0.08) 0%, transparent 60%)',
+          animation: 'macondo-pulse 8s ease-in-out infinite',
+        }}
+      />
+      {/* Creatures layer */}
+      <div className="fixed inset-0 z-[60] pointer-events-none" aria-hidden="true">
+        {creatures.map(c => (
+          <CreatureElement key={c.id} creature={c} />
+        ))}
+      </div>
+      <style>{`
+        @keyframes macondo-pulse {
+          0%, 100% { opacity: 0.5; }
+          50%      { opacity: 1; }
+        }
+      `}</style>
+    </>
   );
 }
 
@@ -140,7 +167,8 @@ function CreatureElement({ creature: c }: { creature: Creature }) {
 
 // ===== SVG CREATURES =====
 
-// Yellow butterfly — proper 4-wing shape with veins, inspired by García Márquez
+// Yellow butterfly — proper 4-wing shape with veins, inspired by García Márquez.
+// Vivid yellow with dark outline so it's visible on any background.
 function ButterflySVG({ size }: { size: number }) {
   return (
     <svg
@@ -148,50 +176,46 @@ function ButterflySVG({ size }: { size: number }) {
       height={size * 0.85}
       viewBox="0 0 50 42"
       style={{
-        filter: 'drop-shadow(0 2px 4px rgba(201, 169, 97, 0.3))',
+        filter: 'drop-shadow(0 3px 6px rgba(0, 0, 0, 0.4))',
       }}
     >
       <g style={{ animation: 'butterfly-flap 0.25s ease-in-out infinite', transformOrigin: '25px 21px' }}>
+        {/* Dark outline wings (slightly larger) for visibility on any bg */}
+        <path d="M 25 21 Q 7 3 1 13 Q -1 23 7 25 Q 18 26 25 21 Z" fill="#2A1F12" />
+        <path d="M 25 21 Q 43 3 49 13 Q 51 23 43 25 Q 32 26 25 21 Z" fill="#2A1F12" />
+        <path d="M 25 21 Q 13 27 9 37 Q 7 41 14 39 Q 23 34 25 21 Z" fill="#2A1F12" />
+        <path d="M 25 21 Q 37 27 41 37 Q 43 41 36 39 Q 27 34 25 21 Z" fill="#2A1F12" />
         {/* Upper wings — left */}
-        <path
-          d="M 25 21 Q 8 4 3 14 Q 1 22 8 24 Q 18 25 25 21 Z"
-          fill="#E8C547"
-          opacity="0.92"
-        />
+        <path d="M 25 21 Q 8 4 3 14 Q 1 22 8 24 Q 18 25 25 21 Z" fill="#F5D547" />
         {/* Upper wings — right */}
-        <path
-          d="M 25 21 Q 42 4 47 14 Q 49 22 42 24 Q 32 25 25 21 Z"
-          fill="#E8C547"
-          opacity="0.92"
-        />
+        <path d="M 25 21 Q 42 4 47 14 Q 49 22 42 24 Q 32 25 25 21 Z" fill="#F5D547" />
         {/* Lower wings — left */}
-        <path
-          d="M 25 21 Q 14 26 10 36 Q 8 40 14 38 Q 22 33 25 21 Z"
-          fill="#D4A834"
-          opacity="0.88"
-        />
+        <path d="M 25 21 Q 14 26 10 36 Q 8 40 14 38 Q 22 33 25 21 Z" fill="#E8B834" />
         {/* Lower wings — right */}
-        <path
-          d="M 25 21 Q 36 26 40 36 Q 42 40 36 38 Q 28 33 25 21 Z"
-          fill="#D4A834"
-          opacity="0.88"
-        />
+        <path d="M 25 21 Q 36 26 40 36 Q 42 40 36 38 Q 28 33 25 21 Z" fill="#E8B834" />
         {/* Wing veins */}
         <path d="M 25 21 L 5 12 M 25 21 L 45 12 M 25 21 L 12 34 M 25 21 L 38 34"
-              stroke="#B8862F" strokeWidth="0.5" fill="none" opacity="0.4" />
+              stroke="#8B6314" strokeWidth="0.6" fill="none" opacity="0.5" />
+        {/* Small dot decorations on wings */}
+        <circle cx="10" cy="14" r="1.5" fill="#B22222" opacity="0.8" />
+        <circle cx="40" cy="14" r="1.5" fill="#B22222" opacity="0.8" />
+        <circle cx="13" cy="32" r="1" fill="#3D2817" opacity="0.6" />
+        <circle cx="37" cy="32" r="1" fill="#3D2817" opacity="0.6" />
         {/* Body */}
-        <ellipse cx="25" cy="21" rx="1.5" ry="9" fill="#3D2817" />
+        <ellipse cx="25" cy="21" rx="1.8" ry="10" fill="#3D2817" />
         {/* Head */}
-        <circle cx="25" cy="11" r="2" fill="#3D2817" />
+        <circle cx="25" cy="10" r="2.5" fill="#3D2817" />
         {/* Antennae */}
-        <path d="M 25 10 Q 22 6 20 4 M 25 10 Q 28 6 30 4"
-              stroke="#3D2817" strokeWidth="0.5" fill="none" />
+        <path d="M 25 9 Q 22 5 19 3 M 25 9 Q 28 5 31 3"
+              stroke="#3D2817" strokeWidth="0.6" fill="none" />
+        <circle cx="19" cy="3" r="0.8" fill="#3D2817" />
+        <circle cx="31" cy="3" r="0.8" fill="#3D2817" />
       </g>
 
       <style>{`
         @keyframes butterfly-flap {
           0%, 100% { transform: scaleX(1); }
-          50%      { transform: scaleX(0.35); }
+          50%      { transform: scaleX(0.3); }
         }
       `}</style>
     </svg>
@@ -214,7 +238,7 @@ function HummingbirdSVG({ size }: { size: number }) {
       {/* Eye */}
       <circle cx="15" cy="15" r="1" fill="#1a1a1a" />
       {/* Beak */}
-      <path d="M 13 16 L 5 14" stroke="#1a1a1a" strokeWidth="1" stroke-linecap="round" />
+      <path d="M 13 16 L 5 14" stroke="#1a1a1a" strokeWidth="1" strokeLinecap="round" />
       {/* Wings — blurred motion (vibrating fast) */}
       <g style={{ animation: 'hover-wings 0.05s linear infinite', transformOrigin: '22px 16px' }}>
         <ellipse cx="28" cy="14" rx="8" ry="2" fill="#5CB88A" opacity="0.4" />

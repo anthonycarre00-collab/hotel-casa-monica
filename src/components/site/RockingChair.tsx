@@ -7,10 +7,10 @@ export function RockingChair() {
   const { t } = useLang();
 
   return (
-    <div className="flex flex-col items-center gap-2">
+    <div className="flex flex-col items-center gap-1">
       <svg
         viewBox="0 0 200 200"
-        className="w-32 h-32 sm:w-40 sm:h-40 text-[var(--wood)]"
+        className="w-20 h-20 sm:w-24 sm:h-24 text-[var(--wood)]"
         aria-hidden="true"
       >
         <g

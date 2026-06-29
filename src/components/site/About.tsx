@@ -2,6 +2,7 @@
 import { useLang } from '@/lib/i18n';
 import { Reveal, FiligreeDivider, Eyebrow } from './Reveal';
 import { MapPin, Car, Star, Quote, Heart } from 'lucide-react';
+import { RockingChair } from './RockingChair';
 
 export function About() {
   const { t, lang } = useLang();
@@ -108,9 +109,15 @@ export function About() {
         {/* Owners subsection — couple feature photo + individual cards */}
         <Reveal className="mt-20 text-center">
           <Eyebrow>{t('about.owner.title')}</Eyebrow>
-          <h3 className="font-script text-4xl sm:text-5xl text-[var(--terracotta-dark)] mb-2">
-            Fredy <span className="text-[var(--gold)] mx-1">&</span> Mónica
-          </h3>
+          <div className="flex items-center justify-center gap-4 sm:gap-6">
+            {/* Rocking chair — small accent beside the owners title, on light bg */}
+            <div className="hidden sm:block flex-shrink-0">
+              <RockingChair />
+            </div>
+            <h3 className="font-script text-4xl sm:text-5xl text-[var(--terracotta-dark)] mb-2">
+              Fredy <span className="text-[var(--gold)] mx-1">&</span> Mónica
+            </h3>
+          </div>
         </Reveal>
 
         {/* Couple feature photo — the real "them in front of their house" shot */}
