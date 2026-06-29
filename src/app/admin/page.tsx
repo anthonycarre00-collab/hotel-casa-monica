@@ -83,20 +83,25 @@ export default function AdminPage() {
   function login(e: React.FormEvent) {
     e.preventDefault();
     setError('');
+    setLoading(true);
     // Test auth by trying to read a file
     fetch('/api/admin/content?file=hero.json', {
       headers: { 'X-Admin-Password': password },
     })
-      .then(res => {
-        if (!res.ok) throw new Error('Login failed');
-        return res.json();
+      .then(async res => {
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) {
+          throw new Error(data.error || `Login failed (HTTP ${res.status})`);
+        }
+        return data;
       })
       .then(() => {
         sessionStorage.setItem('cm-admin-password', password);
         sessionStorage.setItem('cm-admin-authed', '1');
         setAuthed(true);
       })
-      .catch(err => setError(err.message));
+      .catch(err => setError(err.message))
+      .finally(() => setLoading(false));
   }
 
   function logout() {
