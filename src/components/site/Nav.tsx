@@ -69,13 +69,13 @@ export function Nav() {
           </div>
         </button>
 
-        {/* Desktop nav */}
-        <nav className="hidden lg:flex items-center gap-1">
+        {/* Desktop nav — shows on xl+ to avoid crowding with 11 links */}
+        <nav className="hidden xl:flex items-center gap-0.5">
           {NAV_LINKS.map((l) => (
             <button
               key={l.id}
               onClick={() => scrollTo(l.id)}
-              className="px-3 py-2 text-sm font-medium text-[var(--wood)] hover:text-[var(--terracotta)] transition-colors relative group"
+              className="px-2 py-2 text-[13px] font-medium text-[var(--wood)] hover:text-[var(--terracotta)] transition-colors relative group whitespace-nowrap"
             >
               {t(l.key)}
               <span className="absolute bottom-0 left-1/2 -translate-x-1/2 w-0 h-px bg-[var(--terracotta)] group-hover:w-2/3 transition-all duration-300" />
@@ -85,9 +85,7 @@ export function Nav() {
 
         {/* Right: Macondo mode + language toggle + WhatsApp */}
         <div className="flex items-center gap-2">
-          <div className="hidden sm:block">
-            <MacondoMode />
-          </div>
+          <MacondoMode />
           <button
             onClick={() => {
               const order: Array<'es' | 'en' | 'pt' | 'fr'> = ['es', 'en', 'pt', 'fr'];
@@ -109,7 +107,7 @@ export function Nav() {
           </button>
           <button
             onClick={() => setOpen(!open)}
-            className="lg:hidden p-2 text-[var(--wood)]"
+            className="xl:hidden p-2 text-[var(--wood)]"
             aria-label="Menu"
           >
             {open ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
@@ -117,9 +115,9 @@ export function Nav() {
         </div>
       </div>
 
-      {/* Mobile nav drawer */}
+      {/* Mobile/tablet nav drawer (shows below xl) */}
       {open && (
-        <div className="lg:hidden bg-[var(--cream-50)]/98 backdrop-blur-md border-t border-[var(--border)] mt-2">
+        <div className="xl:hidden bg-[var(--cream-50)]/98 backdrop-blur-md border-t border-[var(--border)] mt-2">
           <nav className="max-w-7xl mx-auto px-4 py-4 grid grid-cols-2 gap-1">
             {NAV_LINKS.map((l) => (
               <button
@@ -131,9 +129,6 @@ export function Nav() {
               </button>
             ))}
           </nav>
-          <div className="px-4 pb-4 pt-2 border-t border-[var(--border)]">
-            <MacondoMode />
-          </div>
         </div>
       )}
     </header>

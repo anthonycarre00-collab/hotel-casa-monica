@@ -80,6 +80,18 @@ export const t: Dict = {
     es: '(Fredy y Mónica, en persona — los dueños de Casa Mónica. ¡Los ves, los sientes, te reciben en la puerta!)',
     en: '(Fredy and Mónica, in person — the owners of Casa Mónica. You see them, you feel them, they welcome you at the door!)'
   },
+
+  // Monica-Melissa — youngest daughter
+  'about.melissa.name':     { es: 'Monica-Melissa',  en: 'Monica-Melissa' },
+  'about.melissa.role':     { es: 'La menor de la casa', en: 'The youngest of the house' },
+  'about.melissa.tagline':  {
+    es: 'La creativa de la familia — y la que más se ríe.',
+    en: 'The creative one in the family — and the one who laughs most.'
+  },
+  'about.melissa.bio':      {
+    es: 'La menor de las cinco hijas de Fredy y Mónica — todas llamadas Mónica. A sus 15 años, Monica-Melissa es la creativa de la casa: la encontrarás dibujando, citando capítulos de Betty la Fea de memoria, o cantándole a su perro Mancha.',
+    en: 'The youngest of Fredy and Mónica\'s five daughters — all named Mónica. At 15, Monica-Melissa is the creative one in the house: you\'ll find her drawing, quoting Betty la Fea episodes from memory, or singing to her dog Mancha.'
+  },
   'about.stats.rating': { es: '9.2 / 10 valoración', en: '9.2 / 10 rating' },
   'about.stats.reviews': { es: '55 reseñas', en: '55 reviews' },
   'about.stats.location': { es: 'A pasos de la Albarrada', en: 'Steps from the Albarrada' },
