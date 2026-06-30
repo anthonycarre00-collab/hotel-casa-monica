@@ -394,3 +394,45 @@
 
 /* Sticky footer helper */
 .site-shell { min-height: 100vh; display: flex; flex-direction: column; }
+
+/* === Monica-Melissa princess sparkle effect === */
+/* Subtle twinkling sparkles around her card — for a young princess */
+@keyframes sparkle-twinkle {
+  0%, 100% { opacity: 0; transform: scale(0.5) rotate(0deg); }
+  50%      { opacity: 1; transform: scale(1) rotate(180deg); }
+}
+.sparkle-card {
+  position: relative;
+  overflow: visible;
+}
+.sparkle-card::before,
+.sparkle-card::after {
+  content: '✦';
+  position: absolute;
+  color: var(--gold);
+  font-size: 14px;
+  pointer-events: none;
+  animation: sparkle-twinkle 3s ease-in-out infinite;
+  text-shadow: 0 0 6px rgba(201, 169, 97, 0.5);
+  z-index: 10;
+}
+.sparkle-card::before {
+  top: -8px;
+  right: 20px;
+  animation-delay: 0s;
+}
+.sparkle-card::after {
+  bottom: -6px;
+  left: 30px;
+  font-size: 10px;
+  animation-delay: 1.5s;
+}
+/* Additional floating sparkles via inner elements */
+.sparkle-dot {
+  position: absolute;
+  color: var(--gold);
+  pointer-events: none;
+  animation: sparkle-twinkle 3s ease-in-out infinite;
+  text-shadow: 0 0 6px rgba(201, 169, 97, 0.5);
+  z-index: 10;
+}

@@ -190,30 +190,42 @@ export function About() {
           ))}
         </div>
 
-        {/* Monica-Melissa — youngest daughter, smaller card */}
-        <Reveal className="mt-6 max-w-sm mx-auto" delay={300}>
-          <article className="group bg-white/80 rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-500 hover:-translate-y-1 flex flex-col sm:flex-row">
-            <div className="relative sm:w-2/5 overflow-hidden bg-[var(--cream-100)] flex-shrink-0">
-              <img
-                src="/owner-monica-melissa.jpg"
-                alt={lang === 'es'
-                  ? 'Monica-Melissa, la menor de la familia Casa Mónica'
-                  : 'Monica-Melissa, the youngest of the Casa Mónica family'}
-                className="w-full h-full object-cover aspect-square sm:aspect-auto group-hover:scale-105 transition-transform duration-700"
-              />
-              <div className="absolute top-3 right-3 w-10 h-10 rounded-full bg-[var(--gold)] flex items-center justify-center font-script text-xl text-white shadow-lg">
-                M
+        {/* Monica-Melissa — youngest daughter, bigger card with princess sparkle effect */}
+        <Reveal className="mt-8 max-w-lg mx-auto" delay={300}>
+          <article className="sparkle-card group bg-white/90 rounded-2xl overflow-visible shadow-lg hover:shadow-2xl transition-all duration-500 hover:-translate-y-1">
+            {/* Floating sparkle dots around the card */}
+            <span className="sparkle-dot" style={{ top: '-10px', left: '15%', fontSize: '12px', animationDelay: '0.5s' }}>✦</span>
+            <span className="sparkle-dot" style={{ top: '5px', right: '10%', fontSize: '9px', animationDelay: '2s' }}>✦</span>
+            <span className="sparkle-dot" style={{ bottom: '10px', right: '20%', fontSize: '11px', animationDelay: '1s' }}>✦</span>
+
+            <div className="rounded-2xl overflow-hidden">
+              {/* Landscape photo on top */}
+              <div className="relative overflow-hidden bg-[var(--cream-100)]">
+                <img
+                  src="/owner-monica-melissa.png"
+                  alt={lang === 'es'
+                    ? 'Monica-Melissa, la menor de la familia Casa Mónica'
+                    : 'Monica-Melissa, the youngest of the Casa Mónica family'}
+                  className="w-full aspect-[2/1] object-cover group-hover:scale-105 transition-transform duration-700"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-[var(--wood)]/30 to-transparent pointer-events-none" />
+                {/* Gold "M" monogram badge */}
+                <div className="absolute top-3 right-3 w-11 h-11 rounded-full bg-[var(--gold)] flex items-center justify-center font-script text-2xl text-white shadow-lg">
+                  M
+                </div>
               </div>
-            </div>
-            <div className="p-5 flex-1 flex flex-col justify-center">
-              <div className="flex items-baseline justify-between gap-2 mb-1">
-                <h4 className="font-serif text-lg text-[var(--wood)]">{t('about.melissa.name')}</h4>
-                <span className="text-[10px] uppercase tracking-wider text-[var(--wood-soft)]">{t('about.melissa.role')}</span>
+
+              {/* Body — text below image */}
+              <div className="p-6">
+                <div className="flex items-baseline justify-between gap-2 mb-2">
+                  <h4 className="font-serif text-xl text-[var(--wood)]">{t('about.melissa.name')}</h4>
+                  <span className="text-[10px] uppercase tracking-wider text-[var(--wood-soft)]">{t('about.melissa.role')}</span>
+                </div>
+                <p className="font-serif italic text-sm leading-snug mb-3 text-[var(--gold)]">
+                  {t('about.melissa.tagline')}
+                </p>
+                <p className="text-sm text-[var(--wood-soft)] leading-relaxed">{t('about.melissa.bio')}</p>
               </div>
-              <p className="font-serif italic text-sm leading-snug mb-2 text-[var(--gold)]">
-                {t('about.melissa.tagline')}
-              </p>
-              <p className="text-xs text-[var(--wood-soft)] leading-relaxed">{t('about.melissa.bio')}</p>
             </div>
           </article>
         </Reveal>
